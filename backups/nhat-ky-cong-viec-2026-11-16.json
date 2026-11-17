@@ -1,0 +1,5058 @@
+{
+  "tasks": [
+    {
+      "id": "g0",
+      "date": "2025-12-17",
+      "cat": "dt",
+      "code": "16294/TB-TTQLNGĐXD-PTN",
+      "docDate": "",
+      "content": "V/v mời tham gia quản lý vận hành Kho lưu trữ 295 Trần Hưng Đạo, Phường 10, Quận 5 (nay là phường Chợ Lớn, Thành phố Hồ Chí Minh)",
+      "isDraft": false
+    },
+    {
+      "id": "g1",
+      "date": "2025-12-17",
+      "cat": "dt",
+      "code": "16299/TB-TTQLNGĐXD-TCHC",
+      "docDate": "",
+      "content": "V/v cung cấp phần mềm diệt virus và phần mềm office bản quyền cho Trung tâm Quản lý nhà và Giám định xây dựng",
+      "isDraft": false
+    },
+    {
+      "id": "g2",
+      "date": "2025-12-17",
+      "cat": "dt",
+      "code": "16322/TB-TTQLNGĐXD-PTN",
+      "docDate": "",
+      "content": "V/v mời Nhà thầu tham gia gói thầu \"Kinh phí mua bảo hiểm cháy nổ bắt buộc các cơ sở nhà, đất năm 2025\" (lần 2)",
+      "isDraft": false
+    },
+    {
+      "id": "g3",
+      "date": "2025-12-16",
+      "cat": "it",
+      "code": "",
+      "docDate": "",
+      "content": "Backup website",
+      "isDraft": false
+    },
+    {
+      "id": "g4",
+      "date": "2025-12-16",
+      "cat": "it",
+      "code": "",
+      "docDate": "",
+      "content": "Hỗ trợ công tác phục hồi dữ liệu",
+      "isDraft": false
+    },
+    {
+      "id": "g5",
+      "date": "2025-12-16",
+      "cat": "it",
+      "code": "",
+      "docDate": "",
+      "content": "Hỗ trợ khắc phục sự có rớt mạng tại phòng TCHC",
+      "isDraft": false
+    },
+    {
+      "id": "g6",
+      "date": "2025-12-16",
+      "cat": "tb",
+      "code": "",
+      "docDate": "",
+      "content": "PTr 748/PTr-TTLT Về việc đề xuất cung cấp ổ cứng lưu trữ dữ liệu phục vụ công tác sao lưu, phục hồi hệ thống sau sự cố tấn công mạng",
+      "isDraft": false
+    },
+    {
+      "id": "g7",
+      "date": "2025-12-16",
+      "cat": "tb",
+      "code": "",
+      "docDate": "",
+      "content": "Kiểm tra, cài đặt phần mềm diệt virus tại các máy của phòng",
+      "isDraft": false
+    },
+    {
+      "id": "g8",
+      "date": "2025-12-16",
+      "cat": "lt",
+      "code": "",
+      "docDate": "",
+      "content": "Hỗ trợ trích lục hồ sơ tại kho 255 (1 PYC)",
+      "isDraft": false
+    },
+    {
+      "id": "g9",
+      "date": "2025-12-16",
+      "cat": "lt",
+      "code": "",
+      "docDate": "",
+      "content": "Hỗ trợ trả hợp đồng thuê nhả vào hồ sơ tương ứng",
+      "isDraft": false
+    },
+    {
+      "id": "g10",
+      "date": "2025-12-16",
+      "cat": "kh",
+      "code": "",
+      "docDate": "",
+      "content": "Tham gia lớp tập huấn sử dụng phần mềm giải quyết thủ tục hành chính",
+      "isDraft": false
+    },
+    {
+      "id": "g11",
+      "date": "2025-12-16",
+      "cat": "kh",
+      "code": "",
+      "docDate": "",
+      "content": "Tham gia tập huấn công tác phòng cháy chữa cháy tại Trung tâm",
+      "isDraft": false
+    },
+    {
+      "id": "g12",
+      "date": "2026-01-07",
+      "cat": "dt",
+      "code": "",
+      "docDate": "",
+      "content": "THÔNG BÁO 74/TB-TTQLNGĐXD-QLVH ngày 06/01/26\nV/v mời các Nhà thầu Tư vấn tham gia công trình “Sửa chữa các căn hộ tại chung cư số 04 Phan Chu Trinh phục vụ tái định cư, tạm cư cho dự án Nạo vét, cải tạo môi trường, xây dựng hạ tầng rạch Xuyên Tâm, dự án Mở rộng, nâng cấp đường Chu Văn An và Chung cư Vĩnh Hội (Lô A, B, C)”",
+      "isDraft": false
+    },
+    {
+      "id": "g13",
+      "date": "2026-01-07",
+      "cat": "dt",
+      "code": "",
+      "docDate": "",
+      "content": "THÔNG BÁO 170/TB-TTQLNGĐXD-QLVH ngày 12/01/26\nV/v mời các đơn vị Tư vấn tham gia công trình “Sửa chữa các căn hộ tại chung cư Lô R7, phường An Khánh, Thành phố Hồ Chí Minh phục vụ tạm cư, tái định cư cho dự án đường Vành đai 2 và các hộ dân có nhà, đất tại Khu đô thị mới Thủ Thiêm”",
+      "isDraft": false
+    },
+    {
+      "id": "g14",
+      "date": "2026-01-07",
+      "cat": "dt",
+      "code": "",
+      "docDate": "",
+      "content": "THÔNG BÁO 171/TB-TTQLNGĐXD-QLVH ngày 12/01/26\nV/v mời các đơn vị Tư vấn tham gia gói thầu “Tư vấn lập E-HSMT và Đánh giá E-HSDT, gói thầu Cung cấp dịch vụ Quản lý vận hành các chung cư tại khu tái định cư Vĩnh Lộc B (30ha)” và gói thầu “Tư vấn thẩm định Kết quả lựa chọn nhà thầu, gói thầu Cung cấp dịch vụ Quản lý vận hành các chung cư tại khu tái định cư Vĩnh Lộc B (30ha)”",
+      "isDraft": false
+    },
+    {
+      "id": "g15",
+      "date": "2026-01-07",
+      "cat": "dt",
+      "code": "",
+      "docDate": "",
+      "content": "THÔNG BÁO 172/TB-TTQLNGĐXD-QLVH ngày 12/01/26\nV/v mời các đơn vị Tư vấn tham gia gói thầu “Tư vấn lập E-HSMT và Đánh giá E-HSDT, gói thầu Cung cấp dịch vụ Quản lý vận hành chung cư 12 tầng” và gói thầu “Tư vấn thẩm định Kết quả lựa chọn nhà thầu, gói thầu Cung cấp dịch vụ Quản lý vận hành chung cư 12 tầng”",
+      "isDraft": false
+    },
+    {
+      "id": "g16",
+      "date": "2026-12-31",
+      "cat": "it",
+      "code": "",
+      "docDate": "",
+      "content": "Backup website",
+      "isDraft": false
+    },
+    {
+      "id": "g17",
+      "date": "2026-01-07",
+      "cat": "it",
+      "code": "",
+      "docDate": "",
+      "content": "Backup website",
+      "isDraft": false
+    },
+    {
+      "id": "g18",
+      "date": "2026-12-31",
+      "cat": "it",
+      "code": "",
+      "docDate": "",
+      "content": "Hỗ trợ công tác phục hồi dữ liệu",
+      "isDraft": false
+    },
+    {
+      "id": "g19",
+      "date": "2026-01-07",
+      "cat": "it",
+      "code": "",
+      "docDate": "",
+      "content": "Hỗ trợ công tác phục hồi dữ liệu",
+      "isDraft": false
+    },
+    {
+      "id": "g20",
+      "date": "2026-12-31",
+      "cat": "lt",
+      "code": "",
+      "docDate": "",
+      "content": "Hỗ trợ trích lục hồ sơ tại kho 255 (2 PYC)",
+      "isDraft": false
+    },
+    {
+      "id": "g21",
+      "date": "2026-01-07",
+      "cat": "lt",
+      "code": "",
+      "docDate": "",
+      "content": "Hỗ trợ trích lục hồ sơ tại kho 255 (17 PYC)",
+      "isDraft": false
+    },
+    {
+      "id": "g22",
+      "date": "2026-12-31",
+      "cat": "lt",
+      "code": "",
+      "docDate": "",
+      "content": "Hỗ trợ trả hợp đồng thuê nhả vào hồ sơ tương ứng",
+      "isDraft": false
+    },
+    {
+      "id": "g23",
+      "date": "2026-01-07",
+      "cat": "lt",
+      "code": "",
+      "docDate": "",
+      "content": "Hỗ trợ trả hợp đồng thuê nhả vào hồ sơ tương ứng",
+      "isDraft": false
+    },
+    {
+      "id": "g24",
+      "date": "2026-01-07",
+      "cat": "lt",
+      "code": "",
+      "docDate": "",
+      "content": "Trả hồ sơ tại kho số 07 Phú Hòa",
+      "isDraft": false
+    },
+    {
+      "id": "g25",
+      "date": "2026-12-31",
+      "cat": "kh",
+      "code": "",
+      "docDate": "",
+      "content": "Tổng hợp phiếu chuyễn cùa các phòng chuyên môn",
+      "isDraft": false
+    },
+    {
+      "id": "g26",
+      "date": "2026-01-07",
+      "cat": "kh",
+      "code": "03/PC-TTLT,",
+      "docDate": "",
+      "content": "hạn: 16/01/26",
+      "isDraft": true
+    },
+    {
+      "id": "g27",
+      "date": "2026-01-16",
+      "cat": "dt",
+      "code": "344/TB-TTQLNGĐXD-PTN",
+      "docDate": "",
+      "content": "THÔNG BÁO Về việc mời tham gia quản lý vận hành Cao ốc 255 Trần Hưng Đạo",
+      "isDraft": false
+    },
+    {
+      "id": "g28",
+      "date": "2026-01-26",
+      "cat": "dt",
+      "code": "527/TB-TTQLNGĐXD-QLVH",
+      "docDate": "",
+      "content": "V/v mời các đơn vị Tư vấn tham gia gói thầu \"Tư vấn lập E-HSMT và Đánh giá E-HSDT, gói thầu Cung cấp dịch vụ Quản lý vận hành các chung cư tại khu tái định cư Vĩnh Lộc B (30ha)\" và gói thầu \"Tư vấn thẩm định Kết quả lựa chọn nhà thầu, gói thầu \"Tư vấn thẩm định Kết quả lựa chọn nhà thầu, gói thầu Cung cấp dịch vụ Quản lý vận hành các chung cư tại khu tái định cư Vĩnh Lộc B (30ha)\" lần 2",
+      "isDraft": false
+    },
+    {
+      "id": "g29",
+      "date": "2026-01-16",
+      "cat": "dt",
+      "code": "350/TB-TTQLNGĐXD-TCHC",
+      "docDate": "",
+      "content": "THÔNG BÁO Về việc chào giá cung cấp dịch vụ tổ chức sát hạch cấp chứng chỉ hành nghề môi giới bất động sản",
+      "isDraft": false
+    },
+    {
+      "id": "g30",
+      "date": "2026-01-26",
+      "cat": "dt",
+      "code": "528/TB-TTQLNGĐXD-QLVH",
+      "docDate": "",
+      "content": "V/v mời các đơn vị Tư vấn tham gia gói thầu \"Tư vấn lập E-HSMT và Đánh giá E-HSDT, gói thầu Cung cấp dịch vụ Quản lý vận hành các chung cư tại khu tái định cư Vĩnh Lộc B (30ha)\" và gói thầu \"Tư vấn thẩm định Kết quả lựa chọn nhà thầu, gói thầu \"Tư vấn thẩm định Kết quả lựa chọn nhà thầu, gói thầu Cung cấp dịch vụ Quản lý vận hành các chung cư tại khu tái định cư Vĩnh Lộc B (30ha)\" lần 2",
+      "isDraft": false
+    },
+    {
+      "id": "g31",
+      "date": "2026-01-14",
+      "cat": "dt",
+      "code": "413/TB-TTQLNGĐXD-TCHC",
+      "docDate": "",
+      "content": "Ngày 19/01/26\nTHÔNG BÁO Về việc mời các đơn vị Tư vấn tham gia gói thầu “Tư vấn lập E-HSMT và Đánh giá E-HSDT, gói thầu Cung cấp dịch vụ tổ chức sát hạch phục vụ cấp chứng chỉ hành nghề môi giới bất động sản” và gói thầu “Tư vấn thẩm định Kết quả lựa chọn nhà thầu, gói thầu Cung cấp dịch vụ tổ chức sát hạch phục vụ cấp chứng chỉ hành nghề môi giới bất động sản”",
+      "isDraft": false
+    },
+    {
+      "id": "g32",
+      "date": "2026-01-27",
+      "cat": "dt",
+      "code": "548/TB-TTQLNGĐXD-PTN",
+      "docDate": "",
+      "content": "Về việc cho thuê nhà ở tại Khu lưu trú công nhân, số 03 đường 12, phường Linh Xuân, Thành phố Hồ Chí Minh",
+      "isDraft": false
+    },
+    {
+      "id": "g33",
+      "date": "2026-01-14",
+      "cat": "dt",
+      "code": "414/TB-TTQLNGĐXD-TCHC",
+      "docDate": "",
+      "content": "Ngày 19/01/26\nTHÔNG BÁO Về việc mời các đơn vị Tư vấn tham gia gói thầu “Tư vấn lập E-HSMT và Đánh giá E-HSDT, gói thầu Cung cấp dịch vụ tổ chức sát hạch phục vụ cấp chứng chỉ hành nghề hoạt động xây dựng” và gói thầu “Tư vấn thẩm định Kết quả lựa chọn nhà thầu, gói thầu Cung cấp dịch vụ tổ chức sát hạch phục vụ cấp chứng chỉ hành nghề hoạt động xây dựng”",
+      "isDraft": false
+    },
+    {
+      "id": "g34",
+      "date": "2026-01-14",
+      "cat": "it",
+      "code": "",
+      "docDate": "",
+      "content": "Backup website",
+      "isDraft": false
+    },
+    {
+      "id": "g35",
+      "date": "2026-01-21",
+      "cat": "it",
+      "code": "",
+      "docDate": "",
+      "content": "Backup website",
+      "isDraft": false
+    },
+    {
+      "id": "g36",
+      "date": "2026-01-14",
+      "cat": "it",
+      "code": "52/PC-TTLT",
+      "docDate": "",
+      "content": "Vv đăng ký cấp tài khoản truy cập sử dụng Cổng dữ liệu Thành phố và Bản đồ số Thành phố",
+      "isDraft": true
+    },
+    {
+      "id": "g37",
+      "date": "2026-01-21",
+      "cat": "it",
+      "code": "57/PTr",
+      "docDate": "",
+      "content": "Ptr cử nhân sự cung cấp dữ liệu",
+      "isDraft": true
+    },
+    {
+      "id": "g38",
+      "date": "2026-01-14",
+      "cat": "lt",
+      "code": "",
+      "docDate": "",
+      "content": "Hỗ trợ trích lục hồ sơ tại kho 255 (11 PYC)",
+      "isDraft": false
+    },
+    {
+      "id": "g39",
+      "date": "2026-01-21",
+      "cat": "lt",
+      "code": "",
+      "docDate": "",
+      "content": "Hỗ trợ trích lục hồ sơ tại kho 255 (9 PYC)",
+      "isDraft": false
+    },
+    {
+      "id": "g40",
+      "date": "2026-01-14",
+      "cat": "lt",
+      "code": "",
+      "docDate": "",
+      "content": "Nhận hồ sơ trả và cất vào hộp",
+      "isDraft": false
+    },
+    {
+      "id": "g41",
+      "date": "2026-01-21",
+      "cat": "lt",
+      "code": "",
+      "docDate": "",
+      "content": "Kiểm tra hồ sơ trả",
+      "isDraft": false
+    },
+    {
+      "id": "g42",
+      "date": "2026-01-14",
+      "cat": "lt",
+      "code": "",
+      "docDate": "",
+      "content": "Trả hồ sơ ở kho 07 Phú Hòa",
+      "isDraft": false
+    },
+    {
+      "id": "g43",
+      "date": "2026-01-21",
+      "cat": "kh",
+      "code": "",
+      "docDate": "",
+      "content": "Tổng hợp các phiếu chuyển chưa nhận phúc đáp",
+      "isDraft": false
+    },
+    {
+      "id": "g44",
+      "date": "2026-01-14",
+      "cat": "kh",
+      "code": "",
+      "docDate": "",
+      "content": "Đăng ký tham gia  CHIẾN DỊCH CHIẾN SĨ XUÂN TÌNH NGUYỆN LẦN THỨ 18, NĂM 2026.",
+      "isDraft": false
+    },
+    {
+      "id": "g45",
+      "date": "2026-01-28",
+      "cat": "dt",
+      "code": "567/TB-TTQLNGĐXD-TCHC",
+      "docDate": "",
+      "content": "Về việc chào giá cung cấp dịch vụ tổ chức sát hạch phục vụ cấp chứng chỉ hành nghề hoạt động xây dựng",
+      "isDraft": false
+    },
+    {
+      "id": "g46",
+      "date": "2026-01-29",
+      "cat": "dt",
+      "code": "643/TB-TTQLNGĐXD-QLVH",
+      "docDate": "",
+      "content": "V/v mời các Nhà thầu Tư vấn tham gia công trình \"Sửa chữa các căn hộ tại Cao ốc B Nguyễn Kim, Phường 7, Quận 10 (nay là phường Diên Hồng) để bố trí tái định cư dự án Nạo vét, cải tạo môi trường, xây dựng hạ tầng rạch Xuyên Tâm (từ kênh Nhiêu Lộc - Thị Nghè đến sông Vàm Thuật)\"",
+      "isDraft": false
+    },
+    {
+      "id": "g47",
+      "date": "2026-01-30",
+      "cat": "dt",
+      "code": "702/TB-TTQLNGĐXD-QLVH",
+      "docDate": "",
+      "content": "TB: Về việc mời các đơn vị Tư vấn tham gia công trình \"Sửa chữa các căn hộ tại Khu tái định cư 30ha Vĩnh Lộc B phục vụ tái định cư cho các dự án đầu tư công trên địa bàn các xã Nhà Bè, xã Tân Nhựt, xã Bà Điểm, xã Xuân Thới Sơn và xã Hưng Long\"",
+      "isDraft": false
+    },
+    {
+      "id": "g48",
+      "date": "2026-01-30",
+      "cat": "dt",
+      "code": "703/TB-TTQLNGĐXD-QLVH",
+      "docDate": "",
+      "content": "TB: Về việc mời các đơn vị Tư vấn tham gia công trình \"Sửa chữa 23 căn hộ và phần sở hữu chung chung cư R6 (khu 3) thuộc Khu tái định cư 38,4ha, phường An Khánh phục vụ tái định cư dự án Nạo vét, cải tạo môi trường, xây dựng hạ tầng rạch Xuyên Tâm (từ kênh Nhiêu Lộc - Thị Nghè đến sông Vàm Thuật)\"",
+      "isDraft": false
+    },
+    {
+      "id": "g49",
+      "date": "2026-01-30",
+      "cat": "dt",
+      "code": "704/TB-TTQLNGĐXD-QLVH",
+      "docDate": "",
+      "content": "TB: Về việc thương thảo hợp đồng, gói thầu số 1 \"Tư vấn lập Báo cáo kinh tế - kỹ thuật sửa chữa các căn hộ tại 04 chung cư\" thuộc công trình \"Sửa chữa các căn hộ tại chung cư 243 Tân Hòa Đông, chung cư 78 Tân Hòa Đông, chung cư C9 Lý Thường Kiệt và chung cư Nhiêu Lộc C để bố trí tạm cư cho các hộ dân tại Chung cư Vĩnh Hội (lô A, B, C), phường 9, Quận 4 (nay là phường Khánh Hội)\"",
+      "isDraft": false
+    },
+    {
+      "id": "g50",
+      "date": "2026-01-30",
+      "cat": "dt",
+      "code": "711/TB-TTQLNGĐXD-QLVH",
+      "docDate": "",
+      "content": "TB: Về việc mời các nhà thầu Tư vấn Giám sát tham gia công trình \"Sửa chữa các căn hộ tại Chung cư Mỹ Kim, phường Hiệp Bình Chánh, Thành phố Thủ Đức (nay là phường Hiệp Bình, thành phố Hố Chí Minh) phục vụ tái định cư cho dự án Nạo vét, cải tạo, môi trường xây dựng hạ tầng Rạch Xuyên Tâm (từ kênh Nhiêu Lộc - Thị Nghè đến sông Vàm Thuật)\"",
+      "isDraft": false
+    },
+    {
+      "id": "g51",
+      "date": "2026-01-30",
+      "cat": "dt",
+      "code": "712/TB-TTQLNGĐXD-QLVH",
+      "docDate": "",
+      "content": "V/v mời các Nhà thầu Tư vấn Giám sát tham gia công trình \"Sửa chữa căn hộ tại chung cư An Sương, phường Trung Mỹ Tây, Thành phố Hồ Chí Minh phục vụ tái định cư cho dự án Nạo vét, cải tạo, môi trường xây dựng hạ tầng rạch Xuyên Tâm (từ Kênh Nhiêu Lộc - Thị Nghè đến sông Vàm Thuật)\"",
+      "isDraft": false
+    },
+    {
+      "id": "g52",
+      "date": "2026-01-28",
+      "cat": "it",
+      "code": "",
+      "docDate": "",
+      "content": "Backup website",
+      "isDraft": false
+    },
+    {
+      "id": "g53",
+      "date": "2026-02-04",
+      "cat": "it",
+      "code": "",
+      "docDate": "",
+      "content": "Backup website",
+      "isDraft": false
+    },
+    {
+      "id": "g54",
+      "date": "2026-02-04",
+      "cat": "it",
+      "code": "",
+      "docDate": "",
+      "content": "Hỗ trợ công tác phục hồi dữ liệu",
+      "isDraft": false
+    },
+    {
+      "id": "g55",
+      "date": "2026-02-04",
+      "cat": "it",
+      "code": "",
+      "docDate": "",
+      "content": "Hỗ trợ cài đặt chữ ký số tại Trung tâm",
+      "isDraft": false
+    },
+    {
+      "id": "g56",
+      "date": "2026-02-04",
+      "cat": "it",
+      "code": "",
+      "docDate": "",
+      "content": "Công văn, 162/PC-TTLT Vv đăng ký tài khoản Trios",
+      "isDraft": false
+    },
+    {
+      "id": "g57",
+      "date": "2026-01-28",
+      "cat": "lt",
+      "code": "",
+      "docDate": "",
+      "content": "Hỗ trợ trích lục hồ sơ tại kho 255 (5 PYC)",
+      "isDraft": false
+    },
+    {
+      "id": "g58",
+      "date": "2026-02-04",
+      "cat": "lt",
+      "code": "",
+      "docDate": "",
+      "content": "Hỗ trợ trích lục hồ sơ tại kho 255 (2 PYC)",
+      "isDraft": false
+    },
+    {
+      "id": "g59",
+      "date": "2026-01-28",
+      "cat": "lt",
+      "code": "",
+      "docDate": "",
+      "content": "Hỗ trợ trả hợp đồng thuê nhả vào hồ sơ tương ứng",
+      "isDraft": false
+    },
+    {
+      "id": "g60",
+      "date": "2026-02-04",
+      "cat": "lt",
+      "code": "",
+      "docDate": "",
+      "content": "Hỗ trợ trả hợp đồng thuê nhả vào hồ sơ tương ứng",
+      "isDraft": false
+    },
+    {
+      "id": "g61",
+      "date": "2026-02-04",
+      "cat": "lt",
+      "code": "",
+      "docDate": "",
+      "content": "Trả hồ sơ tại kho số 07 Phú Hòa",
+      "isDraft": false
+    },
+    {
+      "id": "g62",
+      "date": "2026-01-28",
+      "cat": "kh",
+      "code": "88/PC-TTLT",
+      "docDate": "",
+      "content": "vv chuyển xử lý công văn số 53/KTHTĐT ngày 28 tháng 01 năm 2026",
+      "isDraft": true
+    },
+    {
+      "id": "g63",
+      "date": "2026-02-11",
+      "cat": "dt",
+      "code": "921/TB-TTQLNGĐXD-QLKTCT",
+      "docDate": "",
+      "content": "Về việc mời tham gia kiểm định thang máy tại Cao ốc 255 Trần Hưng Đạo",
+      "isDraft": false
+    },
+    {
+      "id": "g64",
+      "date": "2026-02-11",
+      "cat": "it",
+      "code": "",
+      "docDate": "",
+      "content": "Backup website",
+      "isDraft": false
+    },
+    {
+      "id": "g65",
+      "date": "2026-02-11",
+      "cat": "it",
+      "code": "",
+      "docDate": "",
+      "content": "Hỗ trợ công tác phục hồi dữ liệu",
+      "isDraft": false
+    },
+    {
+      "id": "g66",
+      "date": "2026-02-11",
+      "cat": "lt",
+      "code": "",
+      "docDate": "",
+      "content": "Hỗ trợ trích lục hồ sơ tại kho 255 (2 PYC)",
+      "isDraft": false
+    },
+    {
+      "id": "g67",
+      "date": "2026-02-11",
+      "cat": "lt",
+      "code": "",
+      "docDate": "",
+      "content": "Trả hồ sơ ở kho 07 Phú Hòa, 04 Đông Sơn",
+      "isDraft": false
+    },
+    {
+      "id": "g68",
+      "date": "2026-03-02",
+      "cat": "dt",
+      "code": "1107/TB-TTQLNGĐXD-GĐXD",
+      "docDate": "",
+      "content": "Về việc tham gia thầu phụ cho gói thầu “Giám định công trình A2, Khu du lịch Sơn Tiên, Quốc lộ 51, Khu phố 4, phường An Hòa, TP. Biên Hòa (nay là phường Long Hưng), tỉnh Đồng Nai”",
+      "isDraft": false
+    },
+    {
+      "id": "g69",
+      "date": "2026-03-04",
+      "cat": "dt",
+      "code": "1411/TB-TTQLNGĐXD-GĐXD",
+      "docDate": "",
+      "content": "Về việc mời đơn vị thẩm định giá tài sản, công cụ dụng cụ làm cơ sở thanh lý",
+      "isDraft": false
+    },
+    {
+      "id": "g70",
+      "date": "2026-02-25",
+      "cat": "it",
+      "code": "",
+      "docDate": "",
+      "content": "Backup website",
+      "isDraft": false
+    },
+    {
+      "id": "g71",
+      "date": "2026-03-04",
+      "cat": "it",
+      "code": "",
+      "docDate": "",
+      "content": "Backup website",
+      "isDraft": false
+    },
+    {
+      "id": "g72",
+      "date": "2026-02-25",
+      "cat": "it",
+      "code": "",
+      "docDate": "",
+      "content": "Cài đặt chữ ký số",
+      "isDraft": false
+    },
+    {
+      "id": "g73",
+      "date": "2026-03-04",
+      "cat": "it",
+      "code": "",
+      "docDate": "",
+      "content": "Hỗ trợ cài đặt chữ ký số",
+      "isDraft": false
+    },
+    {
+      "id": "g74",
+      "date": "2026-02-25",
+      "cat": "lt",
+      "code": "",
+      "docDate": "",
+      "content": "Hỗ trợ trích lục hồ sơ tại kho 255 (2 PYC)",
+      "isDraft": false
+    },
+    {
+      "id": "g75",
+      "date": "2026-03-04",
+      "cat": "lt",
+      "code": "",
+      "docDate": "",
+      "content": "Kiểm tra hồ sơ tại số 7 PH",
+      "isDraft": false
+    },
+    {
+      "id": "g76",
+      "date": "2026-02-25",
+      "cat": "lt",
+      "code": "",
+      "docDate": "",
+      "content": "Hỗ trợ trả hợp đồng thuê nhả vào hồ sơ tương ứng",
+      "isDraft": false
+    },
+    {
+      "id": "g77",
+      "date": "2026-03-04",
+      "cat": "lt",
+      "code": "",
+      "docDate": "",
+      "content": "Trả hồ sơ tại 255 THĐ",
+      "isDraft": false
+    },
+    {
+      "id": "g78",
+      "date": "2026-02-25",
+      "cat": "lt",
+      "code": "",
+      "docDate": "",
+      "content": "Kiểm tra công văn 2025 kho số 7 (10 hộp)",
+      "isDraft": false
+    },
+    {
+      "id": "g79",
+      "date": "2026-03-11",
+      "cat": "dt",
+      "code": "",
+      "docDate": "",
+      "content": "THÔNG BÁO 1509/TB-TTQLNGĐXD-TVXD 09/03/26\nV/v mời các đơn vị Tư vấn tham gia công trình “Sửa chữa các căn hộ tại Khu tái định cư 30ha Vĩnh Lộc B phục vụ tái định cư, tạm cư cho các dự án đầu tư công trên địa bàn các xã Nhà Bè, Tân Nhựt, Bà Điểm, Xuân Thới Sơn, Hưng Long và các phường Chánh Hưng, Bình Đông, Phú Định” (lần 2)",
+      "isDraft": false
+    },
+    {
+      "id": "g80",
+      "date": "2026-03-17",
+      "cat": "dt",
+      "code": "1723/TB-TTQLNGĐXD-GĐXD",
+      "docDate": "",
+      "content": "V/v công bố thông tin năng lực đủ điều kiện hoạt động thí nghiệm chuyên ngành xây dựng",
+      "isDraft": false
+    },
+    {
+      "id": "g81",
+      "date": "2026-03-11",
+      "cat": "dt",
+      "code": "1693/TB-TTQLNGĐXD-QLKTCT",
+      "docDate": "",
+      "content": "Về việc mời chào giá chi phí quản lý vận hành Cao ốc 255 Trần Hưng Đạo",
+      "isDraft": false
+    },
+    {
+      "id": "g82",
+      "date": "2026-03-18",
+      "cat": "dt",
+      "code": "1772/TB-TTQLNGĐXD-TCHC",
+      "docDate": "",
+      "content": "V/v đề xuất ký duyệt và phát hành thông báo mời đơn vị thẩm định giá tài sản, công cụ dụng cụ thanh lý tại Trung tâm (lần 2)",
+      "isDraft": false
+    },
+    {
+      "id": "g83",
+      "date": "2026-03-11",
+      "cat": "dt",
+      "code": "1634/TB-TTQLNGĐXD-QLKTCT",
+      "docDate": "",
+      "content": "Về việc mời chào giá chi phí quản lý vận hành số 295 Trần Hưng Đạo",
+      "isDraft": false
+    },
+    {
+      "id": "g84",
+      "date": "2026-03-17",
+      "cat": "dt",
+      "code": "1714/TB-TTQLNGĐXD-QLKTCT",
+      "docDate": "",
+      "content": "Về việc mời chào giá chi phí quản lý vận hành Khu lưu trú công nhân",
+      "isDraft": false
+    },
+    {
+      "id": "g85",
+      "date": "2026-03-20",
+      "cat": "dt",
+      "code": "1898/TB-TTQLNGĐXD-TCHC",
+      "docDate": "",
+      "content": "Về việc mời báo giá chi phí cho thuê máy photocopy phục vụ Trung tâm Quản lý nhà và Giám định xây dựng",
+      "isDraft": false
+    },
+    {
+      "id": "g86",
+      "date": "2026-03-23",
+      "cat": "dt",
+      "code": "1902/TB-TTQLNGĐXD-QLVH",
+      "docDate": "",
+      "content": "V/v mời các đơn vị Tư vấn tham gia công trình \"Sửa chữa các căn hộ tại chung cư 243 Tân Hòa Đông, chung cư 78 Tân Hòa Đông, chung cư C9 Lý Thường Kiệt, chung cư Lô S Hùng Vương, chung cư Nhiêu Lộc B, chung cư Nhiêu Lộc C, chung cư Nguyễn Văn Lượng và chung cư Dương Quảng Hàm để bố trí tạm cư cho các hộ dân tại Chung cư Vĩnh Hội (lô A, B, C), phường Khánh Hội)\"",
+      "isDraft": false
+    },
+    {
+      "id": "g87",
+      "date": "2026-03-23",
+      "cat": "dt",
+      "code": "1912/TB-TTQLNGĐXD-QLVH",
+      "docDate": "",
+      "content": "Thông báo mời các đơn vị Tư vấn tham gia gói thầu \"Tư vấn lập Báo cáo kinh tế - kỹ thuật\" và gói thầu \"Tư vấn thẩm tra Báo cáo kinh tế - kỹ thuật\" thuộc công trình \"Sửa chữa các căn hộ tại Chung cư 3A đường Xa lộ Hà Nội, phường Hiệp Phú (nay là phường Tăng Nhơn Phú), Thành phố Hồ Chí Minh để bố trí tái định cư dự án Nạo vét, cải tạo môi trường, xây dựng hạ tầng rạch Xuyên Tâm (từ kênh Nhiêu Lộc - Thị Nghè đến sông Vàm Thuật)\"",
+      "isDraft": false
+    },
+    {
+      "id": "g88",
+      "date": "2026-03-11",
+      "cat": "it",
+      "code": "",
+      "docDate": "",
+      "content": "Backup website",
+      "isDraft": false
+    },
+    {
+      "id": "g89",
+      "date": "2026-03-18",
+      "cat": "it",
+      "code": "",
+      "docDate": "",
+      "content": "Backup, Chỉnh sửa website",
+      "isDraft": false
+    },
+    {
+      "id": "g90",
+      "date": "2026-03-11",
+      "cat": "it",
+      "code": "1579/TTQLNGĐXD-TTLT",
+      "docDate": "",
+      "content": "Về việc đăng ký nhu cầu sử dụng ảnh viễn thám năm 2026",
+      "isDraft": true
+    },
+    {
+      "id": "g91",
+      "date": "2026-03-18",
+      "cat": "it",
+      "code": "",
+      "docDate": "",
+      "content": "Dự thảo dự toán bảo trì nâng cấp server hằng năm",
+      "isDraft": false
+    },
+    {
+      "id": "g92",
+      "date": "2026-03-18",
+      "cat": "it",
+      "code": "",
+      "docDate": "",
+      "content": "Phối hợp với phòng TCHC triển khai cài đặt phần mềm An ninh mạng",
+      "isDraft": false
+    },
+    {
+      "id": "g93",
+      "date": "2026-03-18",
+      "cat": "it",
+      "code": "",
+      "docDate": "",
+      "content": "Hỗ trợ cài đặt chữ ký số tại Trung tâm",
+      "isDraft": false
+    },
+    {
+      "id": "g94",
+      "date": "2026-03-23",
+      "cat": "tb",
+      "code": "167/PC-TTLT",
+      "docDate": "",
+      "content": "Về việc giới thiệu nhân sự tham gia tổ kiểm kê và thanh lý tài sản",
+      "isDraft": true
+    },
+    {
+      "id": "g95",
+      "date": "2026-03-11",
+      "cat": "lt",
+      "code": "",
+      "docDate": "",
+      "content": "Hỗ trợ kiểm tra và trả hồ sơ tại kho 255 THD",
+      "isDraft": false
+    },
+    {
+      "id": "g96",
+      "date": "2026-03-24",
+      "cat": "dt",
+      "code": "1948/TB-TTQLNGĐXD-QLVH",
+      "docDate": "",
+      "content": "V/v mời các đơn vị Tư vấn tham gia công trình \"Sửa chữa các căn hộ tại chung cư Khang Gia, phường An Hội Tây, Thành phố Hồ Chí Minh\"",
+      "isDraft": false
+    },
+    {
+      "id": "g97",
+      "date": "2026-03-25",
+      "cat": "dt",
+      "code": "1987/TB-TTQLNGĐXD-TVXD",
+      "docDate": "",
+      "content": "V/v mời các đơn vị Tư vấn tham gia công trình \"Sửa chữa các căn hộ tại chung cư Lô R7, phường An Khánh, Thành phố Hồ Chí Minh\"",
+      "isDraft": false
+    },
+    {
+      "id": "g98",
+      "date": "2026-03-24",
+      "cat": "dt",
+      "code": "1943/TB-TTQLNGĐXD-QLKTCT",
+      "docDate": "",
+      "content": "V/v chấp thuận chủ trương thực hiện và ký ban hành thông báo về việc mời các đơn vị tham gia báo giá chi phí bảo vệ cơ sở nhà đất công sản khu vực tỉnh Bà Rịa - Vũng Tàu (cũ)",
+      "isDraft": false
+    },
+    {
+      "id": "g99",
+      "date": "2026-03-27",
+      "cat": "dt",
+      "code": "2125/TB-TTQLNGĐXD-QLKTCT",
+      "docDate": "",
+      "content": "Về việc mời các đơn vị tham gia báo giá kinh phí thẩm định giá để xác định giá thuê sàn thương mại chung cư Tân Mỹ",
+      "isDraft": false
+    },
+    {
+      "id": "g100",
+      "date": "2026-03-25",
+      "cat": "it",
+      "code": "",
+      "docDate": "",
+      "content": "Backup website",
+      "isDraft": false
+    },
+    {
+      "id": "g101",
+      "date": "2026-03-25",
+      "cat": "it",
+      "code": "179/PTr-TTLT",
+      "docDate": "",
+      "content": "Về việc cử nhân sự tham gia Tổ công tác xây dựng Phần mềm quản lý quỹ nhà ở, đất ở thuộc tài sản công phục vụ tái định cư",
+      "isDraft": true,
+      "outNo": "2006/TTQLNGĐXD-TTLT",
+      "outDate": "2026-03-26",
+      "sg": "ky"
+    },
+    {
+      "id": "g102",
+      "date": "2026-03-27",
+      "cat": "it",
+      "code": "180/PTr-TTLT",
+      "docDate": "",
+      "content": "Về việc góp ý đối với dự thảo văn bản triển khai thực hiện chế độ hỗ trợ theo Nghị quyết số 02/2026/NQ-HĐND của Sở Khoa học và Công nghệ",
+      "isDraft": true
+    },
+    {
+      "id": "g103",
+      "date": "2026-03-27",
+      "cat": "it",
+      "code": "181/PTr-TTLT",
+      "docDate": "",
+      "content": "Về việc góp ý Kế hoạch triển khai thực hiện Kế hoạch hành động số 19-KH/TU ngày 09/12/2025 của Thành ủy về thực hiện Nghị quyết số 57-NQ/TW ngày 22/12/2024 của Bộ Chính trị về đột phá phát triển khoa học, công nghệ, đổi mới sáng tạo và chuyển đổi số quốc gia",
+      "isDraft": true
+    },
+    {
+      "id": "g104",
+      "date": "2026-03-30",
+      "cat": "it",
+      "code": "185/PTr-TTLT",
+      "docDate": "",
+      "content": "Về việc triển khai Kế hoạch số 26-KH/BCĐTP ngày 13/02/2026 của Ban Chỉ đạo về phát triển khoa học, công nghệ, đổi mới sáng tạo, chuyển đổi số Thành phố",
+      "isDraft": true
+    },
+    {
+      "id": "g105",
+      "date": "2026-03-25",
+      "cat": "it",
+      "code": "",
+      "docDate": "",
+      "content": "Dự họp theo 964/GM-SXD-VP 25/03/26",
+      "isDraft": false
+    },
+    {
+      "id": "g106",
+      "date": "2026-03-25",
+      "cat": "it",
+      "code": "",
+      "docDate": "",
+      "content": "Khảo sát và lập dự toán bảo trì bảo dưỡng server hằng năm",
+      "isDraft": false
+    },
+    {
+      "id": "g107",
+      "date": "2026-03-25",
+      "cat": "lt",
+      "code": "",
+      "docDate": "",
+      "content": "Hỗ trợ trích lục hồ sơ tại kho 255 (4 PYC)",
+      "isDraft": false
+    },
+    {
+      "id": "g108",
+      "date": "2026-04-01",
+      "cat": "dt",
+      "code": "2259/TB-TTQLNGĐXD-QLVH",
+      "docDate": "",
+      "content": "V/v mời các đơn vị Tư vấn tham gia gói thầu \"Tư vấn lập Báo cáo kinh tế - kỹ thuật\" và gói thầu \"Tư vấn thẩm tra Báo cáo kinh tế - kỹ thuật\" thuộc công trình \"Sửa chữa các căn hộ tại chung cư Lô D, phường Thạnh Mỹ Tây, Thành phố Hồ Chí Minh để bố trí tái định cư dự án Nạo vét, cải tạo môi trường, xây dựng hạ tầng rạch Xuyên Tâm; dự án Nạo vét, cải tạo môi trường, xây dựng hạ tầng rạch Văn Thánh; dự án Mở rộng nâng cấp Chu Văn An và dự án xây dựng kiên cố tuyến kè Thanh Đa\"",
+      "isDraft": false
+    },
+    {
+      "id": "g109",
+      "date": "2026-04-08",
+      "cat": "dt",
+      "code": "2512/TB-TTQLNGĐXD-QLVH",
+      "docDate": "",
+      "content": "Về việc mời chào giá cung cấp dịch vụ bảo vệ tại Chung cư tái định cư Đông Quốc lộ 56, phường Bà Rịa, Thành phố Hồ Chí Minh do Trung tâm Quản lý nhà và Giám định xây dựng quản lý",
+      "isDraft": false
+    },
+    {
+      "id": "g110",
+      "date": "2026-04-03",
+      "cat": "dt",
+      "code": "2380/TB-TTQLNGĐXD-QLVH",
+      "docDate": "",
+      "content": "V/v mời nhà thầu khảo sát, báo giá sửa chữa các hư hỏng thuộc hệ thống chống sét tại Chung cư Lô C8 đường Man Thiện, phường Tăng Nhơn Phú, Thành phố Hồ Chí Minh",
+      "isDraft": false
+    },
+    {
+      "id": "g111",
+      "date": "2026-04-10",
+      "cat": "dt",
+      "code": "2554/TB-TTQLNGĐXD-QLKTCT",
+      "docDate": "",
+      "content": "Thông báo về việc mời các đơn vị tham gia báo giá kinh phí Quản lý vận hành số 7 Phú Hòa",
+      "isDraft": false
+    },
+    {
+      "id": "g112",
+      "date": "2026-04-03",
+      "cat": "dt",
+      "code": "2399/TB-TTQLNGĐXD-QLKTCT",
+      "docDate": "",
+      "content": "Về việc mời các đơn vị tham gia báo giá kinh phí dịch vụ bảo vệ tại các cơ sở nhà, đất là tài sản công không sử dụng mục đích để ở Trung tâm đang quản lý năm 2026",
+      "isDraft": false
+    },
+    {
+      "id": "g113",
+      "date": "2026-04-14",
+      "cat": "dt",
+      "code": "2642/TB-TTQLNGĐXD-QLKTCT",
+      "docDate": "",
+      "content": "Về việc mời các đơn vị tham gia báo giá gói thầu Cung cấp dịch vụ bảo vệ cơ sở nhà, đất số 117-119-121-123 Lê Thánh Tôn, phường Sài Gòn",
+      "isDraft": false
+    },
+    {
+      "id": "g114",
+      "date": "2026-04-06",
+      "cat": "dt",
+      "code": "2404/TB-TTQLNGĐXD-QLVH",
+      "docDate": "",
+      "content": "Về việc mời nhà thầu khảo sát, báo giá sửa chữa các hư hỏng thuộc hệ thống thang máy tại Lô 1 Chung cư Phú Thọ (Khu A), phường Phú Thọ, Thành phố Hồ Chí Minh",
+      "isDraft": false
+    },
+    {
+      "id": "g115",
+      "date": "2026-04-14",
+      "cat": "dt",
+      "code": "2667/TB-TTQLNGĐXD-QLVH",
+      "docDate": "",
+      "content": "V/v mời các Nhà thầu tham gia các công trình sửa chữa quỹ nhà ở thuộc tài sản công để bố trí tái định cư, tạm cư cho các hộ dân bị ảnh hưởng bởi các dự án trên địa bàn Thành phố",
+      "isDraft": false
+    },
+    {
+      "id": "g116",
+      "date": "2026-04-07",
+      "cat": "dt",
+      "code": "2437/TB-TTQLNGĐXD-GĐXD",
+      "docDate": "",
+      "content": "Về việc mời các đơn vị Tư vấn tham gia gói thầu \"Tư vấn lập hồ sơ mời thầu, đánh giá hồ sơ dự thầu\" thuộc công trình Kiểm định, đánh giá chất lượng cụm chung cư Ngô Gia Tự, phường Vườn Lài, Thành phố Hồ Chí Minh (trước đây là Phường 2, Quận 10)",
+      "isDraft": false
+    },
+    {
+      "id": "g117",
+      "date": "2026-04-07",
+      "cat": "dt",
+      "code": "2439/TB-TTQLNGĐXD-GĐXD",
+      "docDate": "",
+      "content": "Về việc mời các đơn vị Tư vấn tham gia gói thầu \"Tư vấn thẩm định hồ sơ mời thầu, kết quả lựa chọn nhà thầu \" thuộc công trình Kiểm định, đánh giá chất lượng cụm chung cư Ngô Gia Tự, phường Vườn Lài, Thành phố Hồ Chí Minh (trước đây là Phường 2, Quận 10)",
+      "isDraft": false
+    },
+    {
+      "id": "g118",
+      "date": "2026-04-06",
+      "cat": "dt",
+      "code": "2428/TB-TTQLNGĐXD-QLKTCT",
+      "docDate": "",
+      "content": "Về việc mời các đơn vị tham gia gói thầu cung cấp dịch vụ bảo vệ, vệ sinh 02 tháng tại Kho lưu trữ số 07 Phú Hòa, phường Tân Sơn Nhất",
+      "isDraft": false
+    },
+    {
+      "id": "g119",
+      "date": "2026-04-01",
+      "cat": "it",
+      "code": "",
+      "docDate": "",
+      "content": "Cập nhật hồ sơ năng lực của phòng thí nghiệm, backup website",
+      "isDraft": false
+    },
+    {
+      "id": "g120",
+      "date": "2026-04-08",
+      "cat": "it",
+      "code": "207/PTr-TTLT",
+      "docDate": "",
+      "content": "Về tham gia góp ý Kế hoạch thực hiện Chuyển đổi số và phát triển đô thị thông minh năm 2026 tại Sở Xây dựng Thành phố Hồ Chí Minh",
+      "isDraft": true,
+      "outNo": "2486/TTQLNGĐXD-TTLT",
+      "outDate": "2026-04-08",
+      "sg": "ky"
+    },
+    {
+      "id": "g121",
+      "date": "2026-04-01",
+      "cat": "it",
+      "code": "",
+      "docDate": "",
+      "content": "Dự họp về cung cấp thông tin vào kho CSDL dùng chung tại 63 Lý Tự Trọng",
+      "isDraft": false
+    },
+    {
+      "id": "g122",
+      "date": "2026-04-01",
+      "cat": "it",
+      "code": "",
+      "docDate": "",
+      "content": "Dự họp về Phần mềm Quản lý Tái định cư tại UBND Thành phố",
+      "isDraft": false
+    },
+    {
+      "id": "g123",
+      "date": "2026-04-01",
+      "cat": "it",
+      "code": "193/PTr-TTLT",
+      "docDate": "",
+      "content": "Ngày: 01/04/2026 Về cung cấp thông tin về hợp tác khoa học, công nghệ, đổi mới sáng tạo và chuyển đổi số trong các hoạt động đối ngoại",
+      "isDraft": true,
+      "outNo": "2351/TTQLNGĐXD-TTLT",
+      "outDate": "2026-04-03",
+      "sg": "ky"
+    },
+    {
+      "id": "g124",
+      "date": "2026-04-06",
+      "cat": "it",
+      "code": "204/PTr-TTLT",
+      "docDate": "",
+      "content": "Về tham gia ý kiến về dự thảo Quyết định ban hành Quy chế tạo lập, quản lý, vận hành và khai thác Hệ thống thông tin, Cơ sở dữ liệu quốc gia về hoạt động xây dựng ( Cv số 2431/TTQLNGĐXD-TTLT ngày 07/04/2026)",
+      "isDraft": true
+    },
+    {
+      "id": "g125",
+      "date": "2026-04-01",
+      "cat": "lt",
+      "code": "",
+      "docDate": "",
+      "content": "Hỗ trợ trích lục hồ sơ tại kho 255 (4 PYC)",
+      "isDraft": false
+    },
+    {
+      "id": "g126",
+      "date": "2026-04-01",
+      "cat": "kh",
+      "code": "",
+      "docDate": "",
+      "content": "Thu lệ phí hoạt động Đoàn",
+      "isDraft": false
+    },
+    {
+      "id": "g127",
+      "date": "2026-04-15",
+      "cat": "dt",
+      "code": "2773/TB-TTQLNGĐXD-TSH",
+      "docDate": "",
+      "content": "THÔNG BÁO Về việc mời các đơn vị Tư vấn tham gia gói thầu \"Đánh giá E-HSDT, gói thầu Cung cấp dịch vụ tổ chức sát hạch phục vụ cấp chứng chỉ hành nghề môi giới bất động sản\"",
+      "isDraft": false
+    },
+    {
+      "id": "g128",
+      "date": "2026-04-21",
+      "cat": "dt",
+      "code": "3040/TB-TTQLNGĐXD-QLKTCT",
+      "docDate": "",
+      "content": "Về việc mời các đơn vị tham gia báo giá gói thầu \"Thẩm định giá để xác định giá thuê các sàn thương mại trong nhà chung cư tái định cư (đợt 01)\"",
+      "isDraft": false
+    },
+    {
+      "id": "g129",
+      "date": "2026-04-15",
+      "cat": "dt",
+      "code": "2768/TB-TTQLNGĐXD-QLVH",
+      "docDate": "",
+      "content": "Về việc Sửa chữa Căn hộ số 6.09 Lô C5, chung cư Khang Gia, phường An Hội Tây",
+      "isDraft": false
+    },
+    {
+      "id": "g130",
+      "date": "2026-04-21",
+      "cat": "dt",
+      "code": "3044/TB-TTQLNGĐXD-QLKTCT",
+      "docDate": "",
+      "content": "Về việc gia hạn thông báo mời các đơn vị tham gia báo giá kinh phí Quản lý vận hành số 7 Phú Hòa",
+      "isDraft": false
+    },
+    {
+      "id": "g131",
+      "date": "2026-04-16",
+      "cat": "dt",
+      "code": "2824/TB-TTQLNGĐXD-QLKTCT",
+      "docDate": "",
+      "content": "Về việc mời tham gia tư vấn đấu thầu cho gói thầu \"Bảo vệ cơ sở nhà đất công sản khu vực tỉnh Bà Rịa - Vũng Tàu (cũ)\" thuộc dự toán mua sắm \"Kinh phí quản lý vận hành, bảo dưỡng, sửa chữa quỹ nhà, đất là tài sản công không sử dụng mục đích để ở năm 2026\"",
+      "isDraft": false
+    },
+    {
+      "id": "g132",
+      "date": "2026-04-23",
+      "cat": "dt",
+      "code": "3415/TB-TTQLNGĐXD-GĐXD",
+      "docDate": "",
+      "content": "Về việc tham gia thầu phụ thực hiện kiểm định chất lượng chung cư Nguyễn Văn Lượng 3, số 352 Thống Nhất, phường An Hội Đông, Thành phố Hồ Chí Minh",
+      "isDraft": false
+    },
+    {
+      "id": "g133",
+      "date": "2026-04-17",
+      "cat": "dt",
+      "code": "2883/TB-TTQLNGĐXD-QLVH",
+      "docDate": "",
+      "content": "V/v mời các đơn vị Tư vấn tham gia gói thầu \"Tư vấn lập Báo cáo kinh tế - kỹ thuật\" và gói thầu \"Tư vấn thẩm tra Báo cáo kinh tế - kỹ thuật\" thuộc công trình \"Sửa chữa các căn hộ tại Chung cư Lô R6 (khu 3) thuộc Khu tái định cư 38,4ha, phường An Khánh, Thành phố Hồ Chí Minh\"",
+      "isDraft": false
+    },
+    {
+      "id": "g134",
+      "date": "2026-04-20",
+      "cat": "dt",
+      "code": "2955/TB-TTQLNGĐXD-QLKTCT",
+      "docDate": "",
+      "content": "Về việc mời các đơn vị tham gia báo giá gói thầu \"Bảo trì trụ sở các đơn vị Hành chính - sự nghiệp cũ tại địa chỉ số 123 Bạch Đằng, phường Bà Rịa, Thành phố Hồ Chí Minh\"",
+      "isDraft": false
+    },
+    {
+      "id": "g135",
+      "date": "2026-04-20",
+      "cat": "dt",
+      "code": "2933/TB-TTQLNGĐXD-QLKTCT",
+      "docDate": "",
+      "content": "Về việc mời các đơn vị tham gia báo giá chi phí vật tư, thiết bị phục vụ công tác bảo dưỡng, sửa chữa tại số 295 Trần Hưng Đạo",
+      "isDraft": false
+    },
+    {
+      "id": "g136",
+      "date": "2026-04-20",
+      "cat": "dt",
+      "code": "2932/TB-TTQLNGĐXD-QLKTCT",
+      "docDate": "",
+      "content": "Về việc mời các đơn vị tham gia báo giá chi phí vật tư, thiết bị phục vụ công tác bảo dưỡng, sửa chữa tại số 4 Đông Sơn",
+      "isDraft": false
+    },
+    {
+      "id": "g137",
+      "date": "2026-04-15",
+      "cat": "it",
+      "code": "",
+      "docDate": "",
+      "content": "Backup website",
+      "isDraft": false
+    },
+    {
+      "id": "g138",
+      "date": "2026-04-15",
+      "cat": "it",
+      "code": "",
+      "docDate": "",
+      "content": "Hỗ trợ cài chữ ký số",
+      "isDraft": false
+    },
+    {
+      "id": "g139",
+      "date": "2026-04-16",
+      "cat": "it",
+      "code": "230/PTr-TTLT",
+      "docDate": "",
+      "content": "Về Báo cáo kết quả triển khai các nền tảng số dùng chung, hệ thống thông tin chuyên ngành dùng chung",
+      "isDraft": true,
+      "outNo": "2863/TTQLNGĐXD-TTLT",
+      "outDate": "2026-04-16",
+      "sg": "ky"
+    },
+    {
+      "id": "g140",
+      "date": "2026-04-21",
+      "cat": "it",
+      "code": "239/PC-TTLT",
+      "docDate": "",
+      "content": "Về hỗ trợ phối hợp cung cấp thông tin dữ liệu ngành để hoàn thiện dữ liệu nguồn xây dựng nền tảng tích hợp chia sẻ dữ liệu tài sản công là nhà, đất thuộc Thành phố quản lý (PTr 241/PTr-TTLT ngày 23/04/26, CV 3424/TTQLNGĐXD-TTLT 23/04/2026)",
+      "isDraft": true
+    },
+    {
+      "id": "g141",
+      "date": "2026-04-15",
+      "cat": "it",
+      "code": "234/Ptr-TTLT",
+      "docDate": "",
+      "content": "Ngày 20/04/2026 Về triển khai phát triển hạ tầng kết nối mạng thông tin đi động và iot.",
+      "isDraft": true
+    },
+    {
+      "id": "g142",
+      "date": "2026-04-15",
+      "cat": "it",
+      "code": "235/Ptr-TTLT",
+      "docDate": "",
+      "content": "Ngày 21/04/2026 Về việc báo cáo nội dung liên quan đến đề cương báo cáo tình hình kết quả thực hiện thuộc phạm vi của Sở Xây dựng đính kèm công văn số 8358/SXD-KHĐT ngày 18/9/2025 (Tuần 17)",
+      "isDraft": true,
+      "outNo": "3050/TTQLNGĐXD-TTLT",
+      "outDate": "2026-04-21",
+      "sg": "ky",
+      "jid": "jmw1hrvn22",
+      "role": "trinh"
+    },
+    {
+      "id": "g143",
+      "date": "2026-04-22",
+      "cat": "lt",
+      "code": "",
+      "docDate": "",
+      "content": "Hỗ trợ trích lục hồ sơ tại kho 255",
+      "isDraft": false
+    },
+    {
+      "id": "g144",
+      "date": "2026-04-22",
+      "cat": "kh",
+      "code": "",
+      "docDate": "",
+      "content": "Tham gia Hiến máu nhân đạo",
+      "isDraft": false
+    },
+    {
+      "id": "g145",
+      "date": "2026-05-08",
+      "cat": "dt",
+      "code": "4057/TB-TTQLNGĐXD-TVXD",
+      "docDate": "",
+      "content": "Thông báo mời các đơn vị Tư vấn tham gia dự án \"Sửa chữa phần sở hữu chung Chung cư R6 (khu 3), Khu tái định cư 38,4ha, phường An Khánh, Thành phố Hồ Chí Minh\"",
+      "isDraft": false
+    },
+    {
+      "id": "g146",
+      "date": "2026-05-11",
+      "cat": "dt",
+      "code": "4100/TB-TTQLNGĐXD-QLVH",
+      "docDate": "",
+      "content": "V/v mời các các Nhà thầu tham gia công trình \"Sửa chữa các căn hộ tại Chung cư Lô R6 (khu 3) thuộc Khu tái định cư 38,4ha, phường An Khánh, Thành phố Hồ Chí Minh\"",
+      "isDraft": false
+    },
+    {
+      "id": "g147",
+      "date": "2026-05-11",
+      "cat": "dt",
+      "code": "4106/TB-TTQLNGĐXD-QLKTCT",
+      "docDate": "",
+      "content": "Về việc mời chào giá chi phí đo vẽ, lập bản vẽ hiện trạng đất, nhà công sản thuộc tài sản công",
+      "isDraft": false
+    },
+    {
+      "id": "g148",
+      "date": "2026-05-04",
+      "cat": "it",
+      "code": "249/PTr-TTLT",
+      "docDate": "",
+      "content": "Về cung cấp thông tin và bổ sung, hoàn thiện báo cáo phục vụ Đoàn công tác Trung ương và Thường trực Ban Chỉ đạo xây dựng đề án \"Đổi mới mô hình phát triển đất nước dựa trên khoa học, công nghệ, đổi mới sáng tạo và chuyển đổi số\" tại Thành phố Hồ Chí Minh (CV 3862-TTQLNGDXD-TTLT ngày 04/05/26)",
+      "isDraft": true
+    },
+    {
+      "id": "g149",
+      "date": "2026-04-29",
+      "cat": "it",
+      "code": "254/PTr-TTLT",
+      "docDate": "",
+      "content": "Về việc báo cáo nội dung liên quan đến đề cương báo cáo tình hình kết quả thực hiện thuộc phạm vi của Sở Xây dựng đính kèm công văn số 8358/SXD-KHĐT ngày 18/9/2025 (Tuần 19)",
+      "isDraft": true,
+      "jid": "jmw1hrvn22",
+      "role": "trinh"
+    },
+    {
+      "id": "g150",
+      "date": "2026-04-06",
+      "cat": "it",
+      "code": "267/PTr-TTLT",
+      "docDate": "",
+      "content": "Về việc báo cáo nội dung liên quan đến đề cương báo cáo tình hình kết quả thực hiện thuộc phạm vi của Sở Xây dựng đính kèm công văn số 8358/SXD-KHĐT ngày 18/9/2025 (Tuần 20)",
+      "isDraft": true,
+      "jid": "jmw1hrvn22",
+      "role": "trinh"
+    },
+    {
+      "id": "g151",
+      "date": "2026-04-06",
+      "cat": "lt",
+      "code": "",
+      "docDate": "",
+      "content": "Trả hồ sơ, trích lục hồ sơ theo PYC",
+      "isDraft": false
+    },
+    {
+      "id": "g152",
+      "date": "2026-04-30",
+      "cat": "kh",
+      "code": "Ngày",
+      "docDate": "",
+      "content": "Tham gia chương trình dâng hương, dâng hoa tại Khu di tích lịch sử Đền tưởng niệm Bến Dược, xã An Nhơn Tây, Thành phố Hồ Chí Minh và thăm, tặng quà gia đình Mẹ Việt Nam Anh hùng.",
+      "isDraft": false
+    },
+    {
+      "id": "g153",
+      "date": "2026-04-06",
+      "cat": "kh",
+      "code": "",
+      "docDate": "",
+      "content": "Hỗ trợ công tác hậu cần chương trình Dâng hương kỷ niệm 19/5",
+      "isDraft": false
+    },
+    {
+      "id": "g154",
+      "date": "2026-05-13",
+      "cat": "dt",
+      "code": "4256/TB-TTQLNGĐXD-QLKTCT",
+      "docDate": "",
+      "content": "Về việc gia hạn thông báo mời các đơn vị tham gia báo giá chi phí vật tư, thiết bị phục vụ công tác bảo dưỡng, sửa chữa tại số 295 Trần Hưng Đạo",
+      "isDraft": false
+    },
+    {
+      "id": "g155",
+      "date": "2026-05-19",
+      "cat": "dt",
+      "code": "4473/TB-TTQLNGĐXD-QLVH",
+      "docDate": "",
+      "content": "V/v mời các Nhà thầu tham gia thẩm định giá trị công trình trên đất đối với 3.790 căn hộ chung cư thuộc Lô R1, R2, R3, R4, R5 phường An Khánh",
+      "isDraft": false
+    },
+    {
+      "id": "g156",
+      "date": "2026-05-13",
+      "cat": "dt",
+      "code": "4255/TB-TTQLNGĐXD-QLKTCT",
+      "docDate": "",
+      "content": "Về việc gia hạn thông báo mời các đơn vị tham gia báo giá chi phí vật tư, thiết bị phục vụ công tác bảo dưỡng, sửa chữa tại số 4 Đông Sơn",
+      "isDraft": false
+    },
+    {
+      "id": "g157",
+      "date": "2026-05-22",
+      "cat": "dt",
+      "code": "4664/TB-TTQLNGĐXD-GĐXD",
+      "docDate": "",
+      "content": "Về việc tham gia thầu phụ thực hiện Kiểm định đánh giá chất lượng chung cư cũ trên địa bàn phường Tân Sơn Hòa, Thành phố Hồ Chí Minh",
+      "isDraft": false
+    },
+    {
+      "id": "g158",
+      "date": "2026-05-13",
+      "cat": "dt",
+      "code": "4248/TB-TTQLNGĐXD-QLKTCT",
+      "docDate": "",
+      "content": "Về việc mời các đơn vị tham gia báo giá chi phí vật tư, thiết bị phục vụ công tác bảo dưỡng, sửa chữa tại số 7 Phú Hòa",
+      "isDraft": false
+    },
+    {
+      "id": "g159",
+      "date": "2026-05-25",
+      "cat": "dt",
+      "code": "4754/TB-TTQLNGĐXD-TCHC",
+      "docDate": "",
+      "content": "THÔNG BÁO V/v tuyển dụng nhân viên lái xe phục vụ công tác tại Trung tâm Quản lý nhà và Giám định xây dựng",
+      "isDraft": false
+    },
+    {
+      "id": "g160",
+      "date": "2026-05-14",
+      "cat": "dt",
+      "code": "4288/TB-TTQLNGĐXD-QLKTCT",
+      "docDate": "",
+      "content": "Về việc mời các đơn vị tham gia báo giá gói thầu \"Bảo trì trụ sở các đơn vị Hành chính - sự nghiệp cũ tại địa chỉ số 123 Bạch Đằng, phường Bà Rịa, Thành phố Hồ Chí Minh\" - (lần 02)",
+      "isDraft": false
+    },
+    {
+      "id": "g161",
+      "date": "2026-05-15",
+      "cat": "dt",
+      "code": "4353/TB-TTQLNGĐXD-QLKTCT",
+      "docDate": "",
+      "content": "Về việc mời các đơn vị tham gia báo giá gói thầu \"Thẩm định giá để xác định giá thuê các cơ sở nhà, đất dôi dư do sắp xếp, tinh gọn tổ chức bộ máy của hệ thống chính trị, sắp xếp đơn vị hành chính (khu vực Thành phố Hồ Chí Minh cũ)\"",
+      "isDraft": false
+    },
+    {
+      "id": "g162",
+      "date": "2026-05-15",
+      "cat": "dt",
+      "code": "4349/TB-TTQLNGĐXD-QLKTCT",
+      "docDate": "",
+      "content": "Về việc mời các đơn vị tham gia báo giá gói thầu \"Thẩm định giá để xác định giá thuê các cơ sở nhà, đất dôi dư do sắp xếp, tinh gọn tổ chức bộ máy của hệ thống chính trị, sắp xếp đơn vị hành chính (khu vực Bà Rịa - Vũng Tàu cũ)\"",
+      "isDraft": false
+    },
+    {
+      "id": "g163",
+      "date": "2026-05-15",
+      "cat": "dt",
+      "code": "4348/TB-TTQLNGĐXD-QLKTCT",
+      "docDate": "",
+      "content": "Về việc mời các đơn vị tham gia báo giá gói thầu \"Thẩm định giá để xác định giá thuê các cơ sở nhà, đất dôi dư do sắp xếp, tinh gọn tổ chức bộ máy của hệ thống chính trị, sắp xếp đơn vị hành chính (khu vực tỉnh Bình Dương cũ)\"",
+      "isDraft": false
+    },
+    {
+      "id": "g164",
+      "date": "2026-05-13",
+      "cat": "it",
+      "code": "",
+      "docDate": "",
+      "content": "Thêm danh mục bài viết cho website Trung tâm, Backup dữ liệu",
+      "isDraft": false
+    },
+    {
+      "id": "g165",
+      "date": "2026-05-20",
+      "cat": "it",
+      "code": "",
+      "docDate": "",
+      "content": "Thêm danh mục bài viết cho website Trung tâm, Backup dữ liệu",
+      "isDraft": false
+    },
+    {
+      "id": "g166",
+      "date": "2026-05-13",
+      "cat": "it",
+      "code": "",
+      "docDate": "",
+      "content": "Hỗ trợ cài đặt chữ ký số tại Trung tâm",
+      "isDraft": false
+    },
+    {
+      "id": "g167",
+      "date": "2026-05-20",
+      "cat": "it",
+      "code": "",
+      "docDate": "",
+      "content": "Hỗ trợ cài đặt chữ ký số tại Trung tâm",
+      "isDraft": false
+    },
+    {
+      "id": "g168",
+      "date": "2026-05-19",
+      "cat": "it",
+      "code": "283/Ptr-TTLT",
+      "docDate": "",
+      "content": "Về việc phối hợp cung cấp tin, bài đăng tải trên Trang thông tin điện tử (http://hmcic.vn) của Trung tâm Quản lý nhà và Giám định xây dựng",
+      "isDraft": true,
+      "jid": "jmw1hrxrc1",
+      "role": "trinh",
+      "outDate": "2026-11-04",
+      "sg": "ky"
+    },
+    {
+      "id": "g169",
+      "date": "2026-05-20",
+      "cat": "it",
+      "code": "",
+      "docDate": "",
+      "content": "Dự thảo Quy chế quản lý vận hành website trung tâm",
+      "isDraft": false
+    },
+    {
+      "id": "g170",
+      "date": "2026-05-19",
+      "cat": "it",
+      "code": "282/PTr-TTLT",
+      "docDate": "",
+      "content": "Về việc báo cáo nội dung liên quan đến đề cương báo cáo tình hình kết quả thực hiện thuộc phạm vi của Sở Xây dựng đính kèm công văn số 8358/SXD-KHĐT ngày 18/9/2025 (Tuần 21)",
+      "isDraft": true,
+      "outNo": "4453/TTQLNGĐXD-TTLT",
+      "outDate": "2026-05-19",
+      "sg": "ky",
+      "jid": "jmw1hrvn22",
+      "role": "trinh"
+    },
+    {
+      "id": "g171",
+      "date": "2026-05-13",
+      "cat": "lt",
+      "code": "",
+      "docDate": "",
+      "content": "Hỗ trợ trả hồ sơ và trích lục hồ sơ theo PYC của các phòng chuyên môn",
+      "isDraft": false
+    },
+    {
+      "id": "g172",
+      "date": "2026-05-20",
+      "cat": "lt",
+      "code": "",
+      "docDate": "",
+      "content": "Hỗ trợ trả hồ sơ và trích lục hồ sơ theo PYC của các phòng chuyên môn",
+      "isDraft": false
+    },
+    {
+      "id": "g173",
+      "date": "2026-05-13",
+      "cat": "kh",
+      "code": "",
+      "docDate": "",
+      "content": "Hỗ trợ Đoàn Thanh niên thực hiện công tác hậu cần theo phân công",
+      "isDraft": false
+    },
+    {
+      "id": "g174",
+      "date": "2026-05-20",
+      "cat": "kh",
+      "code": "",
+      "docDate": "",
+      "content": "Tham gia chương trình Dâng hoa, dâng hương tưởng niệm Chủ tịch Hồ Chí Minh và các anh hùng liệt sĩ",
+      "isDraft": false
+    },
+    {
+      "id": "g175",
+      "date": "2026-05-27",
+      "cat": "dt",
+      "code": "4913/TB-TTQLNGĐXD-QLKTCT",
+      "docDate": "",
+      "content": "V/v mời các đơn vị tham gia báo giá gói thầu \"Thẩm định giá để xác định giá thuê nhà, đất số 117-119-121-123 Lê Thánh Tôn, phường Sài Gòn\"",
+      "isDraft": false
+    },
+    {
+      "id": "g176",
+      "date": "2026-06-03",
+      "cat": "dt",
+      "code": "684/PC-TCHC",
+      "docDate": "",
+      "content": "Về việc đăng tải thông tin Hội nghị công bố Quyết định số 92-QĐ/ĐU ngày 27/5/2026 của Đảng ủy Sở Xây dựng",
+      "isDraft": false
+    },
+    {
+      "id": "g177",
+      "date": "2026-05-29",
+      "cat": "dt",
+      "code": "5027/TB-TTQLNGĐXD-QLVH",
+      "docDate": "",
+      "content": "V/v mời các Nhà thầu tham gia gói thầu thuộc dự toán mua sắm \"Cung cấp dịch vụ bảo vệ cụm Chung cư Lô R1, R2, R3, R4, R5 thuộc khu tái định cư 38,4ha, phường An Khánh, Thành phố Hồ Chí Minh\"",
+      "isDraft": false
+    },
+    {
+      "id": "g178",
+      "date": "2026-06-05",
+      "cat": "dt",
+      "code": "5614/TB-TTQLNGĐXD-TVXD",
+      "docDate": "",
+      "content": "V/v mời các đơn vị Tư vấn tham gia dự án \"Sửa chữa các căn hộ tại khu dân cư Vĩnh Lộc B (30ha), xã Tân Vĩnh Lộc, Thành phố Hồ Chí Minh\"",
+      "isDraft": false
+    },
+    {
+      "id": "g179",
+      "date": "2026-06-01",
+      "cat": "dt",
+      "code": "5321/TTQLNGĐXD-TVXD",
+      "docDate": "",
+      "content": "Về việc mời các đơn vị Tư vấn tham gia công trình \"Bảo trì, sửa chữa nhà ở cũ thuộc tài sản công trên địa bàn Thành phố Hồ Chí Minh\"",
+      "isDraft": false
+    },
+    {
+      "id": "g180",
+      "date": "2026-06-08",
+      "cat": "dt",
+      "code": "5651/TB-TTQLNGĐXD-TCHC",
+      "docDate": "",
+      "content": "Về việc báo giá để lập dự toán gói thầu \"Mua sắm văn phòng phẩm năm 2026\" tại Trung tâm Quản lý nhà và Giám định xây dựng",
+      "isDraft": false
+    },
+    {
+      "id": "g181",
+      "date": "2026-06-01",
+      "cat": "dt",
+      "code": "5373/TB-TTQLNGĐXD-QLVH",
+      "docDate": "",
+      "content": "V/v mời các đơn vị tư vấn tham gia công trình \"Sửa chữa các căn hộ tại Chung cư lô C,D thuộc Khu tái định cư 17,3 ha phường An Khánh, Thành phố Hồ Chí Minh\"",
+      "isDraft": false
+    },
+    {
+      "id": "g182",
+      "date": "2026-06-08",
+      "cat": "dt",
+      "code": "5650/TB-TTQLNGĐXD-TCHC",
+      "docDate": "",
+      "content": "Về việc báo giá bán bảo hiểm xe ô tô bán tải 51D-69706",
+      "isDraft": false
+    },
+    {
+      "id": "g183",
+      "date": "2026-06-08",
+      "cat": "dt",
+      "code": "5663/TB-TTQLNGĐXD-TCHC",
+      "docDate": "",
+      "content": "Về việc bán thanh lý tài sản công theo hình thức chỉ định",
+      "isDraft": false
+    },
+    {
+      "id": "g184",
+      "date": "2026-06-08",
+      "cat": "dt",
+      "code": "5668/TB-TTQLNGĐXD-QLKTCT",
+      "docDate": "",
+      "content": "Về việc mời tham gia đo vẽ, lập bản vẽ hiện trạng đất, nhà công sản thuộc tài sản công",
+      "isDraft": false
+    },
+    {
+      "id": "g185",
+      "date": "2026-06-08",
+      "cat": "dt",
+      "code": "578/PC-TVXD",
+      "docDate": "",
+      "content": "Về đăng tải Thông báo về việc tổ chức sát hạch cấp chứng chỉ hành nghề hoạt động xây dựng Kỳ 01 năm 2026",
+      "isDraft": false
+    },
+    {
+      "id": "g186",
+      "date": "2026-05-27",
+      "cat": "it",
+      "code": "",
+      "docDate": "",
+      "content": "Hỗ trợ cài đặt chữ ký số tại Trung tâm",
+      "isDraft": false
+    },
+    {
+      "id": "g187",
+      "date": "2026-05-27",
+      "cat": "it",
+      "code": "300/PTr-TTLT",
+      "docDate": "",
+      "content": "Về việc góp ý đối với các đề xuất cơ chế, chính sách thí điểm tại 3 địa phương (Hà Nội, Đà Nẵng, Thành phố Hồ Chí Minh)",
+      "isDraft": true,
+      "outNo": "4916/TTQLNGĐXD-TTLT",
+      "outDate": "2026-05-27",
+      "sg": "ky"
+    },
+    {
+      "id": "g188",
+      "date": "2026-06-05",
+      "cat": "it",
+      "code": "324/PC-TTLT",
+      "docDate": "",
+      "content": "Về việc thực hiện thống kê báo cáo số liệu theo Thông tư số 17/2025/TT-BTP ngày 24/10/2025 của Bộ Tư pháp kỳ 6 tháng đầu năm 2026",
+      "isDraft": true
+    },
+    {
+      "id": "g189",
+      "date": "2026-05-27",
+      "cat": "it",
+      "code": "305/PC-TTLT",
+      "docDate": "",
+      "content": "ngày 29 tháng 05 năm 2026 \nV/v góp ý Quy chế về hoạt động trang thông tin điện tử của Trung tâm Quản lý nhà và Giám định xây dựng",
+      "isDraft": true,
+      "jid": "jmw1hrxrc1",
+      "role": "pc",
+      "outDate": "2026-11-04",
+      "sg": "ky"
+    },
+    {
+      "id": "g190",
+      "date": "2026-06-08",
+      "cat": "it",
+      "code": "325/PTr-TTLT",
+      "docDate": "",
+      "content": "Về việc Ban hành Quy chế hoạt động của Trang Thông tin điện tử Trung tâm Quản lý nhà và Giám định xây dựng",
+      "isDraft": true,
+      "jid": "jmw1hrxrc1",
+      "role": "trinh",
+      "outNo": "5666/QĐ-TTQLNGĐXD-TTLT",
+      "outDate": "2026-06-08",
+      "sg": "ky",
+      "outId": "t1793775552075971"
+    },
+    {
+      "id": "g191",
+      "date": "2026-05-29",
+      "cat": "it",
+      "code": "306/PTr-TTLT",
+      "docDate": "",
+      "content": "Về triển khai thực hiện Kế hoạch số 193/KH-UBND ngày 15/5/2026 của Ủy ban nhân dân Thành phố",
+      "isDraft": true,
+      "jid": "jmw1hruqe3",
+      "role": "trinh"
+    },
+    {
+      "id": "g192",
+      "date": "2026-06-03",
+      "cat": "it",
+      "code": "331/PC-TTLT",
+      "docDate": "",
+      "content": "Về việc thành lập Ban quản trị trang Thông tin điện tử \nTrung tâm Quản lý nhà và Giám định xây dựng",
+      "isDraft": true,
+      "jid": "jmw1hrxrc1",
+      "role": "pc",
+      "outDate": "2026-11-04",
+      "sg": "ky"
+    },
+    {
+      "id": "g193",
+      "date": "2026-05-29",
+      "cat": "it",
+      "code": "308/PTr-TTLT",
+      "docDate": "",
+      "content": "Về triển khai Quyết định số 2685/QĐ-UBND ngày 15/5/2026 của Ủy ban nhân dân Thành phố Về việc triển khai Chương trình Khoa học và công nghệ và nâng cao tiềm lực khoa học và công nghệ trên địa bàn \nThành phố Hồ Chí Minh giai đoạn 2026 – 2030",
+      "isDraft": true,
+      "jid": "jmw1hruqe3",
+      "role": "trinh"
+    },
+    {
+      "id": "g194",
+      "date": "2026-05-27",
+      "cat": "kh",
+      "code": "",
+      "docDate": "",
+      "content": "P.TTLT đã đăng tải Thông báo này",
+      "isDraft": false
+    },
+    {
+      "id": "g195",
+      "date": "2026-06-08",
+      "cat": "dt",
+      "code": "5740/TB-TTQLNGĐXD-GĐXD",
+      "docDate": "",
+      "content": "Về việc tham gia thầu phụ thực hiện kiểm định chất lượng hiên trạng nhà ở riêng lẻ số 119 Gò Ô Môi, phường Phú Thuận, Tp. HCM",
+      "isDraft": false
+    },
+    {
+      "id": "g196",
+      "date": "2026-06-16",
+      "cat": "dt",
+      "code": "6015/TB-TTQLNGĐXD-TVXD",
+      "docDate": "",
+      "content": "Về việc hoàn lại số tiền nộp dư so với mức thu kinh phí dự thi sát hạch cấp chứng chỉ hành nghề môi giới bất động sản đợt 1 năm 2026",
+      "isDraft": false
+    },
+    {
+      "id": "g197",
+      "date": "2026-06-09",
+      "cat": "dt",
+      "code": "5696/TB-TTQLNGĐXD-QLKTCT",
+      "docDate": "",
+      "content": "Về việc mời các đơn vị tham gia báo giá gói thầu \"Thẩm định giá để xác định giá cho thuê nhà, đất theo Quyết định số 3564/QĐ-UBND ngày 24/8/2023 của Ủy ban nhân dân thành phố\"",
+      "isDraft": false
+    },
+    {
+      "id": "g198",
+      "date": "2026-06-16",
+      "cat": "dt",
+      "code": "6017/TB-TTQLNGĐXD-TCHC",
+      "docDate": "",
+      "content": "Về việc kết quả tham gia chào giá mua tài sản, công cụ, dụng cụ thanh lý năm 2026 của Trung tâm Quản lý nhà và Giám định xây dựng",
+      "isDraft": false
+    },
+    {
+      "id": "g199",
+      "date": "2026-06-09",
+      "cat": "dt",
+      "code": "5698/TB-TTQLNGĐXD-QLKTCT",
+      "docDate": "",
+      "content": "Về việc mời các đơn vị tham gia báo giá gói thầu \"Thẩm định giá để xác định giá cho thuê nhà, đất theo Công văn số 2404/UBND-KT ngày 03/05/2024 của Ủy ban nhân dân thành phố\"",
+      "isDraft": false
+    },
+    {
+      "id": "g200",
+      "date": "2026-06-23",
+      "cat": "dt",
+      "code": "6418/TB-TTQLNGĐXD-GĐXD",
+      "docDate": "",
+      "content": "Về việc phê duyệt thông báo tham gia thầu phụ cho gói thầu Kiểm định công trình \"Kè chắn đất thuộc dự án khu nhà ở Sài Gòn Center, Nhà xưởng Công ty TNHH Việt Danh, Nhà xưởng Công ty TNHH gỗ trang trí Đại Thiên, địa điểm phường Tân Uyên, Tp. Hồ Chí Minh\"",
+      "isDraft": false
+    },
+    {
+      "id": "g201",
+      "date": "2026-06-09",
+      "cat": "dt",
+      "code": "5697/TB-TTQLNGĐXD-QLKTCT",
+      "docDate": "",
+      "content": "Về việc mời các đơn vị tham gia báo giá gói thầu \"Thẩm định giá để xác định giá cho thuê nhà, đất theo Quyết định số 3565/QĐ-UBND ngày 24/8/2023 của Ủy ban nhân dân thành phố",
+      "isDraft": false
+    },
+    {
+      "id": "g202",
+      "date": "2026-06-09",
+      "cat": "dt",
+      "code": "5695/TB-TTQLNGĐXD-QLKTCT",
+      "docDate": "",
+      "content": "Về việc mời các đơn vị tham gia báo giá gói thầu \"Thẩm định giá để xác định giá cho thuê nhà, đất theo Công văn số 5115/UBND-KT ngày 30/12/2022 của Ủy ban nhân dân thành phố\"",
+      "isDraft": false
+    },
+    {
+      "id": "g203",
+      "date": "2026-06-09",
+      "cat": "dt",
+      "code": "5709/TB-TTQLNGĐXD-QLKTCT",
+      "docDate": "",
+      "content": "Về việc mời các đơn vị tham gia báo giá gói thầu \"Thẩm định giá để xác định giá cho thuê nhà, đất theo Quyết định số 967/QĐ-UBND ngày 01/4/2022 của Ủy ban nhân dân thành phố\"",
+      "isDraft": false
+    },
+    {
+      "id": "g204",
+      "date": "2026-06-09",
+      "cat": "dt",
+      "code": "5694/TB-TTQLNGĐXD-QLKTCT",
+      "docDate": "",
+      "content": "Về việc mời các đơn vị tham gia báo giá gói thầu \"Thẩm định giá để xác định giá cho thuê nhà, đất theo Quyết định số 2944/QĐ-UBND ngày 31/8/2022 của Ủy ban nhân dân Thành phố",
+      "isDraft": false
+    },
+    {
+      "id": "g205",
+      "date": "2026-06-09",
+      "cat": "dt",
+      "code": "5699/TB-TTQLNGĐXD-QLKTCT",
+      "docDate": "",
+      "content": "Về việc mời các đơn vị tham gia báo giá gói thầu \"Thẩm định giá để xác định giá cho thuê nhà, đất theo Quyết định số 2513/QĐ-UBND ngày 09/7/2024 của Ủy ban nhân dân thành phố\"",
+      "isDraft": false
+    },
+    {
+      "id": "g206",
+      "date": "2026-06-09",
+      "cat": "dt",
+      "code": "5705/TB-TTQLNGĐXD-QLKTCT",
+      "docDate": "",
+      "content": "Về việc mời các đơn vị tham gia báo giá gói thầu \"Thẩm định giá để xác định giá cho thuê nhà, đất theo Quyết định số 1598/QĐ-UBND ngày 10/5/2024 của Ủy ban nhân dân thành phố\"",
+      "isDraft": false
+    },
+    {
+      "id": "g207",
+      "date": "2026-06-09",
+      "cat": "dt",
+      "code": "5707/TB-TTQLNGĐXD-QLKTCT",
+      "docDate": "",
+      "content": "Về việc mời các đơn vị tham gia báo giá gói thầu \"Thẩm định giá để xác định giá cho thuê nhà, đất theo Công văn số 4710/UBND-KT ngày 05/12/2020 của Ủy ban nhân dân thành phố\"",
+      "isDraft": false
+    },
+    {
+      "id": "g208",
+      "date": "2026-06-09",
+      "cat": "dt",
+      "code": "5711/TB-TTQLNGĐXD-QLKTCT",
+      "docDate": "",
+      "content": "Về việc mời các đơn vị tham gia báo giá gói thầu \"Thẩm định giá để xác định giá cho thuê nhà, đất theo Quyết định số 2889/QĐ-UBND ngày 14/7/2023 của Ủy ban nhân dân thành phố\"",
+      "isDraft": false
+    },
+    {
+      "id": "g209",
+      "date": "2026-06-09",
+      "cat": "dt",
+      "code": "5712/TB-TTQLNGĐXD-QLKTCT",
+      "docDate": "",
+      "content": "Về việc mời các đơn vị tham gia báo giá gói thầu \"Thẩm định giá để xác định giá cho thuê nhà, đất theo Quyết định số 4492/QĐ-UBND ngày 04/10/2023 của Ủy ban nhân dân thành phố\"",
+      "isDraft": false
+    },
+    {
+      "id": "g210",
+      "date": "2026-06-09",
+      "cat": "dt",
+      "code": "5713/TB-TTQLNGĐXD-QLKTCT",
+      "docDate": "",
+      "content": "Về việc mời các đơn vị tham gia báo giá gói thầu \"Thẩm định giá để xác định giá cho thuê nhà, đất theo Quyết định số 2657/QĐ-UBND ngày 26/7/2021 của Ủy ban nhân dân thành phố\"",
+      "isDraft": false
+    },
+    {
+      "id": "g211",
+      "date": "2026-06-09",
+      "cat": "dt",
+      "code": "5714/TB-TTQLNGĐXD-QLKTCT",
+      "docDate": "",
+      "content": "Về việc mời các đơn vị tham gia báo giá gói thầu \"Thẩm định giá để xác định giá cho thuê nhà, đất theo Quyết định số 40/QĐ-UBND ngày 04/01/2024 của Ủy ban nhân dân thành phố\"",
+      "isDraft": false
+    },
+    {
+      "id": "g212",
+      "date": "2026-06-09",
+      "cat": "dt",
+      "code": "5700/TB-TTQLNGĐXD-QLKTCT",
+      "docDate": "",
+      "content": "Về việc mời các đơn vị tham gia báo giá gói thầu \"Thẩm định giá để xác định giá cho thuê nhà, đất theo Quyết định số 4364/QĐ-UBND ngày 02/10/2024 của Ủy ban nhân dân thành phố\"",
+      "isDraft": false
+    },
+    {
+      "id": "g213",
+      "date": "2026-06-09",
+      "cat": "dt",
+      "code": "5702/TB-TTQLNGĐXD-QLKTCT",
+      "docDate": "",
+      "content": "Về việc mời các đơn vị tham gia báo giá gói thầu \"Thẩm định giá để xác định giá cho thuê nhà, đất theo Quyết định số 4367/QĐ-UBND ngày 02/10/2024 của Ủy ban nhân dân thành phố\"",
+      "isDraft": false
+    },
+    {
+      "id": "g214",
+      "date": "2026-06-09",
+      "cat": "dt",
+      "code": "5701/TB-TTQLNGĐXD-QLKTCT",
+      "docDate": "",
+      "content": "Về việc mời các đơn vị tham gia báo giá gói thầu \"Thẩm định giá để xác định giá cho thuê nhà, đất theo Công văn số 3730/UBND-KT ngày 13/10/2022 của Ủy ban nhân dân thành phố\"",
+      "isDraft": false
+    },
+    {
+      "id": "g215",
+      "date": "2026-06-09",
+      "cat": "dt",
+      "code": "5703/TB-TTQLNGĐXD-QLKTCT",
+      "docDate": "",
+      "content": "Về việc mời các đơn vị tham gia báo giá gói thầu \"Thẩm định giá để xác định giá cho thuê nhà, đất theo Công văn số 5130/UBND-KT ngày 30/12/2022 của Ủy ban nhân dân thành phố\"",
+      "isDraft": false
+    },
+    {
+      "id": "g216",
+      "date": "2026-06-09",
+      "cat": "dt",
+      "code": "5704/TB-TTQLNGĐXD-QLKTCT",
+      "docDate": "",
+      "content": "Về việc mời các đơn vị tham gia báo giá gói thầu \"Thẩm định giá để xác định giá cho thuê nhà, đất theo Công văn số 2862/UBND-KT ngày 29/7/2020 của Ủy ban nhân dân thành phố\"",
+      "isDraft": false
+    },
+    {
+      "id": "g217",
+      "date": "2026-06-09",
+      "cat": "dt",
+      "code": "5715/TB-TTQLNGĐXD-QLKTCT",
+      "docDate": "",
+      "content": "Về việc mời các đơn vị tham gia báo giá gói thầu \"Thẩm định giá để xác định giá cho thuê nhà, đất theo Quyết định số 966/QĐ-UBND ngày 01/4/2022 của Ủy ban nhân dân thành phố\"",
+      "isDraft": false
+    },
+    {
+      "id": "g218",
+      "date": "2026-06-09",
+      "cat": "dt",
+      "code": "5718/TB-TTQLNGĐXD-QLKTCT",
+      "docDate": "",
+      "content": "Về việc mời các đơn vị tham gia báo giá gói thầu \"Thẩm định giá để xác định giá cho thuê nhà, đất theo Thông báo số 707/TB-VP, ngày 15/9/2020, Văn phòng Ủy ban nhân dân thành phố\"",
+      "isDraft": false
+    },
+    {
+      "id": "g219",
+      "date": "2026-06-09",
+      "cat": "dt",
+      "code": "5719/TB-TTQLNGĐXD-QLKTCT",
+      "docDate": "",
+      "content": "Về việc mời các đơn vị tham gia báo giá gói thầu \"Thẩm định giá để xác định giá cho thuê nhà, đất theo Quyết định số 970/QĐ-UBND ngày 04/4/2021 của Ủy ban nhân dân thành phố\"",
+      "isDraft": false
+    },
+    {
+      "id": "g220",
+      "date": "2026-06-09",
+      "cat": "dt",
+      "code": "5706/TB-TTQLNGĐXD-QLKTCT",
+      "docDate": "",
+      "content": "Về việc mời các đơn vị tham gia báo giá gói thầu \"Thẩm định giá để xác định giá cho thuê nhà, đất theo Quyết định số 1525/QĐ-UBND ngày 08/5/2020 của Ủy ban nhân dân thành phố\"",
+      "isDraft": false
+    },
+    {
+      "id": "g221",
+      "date": "2026-06-09",
+      "cat": "dt",
+      "code": "5710/TB-TTQLNGĐXD-QLKTCT",
+      "docDate": "",
+      "content": "Về việc mời các đơn vị tham gia báo giá gói thầu \"Thẩm định giá để xác định giá cho thuê nhà, đất theo Quyết định số 1662/QĐ-UBND ngày 11/4/2017 của Ủy ban nhân dân thành phố\"",
+      "isDraft": false
+    },
+    {
+      "id": "g222",
+      "date": "2026-06-09",
+      "cat": "dt",
+      "code": "5708/TB-TTQLNGĐXD-QLKTCT",
+      "docDate": "",
+      "content": "Về việc mời các đơn vị tham gia báo giá gói thầu \"Thẩm định giá để xác định giá cho thuê nhà, đất theo Quyết định số 2090/QĐ-UBND ngày 09/6/2021 của Ủy ban nhân dân thành phố\"",
+      "isDraft": false
+    },
+    {
+      "id": "g223",
+      "date": "2026-06-09",
+      "cat": "dt",
+      "code": "5717/TB-TTQLNGĐXD-QLKTCT",
+      "docDate": "",
+      "content": "Về việc mời các đơn vị tham gia báo giá gói thầu \"Thẩm định giá để xác định giá cho thuê nhà, đất theo Quyết định số 40/QĐ-UBND ngày 04/01/2022 của Ủy ban nhân dân thành phố\"",
+      "isDraft": false
+    },
+    {
+      "id": "g224",
+      "date": "2026-06-09",
+      "cat": "dt",
+      "code": "5720/TB-TTQLNGĐXD-QLKTCT",
+      "docDate": "",
+      "content": "Về việc mời các đơn vị tham gia báo giá gói thầu \"Thẩm định giá để xác định giá cho thuê nhà, đất theo Quyết định số 3784/QĐ-UBND ngày 07/11/2022 của Ủy ban nhân dân thành phố\"",
+      "isDraft": false
+    },
+    {
+      "id": "g225",
+      "date": "2026-06-09",
+      "cat": "dt",
+      "code": "5721/TB-TTQLNGĐXD-QLKTCT",
+      "docDate": "",
+      "content": "Về việc mời các đơn vị tham gia báo giá gói thầu \"Thẩm định giá để xác định giá cho thuê nhà, đất theo Quyết định số 5665/QĐ-UBND ngày 24/10/2017 của Ủy ban nhân dân thành phố\"",
+      "isDraft": false
+    },
+    {
+      "id": "g226",
+      "date": "2026-06-09",
+      "cat": "dt",
+      "code": "5722/TB-TTQLNGĐXD-QLKTCT",
+      "docDate": "",
+      "content": "Về việc mời các đơn vị tham gia báo giá gói thầu \"Thẩm định giá để xác định giá cho thuê nhà, đất theo Quyết định số 1951/QĐ-UBND ngày 04/6/2020 của Ủy ban nhân dân thành phố\"",
+      "isDraft": false
+    },
+    {
+      "id": "g227",
+      "date": "2026-06-09",
+      "cat": "dt",
+      "code": "5716/TB-TTQLNGĐXD-QLKTCT",
+      "docDate": "",
+      "content": "Về việc mời các đơn vị tham gia báo giá gói thầu \"Thẩm định giá để xác định giá cho thuê nhà, đất theo Công văn số 10816/VP-KT ngày 19/11/2019 của Văn phòng Ủy ban nhân dân thành phố\"",
+      "isDraft": false
+    },
+    {
+      "id": "g228",
+      "date": "2026-06-09",
+      "cat": "it",
+      "code": "333/PC-TTLT",
+      "docDate": "",
+      "content": "Về triển khai thực hiện Kế hoạch số 193/KH-UBND và Quyết định số 2685/QĐ-UBND của Ủy ban nhân dân Thành phố",
+      "isDraft": true,
+      "jid": "jmw1hruqe3",
+      "role": "pc"
+    },
+    {
+      "id": "g229",
+      "date": "2026-06-12",
+      "cat": "it",
+      "code": "344/PTr-TTLT",
+      "docDate": "",
+      "content": "Về tham gia góp ý Kế hoạch thực hiện Chuyển đổi số và phát triển đô thị thông minh năm 2026 tại Sở Xây dựng Thành phố Hồ Chí Minh (lần 3)",
+      "isDraft": true,
+      "outNo": "5906/TTQLNGĐXD-TTLT",
+      "outDate": "2026-06-12",
+      "sg": "ky"
+    },
+    {
+      "id": "g230",
+      "date": "2026-06-22",
+      "cat": "it",
+      "code": "359/PTr-TTLT",
+      "docDate": "",
+      "content": "Về việc triển khai các Thông tư của Bộ trưởng Bộ Khoa học và Công nghệ hướng dẫn thi hành Luật Tiêu chuẩn và quy chuẩn kỹ thuật và Nghị định số 22/2026/NĐ-CP",
+      "isDraft": true,
+      "outNo": "6368/TTQLNGĐXD-TTLT",
+      "outDate": "2026-06-22",
+      "sg": "ky"
+    },
+    {
+      "id": "g231",
+      "date": "2026-06-12",
+      "cat": "it",
+      "code": "345/PTr-TTLT",
+      "docDate": "",
+      "content": "Về triển khai thực hiện Kế hoạch số 193/KH-UBND ngày 15/5/2026 của Ủy ban nhân dân Thành phố",
+      "isDraft": true,
+      "outNo": "5907/TTQLNGĐXD-TTLT",
+      "outDate": "2026-06-12",
+      "sg": "ky",
+      "jid": "jmw1hruqe3",
+      "role": "trinh"
+    },
+    {
+      "id": "g232",
+      "date": "2026-06-17",
+      "cat": "lt",
+      "code": "",
+      "docDate": "",
+      "content": "Hỗ trợ thu hồi, trích lục hồ sơ phục vụ đoàn kiểm tra đơn vị PC03",
+      "isDraft": false
+    },
+    {
+      "id": "g233",
+      "date": "2026-06-23",
+      "cat": "dt",
+      "code": "6438/TB-TTQLNGĐXD-QLKTCT",
+      "docDate": "",
+      "content": "Về việc mời các đơn vị tham gia báo giá gói thầu \"Thẩm định giá để xác định giá thuê cơ sở nhà, đất dôi dư do sắp xếp, tinh gọn tổ chức bộ máy của hệ thống chính trị, sắp xếp đơn vị hành chính tại Xã Bắc Tân Uyên (khu vực tỉnh Bình Dương cũ)\" (lần 2)",
+      "isDraft": false
+    },
+    {
+      "id": "g234",
+      "date": "2026-06-23",
+      "cat": "dt",
+      "code": "6439/TB-TTQLNGĐXD-QLKTCT",
+      "docDate": "",
+      "content": "Về việc mời các đơn vị tham gia báo giá gói thầu \"Thẩm định giá để xác định giá thuê các cơ sở nhà, đất dôi dư do sắp xếp, tinh gọn tổ chức bộ máy của hệ thống chính trị, sắp xếp đơn vị hành chính tại Phường Tân Uyên (khu vực tỉnh Bình Dương cũ)\" (lần 2)",
+      "isDraft": false
+    },
+    {
+      "id": "g235",
+      "date": "2026-06-23",
+      "cat": "dt",
+      "code": "6440/TB-TTQLNGĐXD-QLKTCT",
+      "docDate": "",
+      "content": "Về việc mời các đơn vị tham gia báo giá gói thầu \"Thẩm định giá để xác định giá thuê cơ sở nhà, đất dôi dư do sắp xếp, tinh gọn tổ chức bộ máy của hệ thống chính trị, sắp xếp đơn vị hành chính tại phường Phú An (khu vực tỉnh Bình Dương cũ)\" (lần 2)",
+      "isDraft": false
+    },
+    {
+      "id": "g236",
+      "date": "2026-06-23",
+      "cat": "dt",
+      "code": "6441/TB-TTQLNGĐXD-QLKTCT",
+      "docDate": "",
+      "content": "Về việc mời các đơn vị tham gia báo giá gói thầu \"Thẩm định giá để xác định giá thuê cơ sở nhà, đất dôi dư do sắp xếp, tinh gọn tổ chức bộ máy của hệ thống chính trị, sắp xếp đơn vị hành chính tại phường Đông Hòa (khu vực tỉnh Bình Dương cũ)\" (lần 2)",
+      "isDraft": false
+    },
+    {
+      "id": "g237",
+      "date": "2026-06-23",
+      "cat": "dt",
+      "code": "6442/TB-TTQLNGĐXD-QLKTCT",
+      "docDate": "",
+      "content": "Về việc mời các đơn vị tham gia báo giá gói thầu \"Thẩm định giá để xác định giá thuê các cơ sở nhà, đất dôi dư do sắp xếp, tinh gọn tổ chức bộ máy của hệ thống chính trị, sắp xếp đơn vị hành chính tại phường Chánh Hiệp (khu vực tỉnh Bình Dương cũ)\" (lần 2)",
+      "isDraft": false
+    },
+    {
+      "id": "g238",
+      "date": "2026-06-24",
+      "cat": "dt",
+      "code": "6499/TB-TTQLNGĐXD-TCHC",
+      "docDate": "",
+      "content": "Về việc báo giá cung cấp Văn phòng phẩm cho Trung tâm Quản lý nhà và Giám định xây dựng",
+      "isDraft": false
+    },
+    {
+      "id": "g239",
+      "date": "2026-06-23",
+      "cat": "dt",
+      "code": "6444/TB-TTQLNGĐXD-QLKTCT",
+      "docDate": "",
+      "content": "Về việc mời các đơn vị tham gia báo giá gói thầu \"Thẩm định giá để xác định giá thuê cơ sở nhà, đất dôi dư do sắp xếp, tinh gọn tổ chức bộ máy của hệ thống chính trị, sắp xếp đơn vị hành chính tại Phường Bình Thới (khu vực Thành phố Hồ Chí Minh cũ)\" (lần 2)",
+      "isDraft": false
+    },
+    {
+      "id": "g240",
+      "date": "2026-06-23",
+      "cat": "dt",
+      "code": "6445/TB-TTQLNGĐXD-QLKTCT",
+      "docDate": "",
+      "content": "Về việc mời các đơn vị tham gia báo giá gói thầu \"Thẩm định giá để xác định giá thuê cơ sở nhà, đất dôi dư do sắp xếp, tinh gọn tổ chức bộ máy của hệ thống chính trị, sắp xếp đơn vị hành chính tại Phường Bình Trưng (khu vực Thành phố Hồ Chí Minh cũ)\" (lần 2)",
+      "isDraft": false
+    },
+    {
+      "id": "g241",
+      "date": "2026-06-23",
+      "cat": "dt",
+      "code": "6446/TB-TTQLNGĐXD-QLKTCT",
+      "docDate": "",
+      "content": "Về việc mời các đơn vị tham gia báo giá gói thầu \"Thẩm định giá để xác định giá thuê các cơ sở nhà, đất dôi dư do sắp xếp, tinh gọn tổ chức bộ máy của hệ thống chính trị, sắp xếp đơn vị hành chính tại Phường Tân Thuận (khu vực Thành phố Hồ Chí Minh cũ)\" (lần 2)",
+      "isDraft": false
+    },
+    {
+      "id": "g242",
+      "date": "2026-06-23",
+      "cat": "dt",
+      "code": "6447/TB-TTQLNGĐXD-QLKTCT",
+      "docDate": "",
+      "content": "về việc mời các đơn vị tham gia báo giá gói thầu \"Thẩm định giá để xác định giá thuê các cơ sở nhà, đất dôi dư do sắp xếp, tinh gọn tổ chức bộ máy của hệ thống chính trị, sắp xếp đơn vị hành chính tại Phường Thủ Đức (khu vực Thành phố Hồ Chí Minh cũ)\"",
+      "isDraft": false
+    },
+    {
+      "id": "g243",
+      "date": "2026-06-23",
+      "cat": "dt",
+      "code": "6448/TB-TTQLNGĐXD-QLKTCT",
+      "docDate": "",
+      "content": "Về việc mời các đơn vị tham gia báo giá gói thầu \"Thẩm định giá để xác định giá thuê cơ sở nhà, đất dôi dư do sắp xếp, tinh gọn tổ chức bộ máy của hệ thống chính trị, sắp xếp đơn vị hành chính tại Phường Cát Lái (khu vực Thành phố Hồ Chí Minh cũ)\" (lần 2)",
+      "isDraft": false
+    },
+    {
+      "id": "g244",
+      "date": "2026-06-23",
+      "cat": "dt",
+      "code": "6449/TB-TTQLNGĐXD-QLKTCT",
+      "docDate": "",
+      "content": "về việc mời các đơn vị tham gia báo giá gói thầu \"Thẩm định giá để xác định giá thuê các cơ sở nhà, đất dôi dư do sắp xếp, tinh gọn tổ chức bộ máy của hệ thống chính trị, sắp xếp đơn vị hành chính tại Phường Cầu Ông Lãnh (khu vực Thành phố Hồ Chí Minh cũ)\"",
+      "isDraft": false
+    },
+    {
+      "id": "g245",
+      "date": "2026-06-23",
+      "cat": "dt",
+      "code": "6450/TB-TTQLNGĐXD-QLKTCT",
+      "docDate": "",
+      "content": "Về việc mời các đơn vị tham gia báo giá gói thầu \"Thẩm định giá để xác định giá thuê các cơ sở nhà, đất dôi dư do sắp xếp, tinh gọn tổ chức bộ máy của hệ thống chính trị, sắp xếp đơn vị hành chính tại Phường Chợ Lớn (khu vực Thành phố Hồ Chí Minh cũ)\" (lần 2)",
+      "isDraft": false
+    },
+    {
+      "id": "g246",
+      "date": "2026-06-23",
+      "cat": "dt",
+      "code": "6451/TB-TTQLNGĐXD-QLKTCT",
+      "docDate": "",
+      "content": "Về việc mời các đơn vị tham gia báo giá gói thầu \"Thẩm định giá để xác định giá thuê các cơ sở nhà, đất dôi dư do sắp xếp, tinh gọn tổ chức bộ máy của hệ thống chính trị, sắp xếp đơn vị hành chính tại Phường Gia Định (khu vực Thành phố Hồ Chí Minh cũ)\" (lần 2)",
+      "isDraft": false
+    },
+    {
+      "id": "g247",
+      "date": "2026-06-23",
+      "cat": "dt",
+      "code": "6452/TB-TTQLNGĐXD-QLKTCT",
+      "docDate": "",
+      "content": "Về việc mời các đơn vị tham gia báo giá gói thầu \"Thẩm định giá để xác định giá thuê các cơ sở nhà, đất dôi dư do sắp xếp, tinh gọn tổ chức bộ máy của hệ thống chính trị, sắp xếp đơn vị hành chính tại Phường Phú Nhuận (khu vực Thành phố Hồ Chí Minh cũ)\" (lần 2)",
+      "isDraft": false
+    },
+    {
+      "id": "g248",
+      "date": "2026-06-23",
+      "cat": "dt",
+      "code": "6453/TB-TTQLNGĐXD-QLKTCT",
+      "docDate": "",
+      "content": "Về việc mời các đơn vị tham gia báo giá gói thầu \"Thẩm định giá để xác định giá thuê các cơ sở nhà, đất dôi dư do sắp xếp, tinh gọn tổ chức bộ máy của hệ thống chính trị, sắp xếp đơn vị hành chính tại Phường Tân Định (khu vực Thành phố Hồ Chí Minh cũ)\" (lần 2)",
+      "isDraft": false
+    },
+    {
+      "id": "g249",
+      "date": "2026-06-23",
+      "cat": "dt",
+      "code": "6454/TB-TTQLNGĐXD-QLKTCT",
+      "docDate": "",
+      "content": "Về việc mời các đơn vị tham gia báo giá gói thầu \"Thẩm định giá để xác định giá thuê cơ sở nhà, đất dôi dư do sắp xếp, tinh gọn tổ chức bộ máy của hệ thống chính trị, sắp xếp đơn vị hành chính tại Phường Bình Thạnh (khu vực Thành phố Hồ Chí Minh cũ)\" (lần 2)",
+      "isDraft": false
+    },
+    {
+      "id": "g250",
+      "date": "2026-06-23",
+      "cat": "dt",
+      "code": "6455/TB-TTQLNGĐXD-QLKTCT",
+      "docDate": "",
+      "content": "về việc mời các đơn vị tham gia báo giá gói thầu \"Thẩm định giá để xác định giá thuê các cơ sở nhà, đất dôi dư do sắp xếp, tinh gọn tổ chức bộ máy của hệ thống chính trị, sắp xếp đơn vị hành chính tại Xã Tân An Hội (khu vực Thành phố Hồ Chí Minh cũ\"",
+      "isDraft": false
+    },
+    {
+      "id": "g251",
+      "date": "2026-06-23",
+      "cat": "dt",
+      "code": "6456/TB-TTQLNGĐXD-QLKTCT",
+      "docDate": "",
+      "content": "Về việc mời các đơn vị tham gia báo giá gói thầu \"Thẩm định giá để xác định giá thuê cơ sở nhà, đất dôi dư do sắp xếp, tinh gọn tổ chức bộ máy của hệ thống chính trị, sắp xếp đơn vị hành chính tại Phường Phú Định (khu vực Thành phố Hồ Chí Minh cũ)\" (lần 2)",
+      "isDraft": false
+    },
+    {
+      "id": "g252",
+      "date": "2026-06-23",
+      "cat": "dt",
+      "code": "6457/TB-TTQLNGĐXD-QLKTCT",
+      "docDate": "",
+      "content": "Về việc mời các đơn vị tham gia báo giá gói thầu \"Thẩm định giá để xác định giá thuê các cơ sở nhà, đất dôi dư do sắp xếp, tinh gọn tổ chức bộ máy của hệ thống chính trị, sắp xếp đơn vị hành chính tại Phường An Đông (khu vực Thành phố Hồ Chí Minh cũ)\" (lần 2)",
+      "isDraft": false
+    },
+    {
+      "id": "g253",
+      "date": "2026-06-23",
+      "cat": "dt",
+      "code": "6458/TB-TTQLNGĐXD-QLKTCT",
+      "docDate": "",
+      "content": "Về việc mời các đơn vị tham gia báo giá gói thầu \"Thẩm định giá để xác định giá thuê các cơ sở nhà, đất dôi dư do sắp xếp, tinh gọn tổ chức bộ máy của hệ thống chính trị, sắp xếp đơn vị hành chính tại Phường Long Phước (khu vực Thành phố Hồ Chí Minh cũ)\" (lần 2)",
+      "isDraft": false
+    },
+    {
+      "id": "g254",
+      "date": "2026-06-23",
+      "cat": "dt",
+      "code": "6459/TB-TTQLNGĐXD-QLKTCT",
+      "docDate": "",
+      "content": "Về việc mời các đơn vị tham gia báo giá gói thầu \"Thẩm định giá để xác định giá thuê cơ sở nhà, đất dôi dư do sắp xếp, tinh gọn tổ chức bộ máy của hệ thống chính trị, sắp xếp đơn vị hành chính tại phường Tân Hưng (khu vực Thành phố Hồ Chí Minh cũ)\"",
+      "isDraft": false
+    },
+    {
+      "id": "g255",
+      "date": "2026-06-23",
+      "cat": "dt",
+      "code": "6460/TB-TTQLNGĐXD-QLKTCT",
+      "docDate": "",
+      "content": "Về việc mời các đơn vị tham gia báo giá gói thầu \"Thẩm định giá để xác định giá thuê các cơ sở nhà, đất dôi dư do sắp xếp, tinh gọn tổ chức bộ máy của hệ thống chính trị, sắp xếp đơn vị hành chính tại Phường Bến Thành (khu vực Thành phố Hồ Chí Minh cũ)\" (lần 2)",
+      "isDraft": false
+    },
+    {
+      "id": "g256",
+      "date": "2026-06-23",
+      "cat": "dt",
+      "code": "6461/TB-TTQLNGĐXD-QLKTCT",
+      "docDate": "",
+      "content": "Về việc mời các đơn vị tham gia báo giá gói thầu \"Thẩm định giá để xác định giá thuê cơ sở nhà, đất dôi dư do sắp xếp, tinh gọn tổ chức bộ máy của hệ thống chính trị, sắp xếp đơn vị hành chính tại Phường Bàn Cờ (khu vực Thành phố Hồ Chí Minh cũ)\" (lần 2)",
+      "isDraft": false
+    },
+    {
+      "id": "g257",
+      "date": "2026-06-23",
+      "cat": "dt",
+      "code": "6462/TB-TTQLNGĐXD-QLKTCT",
+      "docDate": "",
+      "content": "Về việc mời các đơn vị tham gia báo giá gói thầu \"Thẩm định giá để xác định giá thuê các cơ sở nhà, đất dôi dư do sắp xếp, tinh gọn tổ chức bộ máy của hệ thống chính trị, sắp xếp đơn vị hành chính tại Phường An Khánh (khu vực Thành phố Hồ Chí Minh cũ)\" (lần 2)",
+      "isDraft": false
+    },
+    {
+      "id": "g258",
+      "date": "2026-06-23",
+      "cat": "dt",
+      "code": "6495/TB-TTQLNGĐXD-GĐXD",
+      "docDate": "",
+      "content": "Về việc tham gia thầu phụ thực hiện giám định các căn hộ 104 và 204 chung cư 151 Nguyễn Đình Chính, tại địa chỉ số 151 Nguyễn Đình Chính, phường Phú Nhuận, Thành phố Hồ Chí Minh, theo Quyết định số 1151/2025/QĐ-CCTLCC ngày 17/9/2025 của Tòa án nhân dân Khu vực 5, Thành phố Hồ Chí Minh",
+      "isDraft": false
+    },
+    {
+      "id": "g259",
+      "date": "2026-06-26",
+      "cat": "dt",
+      "code": "6558/TB-TTQLNGĐXD-QLVH",
+      "docDate": "",
+      "content": "V/v mời các Nhà thầu tham gia các công trình sửa chữa quỹ nhà ở thuộc tài sản công để bố trí tái định cư, tạm cư cho các hộ dân bị ảnh hưởng bởi các dự án trên địa bàn Thành phố",
+      "isDraft": false
+    },
+    {
+      "id": "g260",
+      "date": "2026-06-26",
+      "cat": "dt",
+      "code": "6609/TB-TTQLNGĐXD-TCHC",
+      "docDate": "",
+      "content": "Về việc báo giá cung cấp mực in cho Trung tâm Quản lý nhà và Giám định xây dựng",
+      "isDraft": false
+    },
+    {
+      "id": "g261",
+      "date": "2026-06-24",
+      "cat": "it",
+      "code": "",
+      "docDate": "",
+      "content": "Backup website",
+      "isDraft": false
+    },
+    {
+      "id": "g262",
+      "date": "2026-06-24",
+      "cat": "it",
+      "code": "",
+      "docDate": "",
+      "content": "Hỗ tợ cài đặt chữ ký số",
+      "isDraft": false
+    },
+    {
+      "id": "g263",
+      "date": "2026-06-29",
+      "cat": "it",
+      "code": "372/PTr-TTLT",
+      "docDate": "",
+      "content": "Về việc triển khai thực hiện Quyết định số 840/QĐ-TTg ngày 13 tháng 05 năm 2026 của Thủ tướng Chính phủ về việc phê duyệt Chương trình phát triển công nghiệp công nghệ số giai đoạn 2026-2030, tầm nhìn 2045",
+      "isDraft": true
+    },
+    {
+      "id": "g264",
+      "date": "2026-06-24",
+      "cat": "lt",
+      "code": "",
+      "docDate": "",
+      "content": "Hỗ trợ trích lục hồ sơ theo PYC của phòng chuyên môn",
+      "isDraft": false
+    },
+    {
+      "id": "g265",
+      "date": "2026-06-30",
+      "cat": "dt",
+      "code": "6697/TB-TTQLNGĐXD-TCHC",
+      "docDate": "",
+      "content": "Về việc mời báo giá cung cấp mực in cho Trung tâm Quản lý nhà và Giám định xây dựng",
+      "isDraft": false
+    },
+    {
+      "id": "g266",
+      "date": "2026-07-09",
+      "cat": "dt",
+      "code": "9048/TB-TTQLNGĐXD-QLKTCT",
+      "docDate": "",
+      "content": "Về việc mời tham gia tư vấn các gói thầu tư vấn giai đoạn chuẩn bị đầu tư dự án \"Bảo dưỡng, sửa chữa cao ốc 255 Trần Hưng Đạo\" thuộc dự toán mua sắm \"Kinh phí quản lý vận hành, bảo dưỡng, sửa chữa quỹ nhà, đất là tài sản công không sử dụng mục đích để ở năm 2026\"",
+      "isDraft": false
+    },
+    {
+      "id": "g267",
+      "date": "2026-07-01",
+      "cat": "dt",
+      "code": "6746/TB-TTQLNGĐXD-QLVH",
+      "docDate": "",
+      "content": "V/v sửa chữa các hư hỏng thuộc phần sử dụng chung (chống thấm tầng mái) tại Lô 1 Chung cư Phú Thọ (Khu A), phường Phú Thọ, Thành phố Hồ Chí Minh",
+      "isDraft": false
+    },
+    {
+      "id": "g268",
+      "date": "2026-07-10",
+      "cat": "dt",
+      "code": "9108/TB-TTQLNGĐXD-TCHC",
+      "docDate": "",
+      "content": "Về việc báo giá công cụ, dụng cụ và nhu yếu phẩm cho Trung tâm Quản lý nhà và Giám định xây dựng",
+      "isDraft": false
+    },
+    {
+      "id": "g269",
+      "date": "2026-07-02",
+      "cat": "dt",
+      "code": "6793/TB-TTQLNGĐXD-TCHC",
+      "docDate": "",
+      "content": "Về việc mời báo giá để lập dự toán gói thầu mua sắm hàng hóa cung cấp mực in và sửa chữa máy in, máy vi tính năm 2026 tại Trung tâm Quản lý nhà và Giám định xây dựng",
+      "isDraft": false
+    },
+    {
+      "id": "g270",
+      "date": "2026-07-07",
+      "cat": "dt",
+      "code": "7915/TB-TTQLNGĐXD-QLN",
+      "docDate": "",
+      "content": "V/v mời các đơn vị Tư vấn tham gia giai đoạn chuẩn bị đầu tư, thuộc dự toán mua sắm \"Kinh phí đo vẽ, lập bản đồ hiện trạng vị trí và hiện trạng kiến trúc nhà phục vụ công tác quản lý vận hành quỹ nhà ở cũ thuộc tài sản công\"",
+      "isDraft": false
+    },
+    {
+      "id": "g271",
+      "date": "2026-07-01",
+      "cat": "it",
+      "code": "",
+      "docDate": "",
+      "content": "Backup website",
+      "isDraft": false
+    },
+    {
+      "id": "g272",
+      "date": "2026-07-08",
+      "cat": "it",
+      "code": "",
+      "docDate": "",
+      "content": "Backup website",
+      "isDraft": false
+    },
+    {
+      "id": "g273",
+      "date": "2026-07-01",
+      "cat": "it",
+      "code": "",
+      "docDate": "",
+      "content": "Hỗ trợ công tác phục hồi dữ liệu",
+      "isDraft": false
+    },
+    {
+      "id": "g274",
+      "date": "2026-07-14",
+      "cat": "it",
+      "code": "400/PTr-TTLT",
+      "docDate": "",
+      "content": "Về việc triển khai kế hoạch tập huấn, khắc phục sự cố an ninh mạng",
+      "isDraft": true
+    },
+    {
+      "id": "g275",
+      "date": "2026-07-01",
+      "cat": "lt",
+      "code": "",
+      "docDate": "",
+      "content": "Hỗ trợ trích lục hồ sơ tại kho 255 (2 PYC)",
+      "isDraft": false
+    },
+    {
+      "id": "g276",
+      "date": "2026-07-08",
+      "cat": "lt",
+      "code": "",
+      "docDate": "",
+      "content": "Hỗ trợ trích lục hồ sơ tại kho 255 (2 PYC)",
+      "isDraft": false
+    },
+    {
+      "id": "g277",
+      "date": "2026-07-01",
+      "cat": "lt",
+      "code": "",
+      "docDate": "",
+      "content": "Hỗ trợ trả hợp đồng thuê nhả vào hồ sơ tương ứng",
+      "isDraft": false
+    },
+    {
+      "id": "g278",
+      "date": "2026-07-08",
+      "cat": "lt",
+      "code": "",
+      "docDate": "",
+      "content": "Hỗ trợ trả hợp đồng thuê nhả vào hồ sơ tương ứng",
+      "isDraft": false
+    },
+    {
+      "id": "g279",
+      "date": "2026-07-22",
+      "cat": "dt",
+      "code": "12545/TB-TTQLNGĐXD-GĐXD",
+      "docDate": "",
+      "content": "Về việc tham gia thầu phụ cho gói thầu \"Kiểm định chất lượng nhà chung cư cũ tại địa bàn phường Hạnh Thông, Thành phố Hồ Chí Minh",
+      "isDraft": false
+    },
+    {
+      "id": "g280",
+      "date": "2026-07-22",
+      "cat": "dt",
+      "code": "12546/TB-TTQLNGĐXD-GĐXD",
+      "docDate": "",
+      "content": "Về việc tham gia thầu phụ thực hiện giám định chất lượng công trình tại địa chỉ số 10/7 Nguyễn Văn Đậu, phường 5 quận Phú Nhuận nay là phường Đức Nhuận, Tp. Hồ Chí Minh theo quyết định trưng cầu giám định số 4274/2024/QĐ-TCKĐGĐ ngày 25/11/2024 của tòa án nhân dân quận Phú Nhuận nay (Nay là Tòa án nhân dân khu vực 5) -Tp. Hồ Chí Minh",
+      "isDraft": false
+    },
+    {
+      "id": "g281",
+      "date": "2026-07-21",
+      "cat": "dt",
+      "code": "11522/TB-TTQLNGĐXD-QLVH",
+      "docDate": "",
+      "content": "V/v mời các đơn vị tham gia thực hiện gói thầu: \"Đo đạc chỉnh lý bản đồ địa chính (bản vẽ sơ đồ vị trí) đối với căn hộ Chung cư Lô R6, phường An Khánh và Chung cư 12 tầng, phường Đông Hưng Thuận\"",
+      "isDraft": false
+    },
+    {
+      "id": "g282",
+      "date": "2026-07-24",
+      "cat": "dt",
+      "code": "12723/TB-TTQLNGĐXD-GĐXD",
+      "docDate": "",
+      "content": "Về việc mời chào giá chi phí lập nhiệm vụ và dự toán lập quy trình bảo trì các chung cư, nhà ở xã hội thuộc tài sản công",
+      "isDraft": false
+    },
+    {
+      "id": "g283",
+      "date": "2026-07-15",
+      "cat": "it",
+      "code": "",
+      "docDate": "",
+      "content": "Backup website, cập nhật thông tin giới thiệu",
+      "isDraft": false
+    },
+    {
+      "id": "g284",
+      "date": "2026-07-22",
+      "cat": "it",
+      "code": "",
+      "docDate": "",
+      "content": "Backup website",
+      "isDraft": false
+    },
+    {
+      "id": "g285",
+      "date": "2026-07-15",
+      "cat": "it",
+      "code": "",
+      "docDate": "",
+      "content": "Phối hợp cung cấp thông tin phục vụ khảo sát tổ chức trung gian của thị trường khoa học và công nghệ năm 2026 (Cung cấp qua biểu mẫu trong mã QR công văn 1137/ĐMST-TTCN)",
+      "isDraft": false
+    },
+    {
+      "id": "g286",
+      "date": "2026-07-20",
+      "cat": "it",
+      "code": "414/PC-TLT",
+      "docDate": "",
+      "content": "Về việc gia hạn dịch vụ tên miền và hosting Trang thông tin điện tử (hmcic.vn)",
+      "isDraft": true
+    },
+    {
+      "id": "g287",
+      "date": "2026-07-20",
+      "cat": "it",
+      "code": "417/PC-TLT",
+      "docDate": "",
+      "content": "Về việc xin chủ trương nâng cấp bản quyền phần mềm Windows Server 2022 và SQL Server 2022",
+      "isDraft": true
+    },
+    {
+      "id": "g288",
+      "date": "2026-07-15",
+      "cat": "it",
+      "code": "",
+      "docDate": "",
+      "content": "Dự họp về phát triển Trang thông tin điện tử của Trung tâm",
+      "isDraft": false
+    },
+    {
+      "id": "g289",
+      "date": "2026-07-15",
+      "cat": "lt",
+      "code": "",
+      "docDate": "",
+      "content": "Hỗ trợ trích lục hồ sơ tại kho 255",
+      "isDraft": false
+    },
+    {
+      "id": "g290",
+      "date": "2026-07-22",
+      "cat": "lt",
+      "code": "",
+      "docDate": "",
+      "content": "Hỗ trợ trích lục hồ sơ tại kho 255",
+      "isDraft": false
+    },
+    {
+      "id": "g291",
+      "date": "2026-07-16",
+      "cat": "kh",
+      "code": "408/PC-TTLT",
+      "docDate": "",
+      "content": "v/v góp ý quy chế P.QLKTCT",
+      "isDraft": true
+    },
+    {
+      "id": "g292",
+      "date": "2026-07-31",
+      "cat": "dt",
+      "code": "14773/TB-TTQLNGĐXD-QLKTCT",
+      "docDate": "",
+      "content": "Về việc mời các đơn vị tham gia dịch vụ bảo vệ các cơ sở nhà, đất là trụ sở cơ quan, đơn vị dôi dư bàn giao về Trung tâm",
+      "isDraft": false
+    },
+    {
+      "id": "g293",
+      "date": "2026-08-05",
+      "cat": "dt",
+      "code": "14967/TB-TTQLNGĐXD-QLKTCT",
+      "docDate": "",
+      "content": "Về việc mời tham gia gói thầu \"Bảo vệ tại các cơ sở nhà, đất là tài sản công không sử dụng mục đích để ở Trung tâm đang quản lý năm 2026\" thuộc dự toán mua sắm \"Kinh phí quản lý vận hành, bảo dưỡng, sửa chữa quỹ nhà, đất là tài sản công không sử dụng mục đích để ở năm 2026\"",
+      "isDraft": false
+    },
+    {
+      "id": "g294",
+      "date": "2026-07-30",
+      "cat": "dt",
+      "code": "13196/TB-TTQLNGĐXD-QLVH",
+      "docDate": "",
+      "content": "V/v mời các Nhà thầu Tư vấn Giám sát tham gia công trình \"Sửa chữa các căn hộ tại chung cư lô J, N khu 17,3ha, phường Bình Trưng, Thành phố Hồ Chí Minh\"",
+      "isDraft": false
+    },
+    {
+      "id": "g295",
+      "date": "2026-07-29",
+      "cat": "it",
+      "code": "",
+      "docDate": "",
+      "content": "Backup website",
+      "isDraft": false
+    },
+    {
+      "id": "g296",
+      "date": "2026-08-05",
+      "cat": "it",
+      "code": "",
+      "docDate": "",
+      "content": "Backup website",
+      "isDraft": false
+    },
+    {
+      "id": "g297",
+      "date": "2026-07-29",
+      "cat": "it",
+      "code": "",
+      "docDate": "",
+      "content": "Tổng hợp báo cáo theo công văn số 27554/SXD-VP ngày 31/07/2026",
+      "isDraft": false
+    },
+    {
+      "id": "g298",
+      "date": "2026-08-11",
+      "cat": "it",
+      "code": "461-PTr-TTLT",
+      "docDate": "",
+      "content": "Về việc định kỳ báo cáo kết quả về chuyển đổi số theo Kế hoạch 40-KH/BCĐTP (Tuần 32)",
+      "isDraft": true,
+      "jid": "jmw1hrt084",
+      "role": "trinh"
+    },
+    {
+      "id": "g299",
+      "date": "2026-08-04",
+      "cat": "it",
+      "code": "449/PTr-TTLT",
+      "docDate": "",
+      "content": "Về việc định kỳ báo cáo kết quả về chuyển đổi số theo Kế hoạch 40-KH/BCĐTP",
+      "isDraft": true,
+      "jid": "jmw1hrt084",
+      "role": "trinh"
+    },
+    {
+      "id": "g300",
+      "date": "2026-08-05",
+      "cat": "it",
+      "code": "457-PTr-TTLT",
+      "docDate": "",
+      "content": "Ngày 06/08/26\nVề việc góp ý Dự thảo Nghị quyết về chính sách hỗ trợ đối với phát triển nhân lực công nghiệp công nghệ số",
+      "isDraft": true
+    },
+    {
+      "id": "g301",
+      "date": "2026-08-05",
+      "cat": "lt",
+      "code": "",
+      "docDate": "",
+      "content": "Hỗ trợ trích lục hồ sơ tại kho 255 (2 PYC)",
+      "isDraft": false
+    },
+    {
+      "id": "g302",
+      "date": "2026-07-30",
+      "cat": "qtw",
+      "code": "442/PC-TTLT",
+      "docDate": "",
+      "content": "Về việc chuẩn bị các nội dung để xây dựng mới Trang thông tin điện tử của Trung tâm",
+      "isDraft": true,
+      "jid": "jmw1hryls0",
+      "role": "pc",
+      "outDate": "2026-11-04",
+      "sg": "ky"
+    },
+    {
+      "id": "g303",
+      "date": "2026-08-05",
+      "cat": "qtw",
+      "code": "",
+      "docDate": "",
+      "content": "Tổng hợp yêu cầu về nội dung phát triển website mới của Trung tâm (Đã nhận: QLVH, QLN, TCHC)",
+      "isDraft": false
+    },
+    {
+      "id": "g304",
+      "date": "2026-07-29",
+      "cat": "qtw",
+      "code": "",
+      "docDate": "",
+      "content": "Tổng hợp yêu cầu về nội dung phát triển website mới của Trung tâm (Đã nhận: QLVH)",
+      "isDraft": false
+    },
+    {
+      "id": "g305",
+      "date": "2026-08-11",
+      "cat": "dt",
+      "code": "15193/TB-TTQLNGĐXD-QLVH",
+      "docDate": "",
+      "content": "Thông báo mời các đơn vị Tư vấn tham gia gói thầu \"Tư vấn lập Báo cáo kinh tế - kỹ thuật\" và gói thầu \"Tư vấn thẩm tra Báo cáo kinh tế - kỹ thuật\" thuộc công trình \"Sửa chữa, bảo trì sơn lại mặt ngoài trường bao các chung cư, nhà ở xã hội\"",
+      "isDraft": false
+    },
+    {
+      "id": "g306",
+      "date": "2026-08-19",
+      "cat": "dt",
+      "code": "15429/TB-TTQLNGĐXD-QLKTCT",
+      "docDate": "",
+      "content": "V/v chấp thuận chủ trương thực hiện và ký ban hành thông báo về việc mời các đơn vị tham gia báo giá Kinh phí bảo dưỡng, sửa chữa khu lưu trú công nhân năm 2026",
+      "isDraft": false
+    },
+    {
+      "id": "g307",
+      "date": "2026-08-17",
+      "cat": "dt",
+      "code": "15315/TB-TTQLNGĐXD-QLKTCT",
+      "docDate": "",
+      "content": "Về việc mời các đơn vị tham gia báo giá gói thầu Thẩm định giá các cơ sở nhà, đất đang cho thuê do Trung tâm Quản lý nhà và Giám định xây dựng quản lý",
+      "isDraft": false
+    },
+    {
+      "id": "g308",
+      "date": "2026-08-19",
+      "cat": "dt",
+      "code": "15422/TB-TTQLNGĐXD-QLKTCT",
+      "docDate": "",
+      "content": "Về việc mời các đơn vị tham gia báo giá gói thầu \"Thẩm định giá để xác định giá thuê các nhà, đất là tài sản công không sử dụng vào mục đích để ở thuộc khu vực 2 - Thành phố Hồ Chí Minh (cũ)\"",
+      "isDraft": false
+    },
+    {
+      "id": "g309",
+      "date": "2026-08-17",
+      "cat": "dt",
+      "code": "15316/TB-TTQLNGĐXD-QLKTCT",
+      "docDate": "",
+      "content": "Về việc mời các đơn vị tham gia báo giá gói thầu Thẩm định giá để xác định giá thuê các sàn thương mại trong nhà chung cư tái định cư (đợt 02)",
+      "isDraft": false
+    },
+    {
+      "id": "g310",
+      "date": "2026-08-22",
+      "cat": "dt",
+      "code": "15599/TB-TTQLNGĐXD-QLVH",
+      "docDate": "",
+      "content": "Về việc mời nhà thầu khảo sát, báo giá sửa chữa các hư hỏng thuộc phần sử dụng chung, hệ thống thang máy và trang bị, lắp đặt thiết bị truyền tin báo cháy tại Chung cư 12 tầng (Khu tái định cư 10ha), phường Đông Hưng Thuận, Thành phố Hồ Chí Minh",
+      "isDraft": false
+    },
+    {
+      "id": "g311",
+      "date": "2026-08-17",
+      "cat": "dt",
+      "code": "15324/TB-TTQLNGĐXD-QLKTCT",
+      "docDate": "",
+      "content": "Về việc mời các đơn vị tham gia báo giá gói thầu \"Thẩm định giá để xác định giá thuê các cơ sở nhà, đất là tài sản công không sử dụng mục đích để ở Trung tâm đang quản lý và dự kiến tiếp nhận năm 2026\"(Khu vực Vùng Tàu cũ)",
+      "isDraft": false
+    },
+    {
+      "id": "g312",
+      "date": "2026-08-24",
+      "cat": "dt",
+      "code": "15690/TB-TTQLNGĐXD-TTLT",
+      "docDate": "",
+      "content": "Thông báo mời đơn vị tư vấn tham gia báo giá thiết kế Trang thông tin điện tử (website) của Trung tâm",
+      "isDraft": false
+    },
+    {
+      "id": "g313",
+      "date": "2026-08-17",
+      "cat": "dt",
+      "code": "15342/TB-TTQLNGĐXD-QLKTCT",
+      "docDate": "",
+      "content": "Về việc mời các đơn vị tham gia báo giá gói thầu \"Thẩm định giá để xác định giá thuê các cơ sở nhà, đất là tài sản công không sử dụng mục đích để ở Trung tâm đang quản lý và dự kiến tiếp nhận năm 2026\"",
+      "isDraft": false
+    },
+    {
+      "id": "g314",
+      "date": "2026-08-17",
+      "cat": "dt",
+      "code": "15343/TB-TTQLNGĐXD-QLKTCT",
+      "docDate": "",
+      "content": "Về việc mời các đơn vị tham gia báo giá gói thầu \"Thẩm định giá để xác định giá thuê các cơ sở nhà, đất là tài sản công không sử dụng mục đích để ở Trung tâm đang quản lý và dự kiến tiếp nhận năm 2026\" (Khu vực TPHCM cũ)",
+      "isDraft": false
+    },
+    {
+      "id": "g315",
+      "date": "2026-08-12",
+      "cat": "dt",
+      "code": "15248/TTQLNGĐXD-TCHC",
+      "docDate": "",
+      "content": "V/v triển khai Nghị định số 265/2026/NĐ-CP ngảy 01 tháng 7 năm 2026 của Chính phủ",
+      "isDraft": false
+    },
+    {
+      "id": "g316",
+      "date": "2026-08-17",
+      "cat": "dt",
+      "code": "15312/TB-TTQLNGĐXD-TCHC",
+      "docDate": "",
+      "content": "Về việc báo giá thay vỏ xe ô tô bán tải của Trung tâm",
+      "isDraft": false
+    },
+    {
+      "id": "g317",
+      "date": "2026-08-12",
+      "cat": "it",
+      "code": "",
+      "docDate": "",
+      "content": "Backup website",
+      "isDraft": false
+    },
+    {
+      "id": "g318",
+      "date": "2026-08-19",
+      "cat": "it",
+      "code": "",
+      "docDate": "",
+      "content": "Backup website",
+      "isDraft": false
+    },
+    {
+      "id": "g319",
+      "date": "2026-08-12",
+      "cat": "it",
+      "code": "",
+      "docDate": "",
+      "content": "Hỗ trợ viên chức các phòng gỡ lỗi chữ ký số, các lỗi khác của máy tính",
+      "isDraft": false
+    },
+    {
+      "id": "g320",
+      "date": "2026-08-19",
+      "cat": "it",
+      "code": "",
+      "docDate": "",
+      "content": "Hỗ trợ viên chức các phòng gỡ lỗi chữ ký số, các lỗi khác của máy tính",
+      "isDraft": false
+    },
+    {
+      "id": "g321",
+      "date": "2026-08-17",
+      "cat": "it",
+      "code": "471/PTr-TTLT",
+      "docDate": "",
+      "content": "Về việc phổ biến Quyết định số 2028/QĐ-UBND, 2251/QĐ-UBND và 30/2026/QĐ-UBND của Ủy ban nhân dân Thành phố",
+      "isDraft": true,
+      "jid": "jmw1hrs0h5",
+      "role": "trinh"
+    },
+    {
+      "id": "g322",
+      "date": "2026-08-24",
+      "cat": "it",
+      "code": "494/PTr-TTLT",
+      "docDate": "",
+      "content": "Về việc định kỳ báo cáo kết quả về chuyển đổi số theo Kế hoạch 40-KH/BCĐTP (Tuần 34)",
+      "isDraft": true,
+      "jid": "jmw1hrt084",
+      "role": "trinh"
+    },
+    {
+      "id": "g323",
+      "date": "2026-08-17",
+      "cat": "it",
+      "code": "473/PTr-TTLT",
+      "docDate": "",
+      "content": "Về việc định kỳ báo cáo kết quả về chuyển đổi số theo Kế hoạch 40-KH/BCĐTP (Tuần 33)",
+      "isDraft": true,
+      "jid": "jmw1hrt084",
+      "role": "trinh"
+    },
+    {
+      "id": "g324",
+      "date": "2026-08-18",
+      "cat": "qtw",
+      "code": "478/PTr-TTLT",
+      "docDate": "2026-08-18",
+      "content": "Về việc đề xuất chủ trương và kinh phí thực hiện xây dựng lại Trang thông tin điện tử của Trung tâm",
+      "isDraft": true,
+      "jid": "jmw1hryls0",
+      "role": "trinh",
+      "outDate": "2026-11-04",
+      "sg": "ky"
+    },
+    {
+      "id": "g325",
+      "date": "2026-08-19",
+      "cat": "qtw",
+      "code": "",
+      "docDate": "",
+      "content": "Backup website",
+      "isDraft": false
+    },
+    {
+      "id": "g326",
+      "date": "2026-08-18",
+      "cat": "qtw",
+      "code": "479/PC-TTLT",
+      "docDate": "",
+      "content": "Về việc hoàn thiện Bản mô tả dịch vụ chuyên môn và hướng dẫn thủ tục kinh phí",
+      "isDraft": true,
+      "jid": "jmw1hryls0",
+      "role": "pc",
+      "outDate": "2026-11-04",
+      "sg": "ky"
+    },
+    {
+      "id": "g327",
+      "date": "2026-08-24",
+      "cat": "qtw",
+      "code": "492/PTr-TTLT",
+      "docDate": "2026-08-24",
+      "content": "Về việc ký ban hành Thông báo mời báo giá thiết kế Trang thông tin điện tử (website) của Trung tâm",
+      "isDraft": true,
+      "jid": "jmw1hryls0",
+      "role": "trinh",
+      "outNo": "15690/TB-TTQLNGĐXD-TTLT",
+      "outDate": "2026-08-24",
+      "sg": "ky"
+    },
+    {
+      "id": "g328",
+      "date": "2026-08-12",
+      "cat": "lt",
+      "code": "",
+      "docDate": "",
+      "content": "Hỗ trợ trích lục hồ sơ tại kho 255 (2 PYC)",
+      "isDraft": false
+    },
+    {
+      "id": "g329",
+      "date": "2026-08-19",
+      "cat": "lt",
+      "code": "",
+      "docDate": "",
+      "content": "Hỗ trợ trích lục hồ sơ tại kho 255 (2 PYC)",
+      "isDraft": false
+    },
+    {
+      "id": "g330",
+      "date": "2026-08-12",
+      "cat": "lt",
+      "code": "",
+      "docDate": "",
+      "content": "Hỗ trợ trả hợp đồng thuê nhả vào hồ sơ tương ứng",
+      "isDraft": false
+    },
+    {
+      "id": "g331",
+      "date": "2026-08-12",
+      "cat": "kh",
+      "code": "",
+      "docDate": "",
+      "content": "Tham dự buổi đồi thoại Đảng ủy với Đoàn viên, Thanh niên",
+      "isDraft": false
+    },
+    {
+      "id": "g332",
+      "date": "2026-08-19",
+      "cat": "kh",
+      "code": "493/PTr-TTLT",
+      "docDate": "",
+      "content": "Về việc phổ biến Quyết định số 4944/QĐ-UBND của Ủy ban nhân dân Thành phố",
+      "isDraft": true,
+      "jid": "jmw1hrs0h5",
+      "role": "trinh"
+    },
+    {
+      "id": "g333",
+      "date": "2026-08-25",
+      "cat": "dt",
+      "code": "15724/TTQLNGĐXD-TCHC",
+      "docDate": "",
+      "content": "Về việc triển khai \"Cẩm nang hướng dẫn hoạt động thể lực nâng cao sức khỏe cho cộng đồng\" theo Quyết định số 103/QĐ-PB ngày 13 tháng 7 năm 2026 của Cục Phòng bệnh",
+      "isDraft": false
+    },
+    {
+      "id": "g334",
+      "date": "2026-09-03",
+      "cat": "dt",
+      "code": "16102/TB-TTQLNGĐXD-QLKTCT",
+      "docDate": "",
+      "content": "Về việc mời các đơn vị tham gia báo giá gói thầu \"Thẩm định giá để xác định giá thuê các cơ sở nhà, đất là tài sản công không sử dụng mục đích để ở Trung tâm đang quản lý\" (Vũng Tàu cũ)",
+      "isDraft": false
+    },
+    {
+      "id": "g335",
+      "date": "2026-08-27",
+      "cat": "dt",
+      "code": "15834/TB-TTQLNGĐXD-QLKTCT",
+      "docDate": "",
+      "content": "Về việc mời tham gia gói thầu \"Bảo vệ tại các cơ sở nhà, đất là tài sản công không sử dụng mục đích để ở Trung tâm đang quản lý năm 2026\" thuộc dự toán mua sắm \"Kinh phí quản lý vận hành, bảo dưỡng, sửa chữa quỹ nhà, đất là tài sản công không sử dụng mục đích để ở năm 2026\" (lần 2)",
+      "isDraft": false
+    },
+    {
+      "id": "g336",
+      "date": "2026-09-04",
+      "cat": "dt",
+      "code": "16367/TB-TTQLNGĐXD-TTLT",
+      "docDate": "",
+      "content": "Về việc mời cung cấp báo giá thiết bị, giải pháp phục vụ lập dự toán nhiệm vụ \"Nâng cấp Hạ tầng công nghệ thông tin tại Trung tâm Quản lý nhà và Giám định xây dựng\"",
+      "isDraft": false
+    },
+    {
+      "id": "g337",
+      "date": "2026-08-27",
+      "cat": "dt",
+      "code": "15921/TTQLNGĐXD-TCHC",
+      "docDate": "",
+      "content": "V/v triển khai Bộ chỉ số và Bộ công cụ đánh giá năng lực cạnh tranh cấp sở, ban ngành và địa phương (DDCI) Thành phố Hồ Chí Minh năm 2026",
+      "isDraft": false
+    },
+    {
+      "id": "g338",
+      "date": "2026-09-07",
+      "cat": "dt",
+      "code": "16440/TB-TTQLNGĐXD-GĐXD",
+      "docDate": "",
+      "content": "Về việc tham gia thầu phụ thực hiện Tư vấn đánh giá an toàn công trình và quan trắc lún, nghiêng một số hạng mục thuộc khu chung cư và Nhà máy Đạm Phú Mỹ",
+      "isDraft": false
+    },
+    {
+      "id": "g339",
+      "date": "2026-09-08",
+      "cat": "dt",
+      "code": "16475/TB-TTQLNGĐXD-TTLT",
+      "docDate": "",
+      "content": "Về việc mời cung cấp thông tin báo giá \"thuê dịch vụ An toàn thông tin tại Trung tâm Quản lý nhà và Giám định xây dựng\"",
+      "isDraft": false
+    },
+    {
+      "id": "g340",
+      "date": "2026-09-08",
+      "cat": "dt",
+      "code": "16474/TB-TTQLNGĐXD-TTLT",
+      "docDate": "",
+      "content": "Về việc mời cung cấp báo giá dịch vụ thẩm định giá phục vụ lập dự toán nhiệm vụ \"Nâng cấp Hạ tầng công nghệ thông tin tại Trung tâm Quản lý nhà và Giám định xây dựng\"",
+      "isDraft": false
+    },
+    {
+      "id": "g341",
+      "date": "2026-09-02",
+      "cat": "it",
+      "code": "",
+      "docDate": "",
+      "content": "Backup website",
+      "isDraft": false
+    },
+    {
+      "id": "g342",
+      "date": "2026-08-27",
+      "cat": "it",
+      "code": "500/TB-TTLT",
+      "docDate": "",
+      "content": "Về việc triển khai thực hiện công văn số 15483/TTQLNGĐXD-TCHC ngày 20/08/2026 của Trung tâm Quản lý nhà và Giám định xây dựng",
+      "isDraft": true
+    },
+    {
+      "id": "g343",
+      "date": "2026-09-02",
+      "cat": "it",
+      "code": "",
+      "docDate": "",
+      "content": "Hỗ trợ công tác phục hồi dữ liệu",
+      "isDraft": false
+    },
+    {
+      "id": "g344",
+      "date": "2026-08-26",
+      "cat": "qtw",
+      "code": "",
+      "docDate": "",
+      "content": "Backup website",
+      "isDraft": false
+    },
+    {
+      "id": "g345",
+      "date": "2026-09-04",
+      "cat": "qtw",
+      "code": "508/PTr-TTLT",
+      "docDate": "2026-09-04",
+      "content": "Về việc thực hiện xây dựng mới Trang thông tin điện tử (website) của Trung tâm Quản lý nhà và Giám định xây dựng",
+      "isDraft": true,
+      "jid": "jmw1hryls0",
+      "role": "trinh",
+      "outDate": "2026-11-04",
+      "sg": "ky"
+    },
+    {
+      "id": "g346",
+      "date": "2026-08-26",
+      "cat": "lt",
+      "code": "",
+      "docDate": "",
+      "content": "Hỗ trợ trích lục hồ sơ tại kho 255 (2 PYC)",
+      "isDraft": false
+    },
+    {
+      "id": "g347",
+      "date": "2026-09-02",
+      "cat": "lt",
+      "code": "",
+      "docDate": "",
+      "content": "Hỗ trợ trích lục hồ sơ tại kho 255 (2 PYC)",
+      "isDraft": false
+    },
+    {
+      "id": "g348",
+      "date": "2026-08-26",
+      "cat": "lt",
+      "code": "",
+      "docDate": "",
+      "content": "Hỗ trợ trả hợp đồng thuê nhả vào hồ sơ tương ứng",
+      "isDraft": false
+    },
+    {
+      "id": "g349",
+      "date": "2026-09-02",
+      "cat": "lt",
+      "code": "",
+      "docDate": "",
+      "content": "Hỗ trợ trả hợp đồng thuê nhả vào hồ sơ tương ứng",
+      "isDraft": false
+    },
+    {
+      "id": "g350",
+      "date": "2026-09-08",
+      "cat": "dt",
+      "code": "16504/TB-TTQLNGĐXD-TTLT",
+      "docDate": "",
+      "content": "V/v cung cấp thông tin báo giá thuê Ứng dụng GIS trong công tác quản lý vận hành quỹ nhà, đất thuộc sở hữu nhà nước giao Trung tâm Quản lý nhà và Giám định xây dựng quản lý",
+      "isDraft": false
+    },
+    {
+      "id": "g351",
+      "date": "2026-09-16",
+      "cat": "dt",
+      "code": "16722/TB-TTQLNGĐXD-TTLT",
+      "docDate": "",
+      "content": "Về việc yêu cầu báo giá phục vụ lập dự toán nhiệm vụ \"Nâng cấp hạ tầng công nghệ thông tin tại Trung tâm Quản lý nhà và Giám định xây dựng\"",
+      "isDraft": false
+    },
+    {
+      "id": "g352",
+      "date": "2026-09-08",
+      "cat": "dt",
+      "code": "16503/TB-TTQLNGĐXD-TTLT",
+      "docDate": "",
+      "content": "Về việc mời cung cấp báo giá dịch vụ vận hành thử hệ thống phục vụ lập dự toán nhiệm vụ \"Nâng cấp Hạ tầng công nghệ thông tin tại Trung tâm Quản lý nhà và Giám định xây dựng\"",
+      "isDraft": false
+    },
+    {
+      "id": "g353",
+      "date": "2026-09-11",
+      "cat": "dt",
+      "code": "16585/TB-TTQLNGĐXD-QLN",
+      "docDate": "",
+      "content": "THÔNG BÁO: Về việc mời nhà thầu tham gia gói thầu Tư vấn lập E-HSMT và đánh giá E-HSDT; Tư vấn thẩm định kết quả lựa chọn nhà thầu thuộc dự toán mua sắm \"Kinh phí đo vẽ, lập bản đồ hiện trạng vị trí và hiện trạng kiến trúc nhà phục vụ công tác quản lý vận hành quỹ nhà ở cũ thuộc tài sản công\"",
+      "isDraft": false
+    },
+    {
+      "id": "g354",
+      "date": "2026-09-08",
+      "cat": "dt",
+      "code": "16465/TB-TTQLNGĐXD-QLN",
+      "docDate": "",
+      "content": "Về việc mời nhà thầu tham gia gói thầu Tư vấn lập E-HSMT và đánh giá E-HSDT; Tư vấn thẩm định kết quả lựa chọn nhà thầu thuộc dự toán mua sắm \"Kinh phí đo vẽ sơ đồ nhà, đất thuộc tài sản công khu vực Bà Rịa - Vũng Tàu (trước sáp nhập)\"",
+      "isDraft": false
+    },
+    {
+      "id": "g355",
+      "date": "2026-09-16",
+      "cat": "dt",
+      "code": "16741/TB-TTQLNGĐXD-TTLT",
+      "docDate": "",
+      "content": "Về việc yêu cầu báo giá dịch vụ thẩm định giá phục vụ lập dự toán nhiệm vụ \"Nâng cấp Hạ tầng công nghệ thông tin tại Trung tâm Quản lý nhà và Giám định xây dựng\"",
+      "isDraft": false
+    },
+    {
+      "id": "g356",
+      "date": "2026-09-09",
+      "cat": "dt",
+      "code": "3376/PC-QLN",
+      "docDate": "",
+      "content": "Về việc đăng tải 03 lần liên tục thông tin về nhà ở cho thuê trên Cổng thông tin điện tử của Trung tâm",
+      "isDraft": false
+    },
+    {
+      "id": "g357",
+      "date": "2026-09-16",
+      "cat": "dt",
+      "code": "16742/TB-TTQLNGĐXD-TTLT",
+      "docDate": "",
+      "content": "Về việc yêu cầu báo giá \"thuê dịch vụ An toàn thông tin tại Trung tâm Quản lý nhà và Giám định xây dựng\"",
+      "isDraft": false
+    },
+    {
+      "id": "g358",
+      "date": "2026-09-14",
+      "cat": "dt",
+      "code": "16648/TB-TTQLNGĐXD-QLKTCT",
+      "docDate": "",
+      "content": "Về việc mời các đơn vị tham gia báo giá gói thầu \"Thẩm định giá để xác định giá thuê các cơ sở nhà, đất là tài sản công không sử dụng mục đích để ở Trung tâm đang quản lý\"",
+      "isDraft": false
+    },
+    {
+      "id": "g359",
+      "date": "2026-09-16",
+      "cat": "dt",
+      "code": "16743/TB-TTQLNGĐXD-TTLT",
+      "docDate": "",
+      "content": "Về việc yêu cầu báo giá dịch vụ vận hành thử hệ thống phục vụ lập dự toán nhiệm vụ \"Nâng cấp Hạ tầng công nghệ thông tin tại Trung tâm Quản lý nhà và Giám định xây dựng\"",
+      "isDraft": false
+    },
+    {
+      "id": "g360",
+      "date": "2026-09-16",
+      "cat": "dt",
+      "code": "16744/TB-TTQLNGĐXD-TTLT",
+      "docDate": "",
+      "content": "Về việc yêu cầu báo giá thuê \"Ứng dụng GIS trong công tác quản lý vận hành quỹ nhà, đất thuộc sở hữu nhà nước giao Trung tâm Quản lý nhà và Giám định xây dựng quản lý\"",
+      "isDraft": false
+    },
+    {
+      "id": "g361",
+      "date": "2026-09-18",
+      "cat": "dt",
+      "code": "16828/TB-TTQLNGĐXD-TTLT",
+      "docDate": "",
+      "content": "Thông báo mời các đơn vị tư vấn đấu thầu tham gia thực hiện gói thầu chỉnh lý tài liệu lưu trữ tồn đọng của Sở Xây dựng năm 2026",
+      "isDraft": false
+    },
+    {
+      "id": "g362",
+      "date": "2026-09-18",
+      "cat": "dt",
+      "code": "16862/TB-TTQLNGĐXD-GĐXD",
+      "docDate": "",
+      "content": "Về việc tham gia thầu phụ thực hiện giám định công trình Khu dân cư Phước Thiền theo quyết định trưng cầu kiểm định, giám định, thẩm định giá tài sản số 43/2025/QĐ-TCTĐG ngày 31/12/2025 của Tòa án nhân dân Khu vực 4 - Thành phố Hồ Chí Minh",
+      "isDraft": false
+    },
+    {
+      "id": "g363",
+      "date": "2026-09-18",
+      "cat": "dt",
+      "code": "16845/TB-TTQLNGĐXD-QLVH",
+      "docDate": "",
+      "content": "V/v mời Nhà thầu báo giá tham gia thực hiện gói thầu \"Sửa chữa, bảo trì các hệ thống thang máy, thiết bị PCCC và cung cấp dịch vụ truyền tin báo cháy\"",
+      "isDraft": false
+    },
+    {
+      "id": "g364",
+      "date": "2026-09-16",
+      "cat": "it",
+      "code": "",
+      "docDate": "",
+      "content": "Hỗ trợ công tác phục hồi dữ liệu",
+      "isDraft": false
+    },
+    {
+      "id": "g365",
+      "date": "2026-09-09",
+      "cat": "qtw",
+      "code": "",
+      "docDate": "",
+      "content": "Backup website",
+      "isDraft": false
+    },
+    {
+      "id": "g366",
+      "date": "2026-09-16",
+      "cat": "qtw",
+      "code": "528/PTr-TTLT",
+      "docDate": "2026-09-16",
+      "content": "Về việc gia hạn thời gian thực hiện phát triển các nội dung tra cứu của Trang thông tin điện tử của Trung tâm theo chỉ đạo của Phó Giám đốc tại văn bản số 13178/TB-TTQLNGĐXD-TCHC",
+      "isDraft": true,
+      "jid": "jmw1hryls0",
+      "role": "trinh",
+      "outDate": "2026-11-04",
+      "sg": "ky"
+    },
+    {
+      "id": "g367",
+      "date": "2026-09-21",
+      "cat": "qtw",
+      "code": "544/PTr-TTLT",
+      "docDate": "2026-09-21",
+      "content": "Về việc điều chỉnh kinh phí thực hiện xây dựng lại Trang thông tin điện tử của Trung tâm",
+      "isDraft": true,
+      "jid": "jmw1hryls0",
+      "role": "trinh",
+      "outDate": "2026-11-04",
+      "sg": "ky"
+    },
+    {
+      "id": "g368",
+      "date": "2026-09-16",
+      "cat": "qtw",
+      "code": "",
+      "docDate": "",
+      "content": "Backup website",
+      "isDraft": false
+    },
+    {
+      "id": "g369",
+      "date": "2026-09-09",
+      "cat": "lt",
+      "code": "",
+      "docDate": "",
+      "content": "Hỗ trợ trích lục hồ sơ tại kho 255 (2 PYC)",
+      "isDraft": false
+    },
+    {
+      "id": "g370",
+      "date": "2026-09-09",
+      "cat": "kh",
+      "code": "",
+      "docDate": "",
+      "content": "Hỗ trợ công tác tiếp nhận các cơ sở nhà, đất thuộc SHNN theo kế hoạch số 13695/KH-TTQLNGĐXD-QLKTCT",
+      "isDraft": false
+    },
+    {
+      "id": "g371",
+      "date": "2026-09-16",
+      "cat": "kh",
+      "code": "",
+      "docDate": "",
+      "content": "Hỗ trợ công tác tiếp nhận các cơ sở nhà, đất thuộc SHNN theo kế hoạch số 13695/KH-TTQLNGĐXD-QLKTCT",
+      "isDraft": false
+    },
+    {
+      "id": "g372",
+      "date": "2026-09-22",
+      "cat": "dt",
+      "code": "16932/TB-TTQLNGĐXD-QLKTCT",
+      "docDate": "",
+      "content": "Về việc mời các đơn vị tham gia báo giá gói thầu \"Thẩm định giá để xác định giá thuê các cơ sở nhà, đất là tài sản công không sử dụng mục đích để ở Trung tâm đang quản lý\"",
+      "isDraft": false
+    },
+    {
+      "id": "g373",
+      "date": "2026-09-23",
+      "cat": "qtw",
+      "code": "",
+      "docDate": "",
+      "content": "Backup website",
+      "isDraft": false
+    },
+    {
+      "id": "g374",
+      "date": "2026-09-30",
+      "cat": "qtw",
+      "code": "",
+      "docDate": "",
+      "content": "Backup website",
+      "isDraft": false
+    },
+    {
+      "id": "g377",
+      "date": "2026-09-28",
+      "cat": "qtw",
+      "code": "1/PC-BQTTTT-TND",
+      "docDate": "2026-09-28",
+      "content": "Về việc góp ý nội dung đăng tải lên trang thông tin điện tử của Trung tâm Quản lý nhà và Giám định xây dựng",
+      "isDraft": true,
+      "jid": "jmw1hrxrc1",
+      "role": "pc",
+      "outDate": "2026-11-04",
+      "sg": "ky"
+    },
+    {
+      "id": "g378",
+      "date": "2026-09-28",
+      "cat": "lt",
+      "code": "557/PC-TTLT",
+      "docDate": "2026-09-28",
+      "content": "Về việc báo cáo kết quả thực hiện công tác Phòng thủ dân sự của Trung tâm",
+      "isDraft": true
+    },
+    {
+      "id": "g382",
+      "date": "2026-09-28",
+      "cat": "kh",
+      "code": "556/PC-TTLT",
+      "docDate": "2026-09-28",
+      "content": "Về việc rà soát, tổng hợp danh mục các công trình phòng thủ dân sự",
+      "isDraft": true
+    },
+    {
+      "id": "g391",
+      "date": "2026-10-21",
+      "cat": "it",
+      "code": "",
+      "docDate": "",
+      "content": "Backup website",
+      "isDraft": false
+    },
+    {
+      "id": "g392",
+      "date": "2026-10-30",
+      "cat": "it",
+      "code": "",
+      "docDate": "",
+      "content": "Backup website",
+      "isDraft": false
+    },
+    {
+      "id": "g407",
+      "date": "2026-11-18",
+      "cat": "it",
+      "code": "",
+      "docDate": "",
+      "content": "Backup website",
+      "isDraft": false
+    },
+    {
+      "id": "g408",
+      "date": "2026-11-25",
+      "cat": "it",
+      "code": "",
+      "docDate": "",
+      "content": "Backup website",
+      "isDraft": false
+    },
+    {
+      "id": "g409",
+      "date": "2026-11-18",
+      "cat": "it",
+      "code": "",
+      "docDate": "",
+      "content": "Hỗ trợ công tác phục hồi dữ liệu",
+      "isDraft": false
+    },
+    {
+      "id": "g410",
+      "date": "2026-11-25",
+      "cat": "it",
+      "code": "",
+      "docDate": "",
+      "content": "Hỗ trợ công tác phục hồi dữ liệu",
+      "isDraft": false
+    },
+    {
+      "id": "g411",
+      "date": "2026-11-18",
+      "cat": "lt",
+      "code": "",
+      "docDate": "",
+      "content": "Hỗ trợ trích lục hồ sơ tại kho 255 (2 PYC)",
+      "isDraft": false
+    },
+    {
+      "id": "g412",
+      "date": "2026-11-25",
+      "cat": "lt",
+      "code": "",
+      "docDate": "",
+      "content": "Hỗ trợ trích lục hồ sơ tại kho 255 (2 PYC)",
+      "isDraft": false
+    },
+    {
+      "id": "g413",
+      "date": "2026-11-18",
+      "cat": "lt",
+      "code": "",
+      "docDate": "",
+      "content": "Hỗ trợ trả hợp đồng thuê nhả vào hồ sơ tương ứng",
+      "isDraft": false
+    },
+    {
+      "id": "g414",
+      "date": "2026-11-25",
+      "cat": "lt",
+      "code": "",
+      "docDate": "",
+      "content": "Hỗ trợ trả hợp đồng thuê nhả vào hồ sơ tương ứng",
+      "isDraft": false
+    },
+    {
+      "id": "g415",
+      "date": "2026-12-02",
+      "cat": "it",
+      "code": "",
+      "docDate": "",
+      "content": "Backup website",
+      "isDraft": false
+    },
+    {
+      "id": "g416",
+      "date": "2026-12-09",
+      "cat": "it",
+      "code": "",
+      "docDate": "",
+      "content": "Backup website",
+      "isDraft": false
+    },
+    {
+      "id": "g417",
+      "date": "2026-12-02",
+      "cat": "it",
+      "code": "",
+      "docDate": "",
+      "content": "Hỗ trợ công tác phục hồi dữ liệu",
+      "isDraft": false
+    },
+    {
+      "id": "g418",
+      "date": "2026-12-09",
+      "cat": "it",
+      "code": "",
+      "docDate": "",
+      "content": "Hỗ trợ công tác phục hồi dữ liệu",
+      "isDraft": false
+    },
+    {
+      "id": "g419",
+      "date": "2026-12-02",
+      "cat": "lt",
+      "code": "",
+      "docDate": "",
+      "content": "Hỗ trợ trích lục hồ sơ tại kho 255 (2 PYC)",
+      "isDraft": false
+    },
+    {
+      "id": "g420",
+      "date": "2026-12-09",
+      "cat": "lt",
+      "code": "",
+      "docDate": "",
+      "content": "Hỗ trợ trích lục hồ sơ tại kho 255 (2 PYC)",
+      "isDraft": false
+    },
+    {
+      "id": "g421",
+      "date": "2026-12-02",
+      "cat": "lt",
+      "code": "",
+      "docDate": "",
+      "content": "Hỗ trợ trả hợp đồng thuê nhả vào hồ sơ tương ứng",
+      "isDraft": false
+    },
+    {
+      "id": "g422",
+      "date": "2026-12-09",
+      "cat": "lt",
+      "code": "",
+      "docDate": "",
+      "content": "Hỗ trợ trả hợp đồng thuê nhả vào hồ sơ tương ứng",
+      "isDraft": false
+    },
+    {
+      "id": "g423",
+      "date": "2026-12-16",
+      "cat": "it",
+      "code": "",
+      "docDate": "",
+      "content": "Backup website",
+      "isDraft": false
+    },
+    {
+      "id": "g424",
+      "date": "2026-12-23",
+      "cat": "it",
+      "code": "",
+      "docDate": "",
+      "content": "Backup website",
+      "isDraft": false
+    },
+    {
+      "id": "g425",
+      "date": "2026-12-16",
+      "cat": "it",
+      "code": "",
+      "docDate": "",
+      "content": "Hỗ trợ công tác phục hồi dữ liệu",
+      "isDraft": false
+    },
+    {
+      "id": "g426",
+      "date": "2026-12-23",
+      "cat": "it",
+      "code": "",
+      "docDate": "",
+      "content": "Hỗ trợ công tác phục hồi dữ liệu",
+      "isDraft": false
+    },
+    {
+      "id": "g427",
+      "date": "2026-12-16",
+      "cat": "lt",
+      "code": "",
+      "docDate": "",
+      "content": "Hỗ trợ trích lục hồ sơ tại kho 255 (2 PYC)",
+      "isDraft": false
+    },
+    {
+      "id": "g428",
+      "date": "2026-12-23",
+      "cat": "lt",
+      "code": "",
+      "docDate": "",
+      "content": "Hỗ trợ trích lục hồ sơ tại kho 255 (2 PYC)",
+      "isDraft": false
+    },
+    {
+      "id": "g429",
+      "date": "2026-12-16",
+      "cat": "lt",
+      "code": "",
+      "docDate": "",
+      "content": "Hỗ trợ trả hợp đồng thuê nhả vào hồ sơ tương ứng",
+      "isDraft": false
+    },
+    {
+      "id": "g430",
+      "date": "2026-12-23",
+      "cat": "lt",
+      "code": "",
+      "docDate": "",
+      "content": "Hỗ trợ trả hợp đồng thuê nhả vào hồ sơ tương ứng",
+      "isDraft": false
+    },
+    {
+      "id": "g431",
+      "date": "2026-12-30",
+      "cat": "it",
+      "code": "",
+      "docDate": "",
+      "content": "Backup website",
+      "isDraft": false
+    },
+    {
+      "id": "g432",
+      "date": "2026-12-30",
+      "cat": "it",
+      "code": "",
+      "docDate": "",
+      "content": "Hỗ trợ công tác phục hồi dữ liệu",
+      "isDraft": false
+    },
+    {
+      "id": "g433",
+      "date": "2026-12-30",
+      "cat": "lt",
+      "code": "",
+      "docDate": "",
+      "content": "Hỗ trợ trích lục hồ sơ tại kho 255 (2 PYC)",
+      "isDraft": false
+    },
+    {
+      "id": "g434",
+      "date": "2026-12-30",
+      "cat": "lt",
+      "code": "",
+      "docDate": "",
+      "content": "Hỗ trợ trả hợp đồng thuê nhả vào hồ sơ tương ứng",
+      "isDraft": false
+    },
+    {
+      "id": "t1790647699781",
+      "date": "2026-09-29",
+      "cat": "dt",
+      "code": "16932/TB-TTQLNGĐXD-QLKTCT",
+      "docDate": "2026-09-22",
+      "content": "Về việc mời các đơn vị tham gia báo giá gói thầu \"Thẩm định giá để xác định giá thuê các cơ sở nhà, đất là tài sản công không sử dụng mục đích để ở Trung tâm đang quản lý\"",
+      "isDraft": false
+    },
+    {
+      "id": "t1790667046983",
+      "date": "2026-09-29",
+      "cat": "dt",
+      "code": "17175/TB-TTQLNGĐXD-GĐXD",
+      "docDate": "2026-09-29",
+      "content": "Về việc tham gia thầu phụ thực hiện gói thầu \"Kiểm định chất lượng còn lại của công trình Cư xá cảng số 13 đường Nguyễn Khoái, phường Vĩnh Hội, Thành phố Hồ Chí Minh\"",
+      "isDraft": false
+    },
+    {
+      "id": "t1790668057071",
+      "date": "2026-09-29",
+      "cat": "qtw",
+      "code": "560/PTr-TTLT",
+      "docDate": "2026-09-29",
+      "content": "Về việc ký ban hành Thông báo mời báo giá thiết kế Trang thông tin điện tử của Trung tâm (Lần 2)",
+      "isDraft": true,
+      "jid": "jmw1hryls0",
+      "role": "trinh",
+      "outNo": "17210/TB-TTQLNGĐXD-TTLT",
+      "outDate": "2026-09-29",
+      "sg": "ky"
+    },
+    {
+      "id": "t1790671655095",
+      "date": "2026-09-29",
+      "cat": "dt",
+      "code": "17188/TB-TTQLNGĐXD-GĐXD",
+      "docDate": "2026-09-29",
+      "content": "Về việc tham gia thầu phụ thực hiện Kiểm định đánh giá chất lượng hiện trạng công trình, kiểm tra khả năng chịu lực của công trình Tổ hợp hóa dầu Miền Nam Việt Nam",
+      "isDraft": false
+    },
+    {
+      "id": "t1790732629641",
+      "date": "2026-09-30",
+      "cat": "dt",
+      "code": "17210/TTQLNGĐXD-TTLT",
+      "docDate": "2026-09-29",
+      "content": "Về việc mời các đơn vị tư vấn báo giá thiết kế Trang thông tin điện tử của Trung tâm Quản lý nhà và Giám định xây dựng (Lần 2)",
+      "isDraft": false
+    },
+    {
+      "id": "t1790840124085",
+      "date": "2026-10-01",
+      "cat": "qtw",
+      "code": "2/PTr-BQTTTT",
+      "docDate": "2026-09-30",
+      "content": "Về việc ký ban hành văn bản phân công cung cấp tin tức, bài viết và quy trình đăng tải thông tin lên Trang thông tin điện tử của Trung tâm",
+      "isDraft": true,
+      "jid": "jmw1hrxrc1",
+      "role": "trinh",
+      "outDate": "2026-10-02",
+      "sg": "ky",
+      "sgDate": "2026-11-04",
+      "outNo": "17626/TTQLNGĐXD-BQTTTT",
+      "outId": "t1791170679559"
+    },
+    {
+      "id": "t1790910761266",
+      "date": "2026-10-02",
+      "cat": "dt",
+      "code": "17433/TTQLNGĐXD-TCHC",
+      "docDate": "2026-10-01",
+      "content": "ĐỔI MỚI SÁNG TẠO TRONG ỨNG DỤNG CÔNG NGHỆ, QUẢN LÝ DỮ LIỆU VÀ NÂNG CAO HIỆU QUẢ HOẠT ĐỘNG TẠI TRUNG TÂM",
+      "isDraft": false
+    },
+    {
+      "id": "t1791170344049",
+      "date": "2026-10-05",
+      "cat": "dt",
+      "code": "17755/TTQLNGĐXD-PC",
+      "docDate": "2026-10-05",
+      "content": "Về việc cung cấp Bộ tài liệu tuyên truyền ngắn về Luật Phát triển đô thị",
+      "isDraft": false
+    },
+    {
+      "id": "t1791170679559",
+      "date": "2026-10-05",
+      "cat": "qtw",
+      "code": "17626/TTQLNGĐXD-BQTTTT",
+      "docDate": "2026-10-02",
+      "content": "Về việc phân công cung cấp tin tức, bài viết và quy trình đăng tải thông tin lên Trang thông tin điện tử của Trung tâm",
+      "isDraft": true,
+      "jid": "jmw1hrxrc1",
+      "role": "cv",
+      "outDate": "2026-11-04",
+      "sg": "ky"
+    },
+    {
+      "id": "t1791171932815",
+      "date": "2026-10-06",
+      "cat": "c1791170789892",
+      "code": "",
+      "docDate": "",
+      "content": "Tiếp tục thực hiện công tác tiếp nhận nhà, đất theo Thông báo số 17460/TB-TTQLNGĐXD-QLKTCT ngày 02/10/2026",
+      "isDraft": false
+    },
+    {
+      "id": "t1791172883914",
+      "date": "2026-10-05",
+      "cat": "qtw",
+      "code": "3/BQTTTT-TND",
+      "docDate": "2026-10-05",
+      "content": "Về việc cung cấp tin, bài đăng tải trên Trang Thông tin điện tử Trung tâm (quý 4/2026)",
+      "isDraft": true,
+      "jid": "jmw1hrxrc1",
+      "role": "cv",
+      "outDate": "2026-11-04",
+      "sg": "gui"
+    },
+    {
+      "id": "t1791273408418",
+      "date": "2026-10-06",
+      "cat": "qtw",
+      "code": "",
+      "docDate": "",
+      "content": "Thương thảo hợp đồng với đơn vị nộp báo giá dịch vụ thiết kế website",
+      "isDraft": false
+    },
+    {
+      "id": "t1791273461185",
+      "date": "2026-10-05",
+      "cat": "c1791170789892",
+      "code": "",
+      "docDate": "",
+      "content": "Hỗ trợ phòng Tổ chức hành chính vận chuyển hồ sơ của Đảng viên Trung tâm",
+      "isDraft": false
+    },
+    {
+      "id": "t1791446874635",
+      "date": "2026-10-08",
+      "cat": "dt",
+      "code": "6264/QĐ-UBND",
+      "docDate": "2026-09-24",
+      "content": "QUYẾT ĐỊNH Về thu hồi nhà ở cũ thuộc tài sản công tại 06 lô số chung cư (Lô I, II, VIII, IX, X, XI), Cư xá Thanh Đa, phường Bình Quới",
+      "isDraft": false
+    },
+    {
+      "id": "t1791446947505",
+      "date": "2026-10-08",
+      "cat": "c1791170789892",
+      "code": "",
+      "docDate": "",
+      "content": "Tiếp tục thực hiện công tác tiếp nhận nhà, đất theo Thông báo số 17460/TB-TTQLNGĐXD-QLKTCT ngày 02/10/2026",
+      "isDraft": false
+    },
+    {
+      "id": "t1791530701815",
+      "date": "2026-10-09",
+      "cat": "dt",
+      "code": "17806/TB-TTQLNGĐXD-QLKTCT",
+      "docDate": "2026-10-06",
+      "content": "Về việc mời các đơn vị tham gia báo giá Gói thầu \"Thẩm định giá để xác định giá thuê các cơ sở nhà, đất là tài sản công không sử dụng mục đích để ở Trung tâm đang quản lý\"",
+      "isDraft": false
+    },
+    {
+      "id": "t1791530934101",
+      "date": "2026-10-09",
+      "cat": "dt",
+      "code": "1042/PC-TC",
+      "docDate": "2026-10-09",
+      "content": "V/v công khai tình hình thực hiện ngân sách nhà nước 09 tháng đầu năm 2026",
+      "isDraft": false
+    },
+    {
+      "id": "t1791531068802",
+      "date": "2026-10-09",
+      "cat": "dt",
+      "code": "17969/TB-TTQLNGĐXD-QLVH",
+      "docDate": "2026-10-09",
+      "content": "THÔNG BÁO\nV/v mời các Nhà thầu có năng lực và kinh nghiệm tham gia thực hiện các gói thầu thuộc công trình “Bảo trì, sửa chữa hệ thống phòng cháy, chữa cháy Nhà ở xã hội tại khu nhà ở Chí Linh A, phường Rạch Dừa, Thành phố Hồ Chí Minh”",
+      "isDraft": false
+    },
+    {
+      "id": "t1791531293871",
+      "date": "2026-10-09",
+      "cat": "dt",
+      "code": "17814/TB-TTQLNGĐXD-QLVH",
+      "docDate": "2026-10-06",
+      "content": "THÔNG BÁO\nVề việc mời các đơn vị cung cấp dịch vụ quản lý vận hành nhà chung cư tham gia báo giá thực hiện công tác Quản lý vận hành tại Chung cư tái định cư Đông Quốc lộ 56, phường Bà Rịa do Trung tâm Quản lý nhà và Giám định xây dựng làm chủ đầu tư",
+      "isDraft": false
+    },
+    {
+      "id": "t1791531446794",
+      "date": "2026-10-09",
+      "cat": "dt",
+      "code": "17787/TTQLNGĐXD-TCHC",
+      "docDate": "2026-10-06",
+      "content": "Về việc yêu cầu báo giá ổ khóa",
+      "isDraft": false
+    },
+    {
+      "id": "t1791790508482",
+      "date": "2026-10-12",
+      "cat": "dt",
+      "code": "17992/TTQLNGĐXD-PC",
+      "docDate": "2026-10-09",
+      "content": "V/v triển khai tham gia Cuộc thi trực tuyến \"Tìm hiểu về Hiến pháp; các Nghị quyết của Bộ Chính trị: Nghị quyết số 66-NQ/TW, Nghị quyết số 09-NQ/TW và Luật Phát triển đô thị số 18/2026/QH16\"",
+      "isDraft": false
+    },
+    {
+      "id": "t1791794663400",
+      "date": "2026-10-12",
+      "cat": "it",
+      "code": "",
+      "docDate": "",
+      "content": "Backup Trang thông tin",
+      "isDraft": false
+    },
+    {
+      "id": "t1792031063927",
+      "date": "2026-10-15",
+      "cat": "dt",
+      "code": "18159/TTQLNGĐXD-TCHC",
+      "docDate": "2026-10-14",
+      "content": "V/v yêu cầu báo giá khám sức khỏe định kỳ năm 2026",
+      "isDraft": false
+    },
+    {
+      "id": "t1792035955889340",
+      "date": "2026-10-15",
+      "cat": "dt",
+      "code": "36721/SXD-VP",
+      "docDate": "2026-10-13",
+      "content": "V/v phổ cập bộ nhận diện Ngày Chuyển đổi số quốc gia năm 2026",
+      "isDraft": false
+    },
+    {
+      "id": "t1792056876527",
+      "date": "2026-10-15",
+      "cat": "dt",
+      "code": "18240/TB-TTQLNGĐXD-QLKTCT",
+      "docDate": "2026-10-14",
+      "content": "Về việc mời các đơn vị tham gia báo giá gói thầu \"Thẩm định giá để xác định giá thuê các cơ sở nhà, đất là tài sản công không sử dụng mục đích để ở Trung tâm đang quản lý\" (18 cơ sở nhà, đất tiếp nhận theo Quyết định số 6236/QĐ-UBND ngày 24/9/2026 của Ủy ban nhân dân Thành phố)",
+      "isDraft": false
+    },
+    {
+      "id": "t1792373258835",
+      "date": "2026-10-19",
+      "cat": "dt",
+      "code": "18269/TB-TTQLNGĐXD-QLKTCT",
+      "docDate": "2026-10-16",
+      "content": "Về việc mời các đơn vị tham gia báo giá Gói thầu \"Thẩm định giá để xác định giá thuê các cơ sở nhà, đất là tài sản công không sử dụng mục đích để ở Trung tâm đang quản lý\"",
+      "isDraft": false
+    },
+    {
+      "id": "t1792373380360",
+      "date": "2026-10-19",
+      "cat": "dt",
+      "code": "18287/TB-TTQLNGĐXD-QLVH",
+      "docDate": "2026-10-19",
+      "content": "V/v mời các Nhà thầu có năng lực và kinh nghiệm tham gia thực hiện các gói thầu thuộc công trình \"Sửa chữa, bảo trì các chung cư nhà ở xã hội\"",
+      "isDraft": false
+    },
+    {
+      "id": "t1792565764510",
+      "date": "2026-10-21",
+      "cat": "dt",
+      "code": "18486/TB-TTQLNGĐXD-QLVH",
+      "docDate": "2026-10-21",
+      "content": "Về việc mời các Nhà thầu, Nhà thầu liên danh có năng lực và kinh nghiệm tham gia thực hiện gói thầu \"Thi công xây dựng + Cung cấp, lắp đặt thiết bị chung cư Tân Mỹ\" thuộc công trình \"Sửa chữa các hạng mục xuống cấp, có nguy cơ cháy nổ, mất an toàn thuộc sở hữu chung tại Lô A, Lô B chung cư Tân Mỹ, phường Tân Mỹ\"",
+      "isDraft": false
+    },
+    {
+      "id": "t1792634720696",
+      "date": "2026-10-21",
+      "cat": "qtw",
+      "code": "582/PTr-TTLT",
+      "docDate": "2026-10-19",
+      "content": "PHIẾU TRÌNH Về việc thực hiện xây dựng mới Trang thông tin điện tử (website) của Trung tâm Quản lý nhà và Giám định xây dựng",
+      "isDraft": true,
+      "jid": "jmw1hryls0",
+      "role": "trinh",
+      "outDate": "2026-11-04",
+      "sg": "ky"
+    },
+    {
+      "id": "t1792979540285",
+      "date": "2026-10-26",
+      "cat": "dt",
+      "code": "18825/TB-TTQLNGĐXD-QLVH",
+      "docDate": "2026-10-23",
+      "content": "Về việc mời các Nhà thầu có năng lực và kinh nghiệm tham gia thực hiện các gói thầu thuộc công trình \"Bảo trì, sửa chữa hệ thống phòng cháy, chữa cháy Chung cư 18 tầng Phú Mỹ, phường Phú Mỹ, Thành phố Hồ Chí Minh\"",
+      "isDraft": false
+    },
+    {
+      "id": "t1793088435597",
+      "date": "2026-10-23",
+      "cat": "c1791170789892",
+      "code": "",
+      "docDate": "",
+      "content": "Hoàn thành việc học tập, thi tìm hiểu Nghị quyết trên ứng dụng Thanh niên Việt Nam",
+      "isDraft": false
+    },
+    {
+      "id": "t1793157424839",
+      "date": "2026-10-28",
+      "cat": "dt",
+      "code": "18977/TTQLNGĐXD-PC",
+      "docDate": "2026-10-28",
+      "content": "Đăng tải nội dung, thể thức Cuộc thi trực tuyến “Tìm hiểu Luật Phát triển đô thị”",
+      "isDraft": false
+    },
+    {
+      "id": "t1793331253181",
+      "date": "2026-10-30",
+      "cat": "dt",
+      "code": "19069/TB-TTQLNGĐXD-QLKTCT",
+      "docDate": "2026-10-29",
+      "content": "V/v cho thuê nhà do Trung tâm Quản lý nhà và Giám định xây dựng quản lý, khai thác theo phương án chấp thuận tại Công văn số 10372/UBND-KT ngày 23 tháng 10 năm 2026 của Ủy ban nhân dân Thành phố",
+      "isDraft": false
+    },
+    {
+      "id": "t179334941418956",
+      "date": "2026-10-29",
+      "cat": "qtw",
+      "code": "610/PTr-TTLT",
+      "docDate": "2026-10-29",
+      "content": "Về việc phê duyệt chủ trương thực hiện xây dựng lại Trang thông tin điện tử của Trung tâm",
+      "isDraft": true,
+      "jid": "j1793606678586",
+      "role": "trinh",
+      "outDate": "2026-11-04",
+      "sg": "ky"
+    },
+    {
+      "id": "t1793606621970",
+      "date": "2026-11-02",
+      "cat": "qtw",
+      "code": "",
+      "docDate": "",
+      "content": "Làm việc với đơn vị tư vấn về nội dung xây dựng trang web mới",
+      "isDraft": false
+    },
+    {
+      "id": "t1793684056699",
+      "date": "2026-11-03",
+      "cat": "dt",
+      "code": "19046/TTQLNGĐXD-QLKTCT",
+      "docDate": "2026-10-28",
+      "content": "V/v mời báo giá (lần 2) gói thầu \"Thẩm định giá để xác định giá thuê các cơ sở nhà, đất là tài sản công không sử dụng mục đích để ở Trung tâm đang quản lý\" (18 cơ sở nhà, đất tiếp nhận theo Quyết định số 6236/QĐ-UBND ngày 24/9/2026 của Ủy ban nhân dân Thành phố)",
+      "isDraft": false
+    },
+    {
+      "id": "t1793688720619",
+      "date": "2026-11-03",
+      "cat": "it",
+      "code": "617/PTr-TTLT",
+      "docDate": "2026-11-03",
+      "content": "Về góp ý dự thảo Kế hoạch triển khai các nhiệm vụ trọng tâm trong công tác chuyển đổi số và xây dựng đô thị thông minh của Sở Xây dựng, giai đoạn 2026-2028",
+      "isDraft": true,
+      "jid": "j1793693342863",
+      "role": "trinh",
+      "outNo": "19333/TTQLNGĐXD-TTLT",
+      "outDate": "2026-11-04",
+      "sg": "gui",
+      "outId": "t1793775527871674",
+      "path": "D:\\2. CNTT\\26-11-03 Vv lấy ý kiến dự thảo Kế hoạch triển khai các nhiệm vụ trọng tâm trong công tác chuyển đổi số và xây dựng đô thị thông minh của Sở Xây dựng, giai đoạn 2026-2028\\2 617-PTr-TTLT.signed.signed.signed.pdf"
+    },
+    {
+      "id": "t1793689255365",
+      "date": "2026-11-03",
+      "cat": "dt",
+      "code": "19064/TB-TTQLNGĐXD-QLVH",
+      "docDate": "2026-10-29",
+      "content": "THÔNG BÁO Về việc mời các đơn vị khảo sát, báo giá sửa chữa, bảo trì một số hạng mục tại Chung cư 12 tầng (Khu tái định cư 10ha), phường Đông Hưng Thuận, Thành phố Hồ Chí Minh",
+      "isDraft": false
+    },
+    {
+      "id": "t1793763820287",
+      "date": "2026-11-04",
+      "cat": "tb",
+      "code": "622/PC-TTLT",
+      "docDate": "2026-11-04",
+      "content": "Về việc kiểm tra hiện trạng và xây dựng kế hoạch thay thế bộ lưu điện (UPS) tại phòng máy chủ Trung tâm",
+      "isDraft": true,
+      "sgDate": "2026-11-04",
+      "sg": "gui",
+      "path": "D:\\2. CNTT\\26-11-04 Đề nghị P-TCHC ktra UPS\\622-PC_TTLT.signed.signed.pdf",
+      "jid": "j1794193711102",
+      "role": "pc"
+    },
+    {
+      "id": "t1793775527871674",
+      "date": "2026-11-04",
+      "cat": "it",
+      "code": "19333/TTQLNGĐXD-TTLT",
+      "docDate": "2026-11-03",
+      "content": "Về góp ý dự thảo Kế hoạch triển khai các nhiệm vụ trọng tâm trong công tác chuyển đổi số và xây dựng đô thị thông minh của Sở Xây dựng, giai đoạn 2026-2028",
+      "isDraft": true,
+      "sg": "gui",
+      "jid": "j1793693342863",
+      "role": "cv",
+      "path": "D:\\2. CNTT\\26-11-03 Vv lấy ý kiến dự thảo Kế hoạch triển khai các nhiệm vụ trọng tâm trong công tác chuyển đổi số và xây dựng đô thị thông minh của Sở Xây dựng, giai đoạn 2026-2028\\1 CV-Về tham gia ý kiến về dự thảo Quyết định ban hành.pdf"
+    },
+    {
+      "id": "t1793775552075971",
+      "date": "2026-06-08",
+      "cat": "it",
+      "code": "5666/QĐ-TTQLNGĐXD-TTLT",
+      "docDate": "2026-06-08",
+      "content": "Về việc Ban hành Quy chế hoạt động của Trang Thông tin điện tử Trung tâm Quản lý nhà và Giám định xây dựng",
+      "isDraft": true,
+      "sg": "ky",
+      "jid": "jmw1hrxrc1",
+      "role": "cv"
+    },
+    {
+      "id": "tx202611043055",
+      "date": "2026-11-04",
+      "cat": "lt",
+      "code": "",
+      "docDate": "",
+      "content": "Trích lục hồ sơ: 4 phiếu yêu cầu, 10 hồ sơ đã lục",
+      "isDraft": false,
+      "ex": "2026-11-04"
+    },
+    {
+      "id": "t1794189139589",
+      "date": "2026-11-09",
+      "cat": "it",
+      "code": "",
+      "docDate": "",
+      "content": "Backup Trang thông tin",
+      "isDraft": false
+    },
+    {
+      "id": "t1794193721140",
+      "date": "2026-11-09",
+      "cat": "tb",
+      "code": "627/PC-TTLT",
+      "docDate": "2026-11-09",
+      "content": "Về việc cung cấp yêu cầu kỹ thuật bộ lưu điện (UPS) dự kiến thay thế tại phòng máy chủ Trung tâm",
+      "isDraft": true,
+      "jid": "j1794193711102",
+      "role": "pc",
+      "sg": "gui",
+      "path": "D:\\3. Quản trị thiết bị\\26-11-04 Đề nghị P-TCHC ktra UPS\\627-PC_TTLT.signed.signed.pdf"
+    },
+    {
+      "id": "t1794365786336530",
+      "date": "2026-11-09",
+      "cat": "dt",
+      "code": "",
+      "docDate": "",
+      "content": "🌻 CHI ĐOÀN TRUNG TÂM QUẢN LÝ NHÀ VÀ GIÁM ĐỊNH XÂY DỰNG TỔ CHỨC HỌP LẤY Ý KIẾN ĐOÀN VIÊN VỀ VIỆC GIỚI THIỆU ĐOÀN VIÊN ƯU TÚ KẾT NẠP ĐẢNG 🌻",
+      "isDraft": false
+    },
+    {
+      "id": "t1794451650982354",
+      "date": "2026-11-12",
+      "cat": "dt",
+      "code": "19685/TB-TTQLNGĐXD-QLKTCT",
+      "docDate": "2026-11-11",
+      "content": "Về kết quả tổ chức xác định người được quyền thuê nhà đối với 14 cơ sở nhà, đất (Đợt 1) theo Nghị quyết số 31/2026/NQ-CP ngày 24 tháng 6 năm 2026 của Chính phủ của Trung tâm Quản lý nhà và Giám định xây dựng tổ chức",
+      "isDraft": false
+    },
+    {
+      "id": "t1794452583502",
+      "date": "2026-11-11",
+      "cat": "it",
+      "code": "",
+      "docDate": "",
+      "content": "Dự họp về việc triển khai thực hiện kế hoạch thuê dịch vụ công nghệ số",
+      "isDraft": true,
+      "path": "D:\\2. CNTT\\26-11-11 Họp phần mềm KT Chuyên ngành\\Bien_ban_cuoc_hop_14h_11-11-2026.docx",
+      "jid": "j1794452572536",
+      "role": "bc"
+    },
+    {
+      "id": "t1794457902459",
+      "date": "2026-11-12",
+      "cat": "it",
+      "code": "638/PTr-TTLT",
+      "docDate": "2026-11-12",
+      "content": "Về việc triển khai Công văn Số 9765/CATP-ANM của Công an Thành phố Hồ Chí Minh",
+      "isDraft": true,
+      "jid": "j1794457898640",
+      "role": "trinh",
+      "sg": "gui",
+      "sgDate": "2026-11-12",
+      "outNo": "19793/TTQLNGĐXD-TTLT",
+      "outDate": "2026-11-16",
+      "outId": "t17947936186380",
+      "path": "D:\\2. CNTT\\26-11-12 (1) vv triển khai Công văn Số 9765-CATP-ANM của Công an Thành phố Hồ Chí Minh\\2. 638-PTr-TTLT.signed.signed.signed.pdf"
+    },
+    {
+      "id": "t1794457966096",
+      "date": "2026-11-12",
+      "cat": "it",
+      "code": "639/PC-TTLT",
+      "docDate": "",
+      "content": "Về việc rà soát, đề xuất nhu cầu kết nối, chia sẻ và khai thác cơ sở dữ liệu ngành Xây dựng",
+      "isDraft": true,
+      "jid": "j1794457956243",
+      "role": "pc",
+      "sg": "ky",
+      "sgDate": "2026-11-12",
+      "outDate": "2026-11-12",
+      "path": "D:\\2. CNTT\\26-11-12 (2) Về việc kết nối, chia sẻ và khai thác Cơ sở dữ liệu ngành Xây dựng\\PC Về việc đề xuất kết nối dữ liệu.signed.signed.pdf"
+    },
+    {
+      "id": "t1794470392811",
+      "date": "2026-11-12",
+      "cat": "it",
+      "code": "641/Ptr-TTLT",
+      "docDate": "2026-11-12",
+      "content": "Về góp ý dự thảo Kế hoạch Triển khai chi tiết Hệ thống ứng dụng GIS quản lý dữ liệu hạ tầng kỹ thuật đô thị trên địa bàn Thành phố Hồ Chí Minh",
+      "isDraft": true,
+      "jid": "j1794470389990",
+      "role": "trinh",
+      "sg": "gui",
+      "sgDate": "2026-11-12",
+      "outNo": "19773/TTQLNGĐXD-TTLT",
+      "outDate": "2026-11-12",
+      "outId": "t1794540927991970",
+      "path": "D:\\2. CNTT\\26-11-12 (3) Về góp ý dự thảo Kế hoạch Triển khai chi tiết Hệ thống ứng dụng GIS quản lý dữ liệu hạ tầng kỹ thuật đô thị trên địa bàn Thành phố Hồ Chí Minh\\2 641-PTr-TTLT.signed.signed.signed.pdf"
+    },
+    {
+      "id": "t1794540927991970",
+      "date": "2026-11-12",
+      "cat": "it",
+      "code": "19773/TTQLNGĐXD-TTLT",
+      "docDate": "2026-11-12",
+      "content": "Về góp ý dự thảo Kế hoạch Triển khai chi tiết Hệ thống ứng dụng GIS quản lý dữ liệu hạ tầng kỹ thuật đô thị trên địa bàn Thành phố Hồ Chí Minh",
+      "isDraft": true,
+      "sg": "gui",
+      "jid": "j1794470389990",
+      "role": "cv",
+      "path": "D:\\2. CNTT\\26-11-12 (3) Về góp ý dự thảo Kế hoạch Triển khai chi tiết Hệ thống ứng dụng GIS quản lý dữ liệu hạ tầng kỹ thuật đô thị trên địa bàn Thành phố Hồ Chí Minh\\19773-TTQLNGDXD-TTLT.signed.pdf"
+    },
+    {
+      "id": "t1794793385936",
+      "date": "2026-11-16",
+      "cat": "dt",
+      "code": "19770/TB-TTQLNGĐXD-QLKTCT",
+      "docDate": "2026-11-13",
+      "content": "THÔNG BÁO\nV/v cho thuê nhà do Trung tâm Quản lý nhà và Giám định xây dựng\nquản lý, khai thác theo phương án chấp thuận tại Công văn số 10372/UBND-KT ngày 23 tháng 10 năm 2026\ncủa Ủy ban nhân dân Thành phố (đợt 01) - lần 2",
+      "isDraft": false
+    },
+    {
+      "id": "t17947936186380",
+      "date": "2026-11-16",
+      "cat": "it",
+      "code": "19793/TTQLNGĐXD-TTLT",
+      "docDate": "2026-11-13",
+      "content": "Về việc triển khai Công văn Số 9765/CATP-ANM của Công an Thành phố Hồ Chí Minh",
+      "isDraft": true,
+      "sg": "gui",
+      "jid": "j1794457898640",
+      "role": "cv",
+      "path": "D:\\2. CNTT\\26-11-12 (1) vv triển khai Công văn Số 9765-CATP-ANM của Công an Thành phố Hồ Chí Minh\\1. VB TK.signed.signed.signed.signed.signed.pdf"
+    },
+    {
+      "id": "t1794795548024",
+      "date": "2026-11-16",
+      "cat": "dt",
+      "code": "19765/TB-TTQLNGĐXD-QLVH",
+      "docDate": "2026-11-12",
+      "content": "THÔNG BÁO\nV/v mời các Nhà thầu tham gia các công trình sửa chữa quỹ nhà ở thuộc tài sản công để bố trí tái định cư, tạm cư cho các hộ dân bị ảnh hưởng bởi các dự án trên địa bàn Thành phố",
+      "isDraft": false,
+      "path": "https://hmcic.vn/tin-tuyen-dung-mua-sam/thong-bao-v-v-moi-cac-nha-thau-tham-gia-cac-cong-trinh-sua-chua-quy-nha-o-thuoc-tai-san-cong-de-bo-tri-tai-dinh-cu-tam-cu-cho-cac-ho-dan-bi-anh-huong-boi-cac-du-an-tren-dia-ban-thanh-pho-4/"
+    },
+    {
+      "id": "t1794796441025",
+      "date": "2026-11-16",
+      "cat": "dt",
+      "code": "19827/TB-TTQLNGĐXD-TTLT",
+      "docDate": "2026-11-13",
+      "content": "THÔNG BÁO\nVề việc mời cung cấp thông tin báo giá Dự án “Thuê phần mềm và xây dựng cơ sở dữ liệu Hệ thống quản lý nhà ở Thành phố Hồ Chí Minh (HOMS-HCM)”",
+      "isDraft": false,
+      "path": "https://hmcic.vn/tin-tuyen-dung-mua-sam/thong-bao-ve-viec-moi-cung-cap-thong-tin-bao-gia-du-an-thue-phan-mem-va-xay-dung-co-so-du-lieu-he-thong-quan-ly-nha-o-thanh-pho-ho-chi-minh-homs-hcm/"
+    },
+    {
+      "id": "t1794796819670",
+      "date": "2026-11-16",
+      "cat": "qtw",
+      "code": "",
+      "docDate": "",
+      "content": "Làm việc với đơn vị tư vấn, tổng hợp các điểm cần điều chỉnh của website",
+      "isDraft": false,
+      "path": "C:\\Users\\ADMIN\\Desktop\\WEB\\HMCIC\\Danh_sach_can_chinh_sua_website_HMCIC.docx"
+    },
+    {
+      "id": "t1794821182291",
+      "date": "2026-11-16",
+      "cat": "it",
+      "code": "644/PTr-TTLT",
+      "docDate": "2026-11-16",
+      "content": "Về việc đề xuất nhu cầu kết nối, chia sẻ và khai thác cơ sở dữ liệu ngành Xây dựng",
+      "isDraft": true,
+      "path": "D:\\2. CNTT\\26-11-12 (2) Về việc kết nối, chia sẻ và khai thác Cơ sở dữ liệu ngành Xây dựng",
+      "jid": "j1794457956243",
+      "role": "trinh",
+      "sg": "trinh",
+      "sgDate": "2026-11-16"
+    }
+  ],
+  "cats": [
+    {
+      "key": "dt",
+      "name": "Đăng tải thông tin",
+      "color": "#2563eb"
+    },
+    {
+      "key": "it",
+      "name": "Công nghệ thông tin",
+      "color": "#7c3aed"
+    },
+    {
+      "key": "tb",
+      "name": "Quản trị thiết bị",
+      "color": "#d97706"
+    },
+    {
+      "key": "lt",
+      "name": "Lưu trữ",
+      "color": "#059669"
+    },
+    {
+      "key": "kh",
+      "name": "Phúc đáp văn bản",
+      "color": "#64748b"
+    },
+    {
+      "key": "qtw",
+      "name": "Quản trị website",
+      "color": "#db2777"
+    },
+    {
+      "key": "c1791170789892",
+      "name": "Khác",
+      "color": "#eb2424"
+    }
+  ],
+  "posts": [
+    {
+      "id": "p1791169638184",
+      "dept": "Phòng Thông tin - Lưu trữ",
+      "title": "ĐỔI MỚI SÁNG TẠO TRONG ỨNG DỤNG CÔNG NGHỆ, QUẢN LÝ DỮ LIỆU VÀ NÂNG CAO HIỆU QUẢ HOẠT ĐỘNG TẠI TRUNG TÂM",
+      "section": "Tin tức",
+      "recvDate": "2026-10-02",
+      "postDate": "2026-10-02",
+      "status": "posted",
+      "url": "https://hmcic.vn/tin-xay-dung/thong-tin-cong-nghe-ky-thuat-xay-dung/doi-moi-sang-tao-trong-ung-dung-cong-nghe-quan-ly-du-lieu-va-nang-cao-hieu-qua-hoat-dong-tai-trung-tam/",
+      "note": "",
+      "logged": true
+    },
+    {
+      "id": "p1791170385350",
+      "dept": "Phòng Pháp chế",
+      "title": "Về việc cung cấp Bộ tài liệu tuyên truyền ngắn về Luật Phát triển đô thị",
+      "section": "Tin tức",
+      "recvDate": "2026-10-05",
+      "postDate": "2026-10-05",
+      "status": "posted",
+      "url": "https://hmcic.vn/tin-noi-bo/cung-cap-bo-tai-lieu-tuyen-truyen-ngan-ve-luat-phat-trien-do-thi/",
+      "note": "",
+      "logged": true,
+      "code": "17755/TTQLNGĐXD-PC",
+      "docDate": "2026-10-05"
+    },
+    {
+      "id": "p1791530929019",
+      "logged": true,
+      "dept": "Phòng Tài chính",
+      "title": "V/v công khai tình hình thực hiện ngân sách nhà nước 09 tháng đầu năm 2026",
+      "section": "Thông báo",
+      "recvDate": "2026-10-09",
+      "status": "posted",
+      "postDate": "2026-10-09",
+      "url": "https://hmcic.vn/tin-noi-bo/thong-bao-v-v-cong-khai-tinh-hinh-thuc-hien-ngan-sach-nha-nuoc-09-thang-dau-nam-2026/",
+      "note": "",
+      "code": "17887/TB-TTQLNGĐXD-TC",
+      "docDate": "2026-10-07"
+    },
+    {
+      "id": "p1791531155932",
+      "logged": true,
+      "dept": "Phòng Tổ chức - Hành chính",
+      "title": "QUYẾT ĐỊNH Về thu hồi nhà ở cũ thuộc tài sản công tại 06 lô số chung cư (Lô I, II, VIII, IX, X, XI), Cư xá Thanh Đa, phường Bình Quới",
+      "section": "Thông báo",
+      "recvDate": "2026-10-08",
+      "status": "posted",
+      "postDate": "2026-10-08",
+      "url": "https://hmcic.vn/tin-xay-dung/tin-phap-luat-trong-linh-vuc-xay-dung/quyet-dinh-ve-thu-hoi-nha-o-cu-thuoc-tai-san-cong-tai-06-lo-so-chung-cu-lo-i-ii-viii-ix-x-xi-cu-xa-thanh-da-phuong-binh-quoi/",
+      "note": ""
+    },
+    {
+      "id": "p1791790595645",
+      "logged": true,
+      "dept": "Phòng Thông tin - Lưu trữ",
+      "title": "V/v triển khai tham gia Cuộc thi trực tuyến \"Tìm hiểu về Hiến pháp; các Nghị quyết của Bộ Chính trị: Nghị quyết số 66-NQ/TW, Nghị quyết số 09-NQ/TW và Luật Phát triển đô thị số 18/2026/QH16\"",
+      "section": "Thông báo",
+      "recvDate": "2026-10-09",
+      "status": "posted",
+      "postDate": "2026-10-12",
+      "url": "https://hmcic.vn/tin-noi-bo/trien-khai-tham-gia-cuoc-thi-truc-tuyen-tim-hieu-ve-hien-phap-cac-nghi-quyet-cua-bo-chinh-tri-nghi-quyet-so-66-nq-tw-nghi-quyet-so-09-nq-tw-va-luat-phat-trien-do-thi-so-18-2026-qh16/",
+      "note": "Phòng Pháp chế yêu cầu phòng TTLT viết bài phổ biến"
+    },
+    {
+      "id": "p1792032947044",
+      "logged": true,
+      "dept": "Phòng Kế hoạch và Đầu tư",
+      "title": "288 căn hộ Thành Thái - bổ sung nguồn lực nhà ở công vụ  cho Thành phố Hồ Chí Minh",
+      "section": "Tin tức",
+      "recvDate": "2026-10-14",
+      "status": "posted",
+      "postDate": "2026-10-15",
+      "url": "https://hmcic.vn/tin-xay-dung/tin-tuc-nganh-xay-dung/288-can-ho-thanh-thai-bo-sung-nguon-luc-nha-o-cong-vu-cho-thanh-pho-ho-chi-minh/",
+      "note": "",
+      "code": "1093/PC-KHĐT",
+      "docDate": "2026-10-13"
+    },
+    {
+      "id": "p1792035955888",
+      "logged": true,
+      "logId": "t1792035955889340",
+      "dept": "Phòng Thông tin - Lưu trữ",
+      "title": "V/v phổ cập bộ nhận diện Ngày Chuyển đổi số quốc gia năm 2026",
+      "section": "Hoạt động",
+      "code": "36721/SXD-VP",
+      "docDate": "2026-10-13",
+      "recvDate": "2026-10-15",
+      "status": "posted",
+      "postDate": "2026-10-15",
+      "url": "https://hmcic.vn/tin-noi-bo/%f0%9f%93%a2-huong-ung-ngay-chuyen-doi-so-quoc-gia-10-10-2026/",
+      "note": "Bài viết của P.TTLT thực hiện chỉ đạo công văn số 36721/SXD-VP ngày 13/10/2026"
+    },
+    {
+      "id": "p1793157466599",
+      "logged": true,
+      "logId": "",
+      "dept": "Phòng Pháp chế",
+      "title": "Cuộc thi trực tuyến  “Tìm hiểu Luật Phát triển đô thị”",
+      "section": "Hoạt động",
+      "code": "18977/TTQLNGĐXD-PC",
+      "docDate": "2026-10-28",
+      "recvDate": "2026-10-28",
+      "status": "posted",
+      "postDate": "2026-10-28",
+      "url": "https://hmcic.vn/tin-noi-bo/cuoc-thi-truc-tuyen-tim-hieu-luat-phat-trien-do-thi/",
+      "note": ""
+    },
+    {
+      "id": "p1794365786336",
+      "logged": true,
+      "logId": "t1794365786336530",
+      "dept": "Chi Đoàn Trung tâm",
+      "title": "🌻 CHI ĐOÀN TRUNG TÂM QUẢN LÝ NHÀ VÀ GIÁM ĐỊNH XÂY DỰNG TỔ CHỨC HỌP LẤY Ý KIẾN ĐOÀN VIÊN VỀ VIỆC GIỚI THIỆU ĐOÀN VIÊN ƯU TÚ KẾT NẠP ĐẢNG 🌻",
+      "section": "Hoạt động",
+      "code": "",
+      "docDate": "",
+      "recvDate": "2026-11-11",
+      "status": "posted",
+      "postDate": "2026-11-09",
+      "url": "https://hmcic.vn/tin-doan-the/%f0%9f%8c%bb-chi-doan-trung-tam-quan-ly-nha-va-giam-dinh-xay-dung-to-chuc-hop-lay-y-kien-doan-vien-ve-viec-gioi-thieu-doan-vien-uu-tu-ket-nap-dang-%f0%9f%8c%bb/",
+      "note": ""
+    },
+    {
+      "id": "p1794451650982",
+      "logged": true,
+      "logId": "t1794451650982354",
+      "dept": "Phòng Quản lý, khai thác công trình",
+      "title": "Về kết quả tổ chức xác định người được quyền thuê nhà đối với 14 cơ sở nhà, đất (Đợt 1) theo Nghị quyết số 31/2026/NQ-CP ngày 24 tháng 6 năm 2026 của Chính phủ của Trung tâm Quản lý nhà và Giám định xây dựng tổ chức",
+      "section": "Tin tức",
+      "code": "19685/TB-TTQLNGĐXD-QLKTCT",
+      "docDate": "2026-11-11",
+      "recvDate": "2026-11-11",
+      "status": "posted",
+      "postDate": "2026-11-12",
+      "url": "https://hmcic.vn/tin-tuyen-dung-mua-sam/thong-bao-ve-ket-qua-to-chuc-xac-dinh-nguoi-duoc-quyen-thue-nha-doi-voi-14-co-so-nha-dat-dot-1-theo-nghi-quyet-so-31-2026-nq-cp-ngay-24-thang-6-nam-2026-cua-chinh-phu-cua-trung-tam-quan-ly-nha-va-g/",
+      "note": ""
+    }
+  ],
+  "depts": [
+    {
+      "name": "Phòng Tổ chức - Hành chính",
+      "grp": 1
+    },
+    {
+      "name": "Phòng Tài chính",
+      "grp": 1
+    },
+    {
+      "name": "Phòng Kế hoạch và Đầu tư",
+      "grp": 2
+    },
+    {
+      "name": "Phòng Thông tin - Lưu trữ",
+      "grp": 2
+    },
+    {
+      "name": "Phòng Quản lý nhà",
+      "grp": 3
+    },
+    {
+      "name": "Phòng Quản lý, khai thác công trình",
+      "grp": 3
+    },
+    {
+      "name": "Phòng Quản lý vận hành",
+      "grp": 4
+    },
+    {
+      "name": "Phòng Giám định xây dựng",
+      "grp": 4
+    },
+    {
+      "name": "Phòng Tư vấn xây dựng",
+      "grp": 5
+    },
+    {
+      "name": "Phòng Pháp chế",
+      "grp": 5
+    },
+    {
+      "name": "Chi Đoàn Trung tâm",
+      "grp": 0
+    }
+  ],
+  "rot": {
+    "offset": 0,
+    "months": {},
+    "anchor": {
+      "ym": "2026-10",
+      "start": 0
+    }
+  },
+  "bqt": [
+    {
+      "id": "b1791171681916",
+      "code": "1/PC-BQTTTT-TND",
+      "date": "2026-09-28",
+      "content": "Về việc góp ý nội dung đăng tải lên trang thông tin điện tử của Trung tâm Quản lý nhà và Giám định xây dựng"
+    },
+    {
+      "id": "b1791171763044",
+      "code": "2/PTr-BQTTTT",
+      "date": "2026-09-30",
+      "content": "Về việc ký ban hành văn bản phân công cung cấp tin tức, bài viết và quy trình đăng tải thông tin lên Trang thông tin điện tử của Trung tâm"
+    },
+    {
+      "id": "b1791171825680",
+      "code": "17626/TTQLNGĐXD-BQTTTT",
+      "date": "2026-10-02",
+      "content": "Về việc phân công cung cấp tin tức, bài viết và quy trình đăng tải thông tin lên Trang thông tin điện tử của Trung tâm"
+    },
+    {
+      "id": "b1791172858810",
+      "code": "3/BQTTTT-TND",
+      "date": "2026-10-05",
+      "content": "Về việc cung cấp tin, bài đăng tải trên Trang Thông tin điện tử Trung tâm (quý 4/2026)"
+    }
+  ],
+  "procs": [
+    {
+      "id": "pr_seed1",
+      "name": "Thiết kế mới website của Trung tâm (gói thầu mẫu)",
+      "code": "GT-01/2026",
+      "kind": "own",
+      "price": "14.000.000",
+      "vendor": "",
+      "date": "2026-09-01",
+      "status": "doing",
+      "note": "Gói thầu mẫu theo quy trình 7 bước của đơn vị — bấm bút chì để sửa, thùng rác để xóa.",
+      "steps": [
+        {
+          "id": "smvtd4aem1",
+          "name": "Trình Giám đốc phê duyệt chủ trương thực hiện",
+          "expect": "PTr đã được Giám đốc ký",
+          "status": "done",
+          "date": "2026-09-02",
+          "note": "",
+          "docs": [
+            {
+              "id": "xmvupxs191",
+              "type": "int",
+              "code": "610/PTr-TTLT",
+              "date": "2026-10-29",
+              "content": "Về việc phê duyệt chủ trương thực hiện xây dựng lại Trang thông tin điện tử của Trung tâm",
+              "url": "",
+              "src": "mine",
+              "logId": "t179334941418956",
+              "lk": ""
+            }
+          ],
+          "ph": "",
+          "stt": "",
+          "dur": 0,
+          "ps": "",
+          "pe": "",
+          "lead": "",
+          "adv": ""
+        },
+        {
+          "id": "smvtd4aem2",
+          "name": "Phiếu chuyển cho kế toán xác định nguồn kinh phí",
+          "expect": "PC của kế toán xác định nguồn kinh phí",
+          "status": "done",
+          "date": "2026-09-04",
+          "note": "",
+          "docs": [
+            {
+              "id": "xmvuc69sv4",
+              "type": "out",
+              "code": "479/PC-TTLT",
+              "date": "2026-08-18",
+              "content": "Về việc hoàn thiện Bản mô tả dịch vụ chuyên môn và hướng dẫn thủ tục kinh phí",
+              "url": "",
+              "src": "mine",
+              "logId": "g326",
+              "lk": "pick"
+            }
+          ],
+          "ph": "",
+          "stt": "",
+          "dur": 0,
+          "ps": "",
+          "pe": "",
+          "lead": "",
+          "adv": ""
+        },
+        {
+          "id": "smvtd4aem3",
+          "name": "Xác định nhu cầu, làm thông báo mời đơn vị tư vấn báo giá",
+          "expect": "TB; PTr duyệt thông báo mời đơn vị tư vấn",
+          "status": "done",
+          "date": "2026-09-08",
+          "note": "",
+          "docs": [
+            {
+              "id": "xmvuc5t4x2",
+              "type": "int",
+              "code": "560/PTr-TTLT",
+              "date": "2026-09-29",
+              "content": "Về việc ký ban hành Thông báo mời báo giá thiết kế Trang thông tin điện tử của Trung tâm (Lần 2)",
+              "url": "",
+              "src": "mine",
+              "logId": "t1790668057071",
+              "lk": "pick"
+            },
+            {
+              "id": "xmvuc5t4x3",
+              "type": "int",
+              "code": "492/PTr-TTLT",
+              "date": "2026-08-24",
+              "content": "Về việc ký ban hành Thông báo mời báo giá thiết kế Trang thông tin điện tử (website) của Trung tâm",
+              "url": "",
+              "src": "mine",
+              "logId": "g327",
+              "lk": "pick"
+            }
+          ],
+          "ph": "",
+          "stt": "",
+          "dur": 0,
+          "ps": "",
+          "pe": "",
+          "lead": "",
+          "adv": ""
+        },
+        {
+          "id": "smvtd4aem4",
+          "name": "Đơn vị tư vấn nộp báo giá",
+          "expect": "Báo giá của đơn vị tư vấn",
+          "status": "done",
+          "date": "2026-10-30",
+          "note": "",
+          "docs": [],
+          "ph": "",
+          "stt": "",
+          "dur": 0,
+          "ps": "",
+          "pe": "",
+          "lead": "",
+          "adv": ""
+        },
+        {
+          "id": "smvtd4aem5",
+          "name": "Lựa chọn, làm việc với đơn vị tư vấn, trình Giám đốc ký hợp đồng chỉ định thầu",
+          "expect": "Hợp đồng; PTr đã được Giám đốc ký",
+          "status": "done",
+          "date": "2026-10-30",
+          "note": "",
+          "docs": [
+            {
+              "id": "xmvucm8ht5",
+              "type": "int",
+              "code": "582/PTr-TTLT",
+              "date": "2026-10-19",
+              "content": "PHIẾU TRÌNH Về việc thực hiện xây dựng mới Trang thông tin điện tử (website) của Trung tâm Quản lý nhà và Giám định xây dựng",
+              "url": "",
+              "src": "mine",
+              "logId": "t1792634720696",
+              "lk": "pick"
+            }
+          ],
+          "ph": "",
+          "stt": "",
+          "dur": 0,
+          "ps": "",
+          "pe": "",
+          "lead": "",
+          "adv": ""
+        },
+        {
+          "id": "smvtd4aem6",
+          "name": "Chuẩn bị hồ sơ thanh toán đợt 1",
+          "expect": "Hóa đơn, chứng từ chuyển tiền của phòng Tài chính",
+          "status": "done",
+          "date": "2026-11-04",
+          "note": "",
+          "docs": [],
+          "ph": "",
+          "stt": "",
+          "dur": 0,
+          "ps": "",
+          "pe": "",
+          "lead": "",
+          "adv": ""
+        },
+        {
+          "id": "smvtd4aem7",
+          "name": "Ký nghiệm thu hợp đồng, thanh toán đợt 2",
+          "expect": "Biên bản nghiệm thu; hóa đơn tài chính",
+          "status": "doing",
+          "date": "",
+          "note": "",
+          "docs": [],
+          "ph": "",
+          "stt": "",
+          "dur": 0,
+          "ps": "",
+          "pe": "",
+          "lead": "",
+          "adv": ""
+        }
+      ]
+    }
+  ],
+  "duties": [
+    {
+      "id": "d1",
+      "name": "Các nội dung liên quan đến công tác chuyển đổi số, khoa học công nghệ, đổi mới sáng tạo",
+      "products": "Báo cáo, Công văn",
+      "order": 1
+    },
+    {
+      "id": "d2",
+      "name": "Tham mưu các văn bản liên quan đến công tác thông tin",
+      "products": "Phiếu trình, công văn, báo cáo",
+      "order": 2
+    },
+    {
+      "id": "d3",
+      "name": "Xây dựng mới trang thông tin điện tử của Trung tâm",
+      "products": "Trang website",
+      "order": 3
+    },
+    {
+      "id": "d4",
+      "name": "Quản lý, vận hành và đăng tải thông tin lên Website Trung tâm",
+      "products": "Dữ liệu",
+      "order": 4
+    }
+  ],
+  "jobs": [
+    {
+      "id": "j1793606678586",
+      "duty": "d1",
+      "name": "Quản trị Trang thông tin điện tử",
+      "source": "",
+      "dateAssigned": "2026-11-02",
+      "status": "done",
+      "note": ""
+    },
+    {
+      "id": "j1793693342863",
+      "duty": "d1",
+      "name": "Về góp ý dự thảo Kế hoạch triển khai các nhiệm vụ trọng tâm trong công tác chuyển đổi số và xây dựng đô thị thông minh của Sở Xây dựng, giai đoạn 2026-2028",
+      "source": "",
+      "dateAssigned": "2026-11-03",
+      "status": "done",
+      "note": ""
+    },
+    {
+      "id": "jmw1hrs0h5",
+      "duty": "d2",
+      "name": "Phổ biến Quyết định của UBND Thành phố",
+      "source": "",
+      "dateAssigned": "2026-08-17",
+      "status": "done",
+      "note": "Gom tự động: cùng chủ đề “Phổ biến Quyết định của UBND Thành phố”"
+    },
+    {
+      "id": "jmw1hrt084",
+      "duty": "d1",
+      "name": "Định kỳ báo cáo kết quả về chuyển đổi số theo Kế hoạch 40-KH/BCĐTP",
+      "source": "",
+      "dateAssigned": "2026-08-04",
+      "status": "done",
+      "note": "Gom tự động: cùng dẫn 40 / KH"
+    },
+    {
+      "id": "jmw1hruqe3",
+      "duty": "d1",
+      "name": "Triển khai thực hiện Kế hoạch số 193/KH-UBND ngày 15/5/2026 của Ủy ban nhân dân Thành phố",
+      "source": "",
+      "dateAssigned": "2026-05-29",
+      "status": "done",
+      "note": "Gom tự động: cùng dẫn 193 / KH; cùng dẫn 2685 / QĐ"
+    },
+    {
+      "id": "jmw1hrvn22",
+      "duty": "d1",
+      "name": "Báo cáo theo đề cương của Sở Xây dựng",
+      "source": "",
+      "dateAssigned": "2026-04-06",
+      "status": "done",
+      "note": "Gom tự động: cùng chủ đề “Báo cáo theo đề cương của Sở Xây dựng”"
+    },
+    {
+      "id": "jmw1hrxrc1",
+      "duty": "d2",
+      "name": "Ban Quản trị và Quy chế Trang thông tin điện tử",
+      "source": "",
+      "dateAssigned": "2026-05-19",
+      "status": "doing",
+      "note": "Gom tự động: cùng chủ đề “Ban Quản trị và Quy chế Trang thông tin điện tử”"
+    },
+    {
+      "id": "jmw1hryls0",
+      "duty": "d3",
+      "name": "Xây dựng mới Trang thông tin điện tử của Trung tâm",
+      "source": "",
+      "dateAssigned": "2026-07-30",
+      "status": "doing",
+      "note": "Gom tự động: cùng chủ đề “Xây dựng mới Trang thông tin điện tử của Trung tâm”"
+    },
+    {
+      "id": "j1794193711102",
+      "duty": "d2",
+      "name": "Quản trị thiết bị",
+      "source": "",
+      "dateAssigned": "2026-11-09",
+      "status": "doing",
+      "note": ""
+    },
+    {
+      "id": "j1794452572536",
+      "duty": "d1",
+      "name": "Về việc triển khai thực hiện kế hoạch thuê  dịch vụ công nghệ số",
+      "source": "",
+      "dateAssigned": "2026-11-12",
+      "status": "done",
+      "note": ""
+    },
+    {
+      "id": "j1794457898640",
+      "duty": "d1",
+      "name": "Về việc triển khai Công văn Số 9765/CATP-ANM của Công an Thành phố Hồ Chí Minh",
+      "source": "",
+      "dateAssigned": "2026-11-12",
+      "status": "done",
+      "note": ""
+    },
+    {
+      "id": "j1794457956243",
+      "duty": "d1",
+      "name": "Về việc rà soát, đề xuất nhu cầu kết nối, chia sẻ và khai thác cơ sở dữ liệu ngành Xây dựng",
+      "source": "",
+      "dateAssigned": "2026-11-12",
+      "status": "doing",
+      "note": ""
+    },
+    {
+      "id": "j1794470389990",
+      "duty": "d1",
+      "name": "Về góp ý dự thảo Kế hoạch Triển khai chi tiết Hệ thống ứng dụng GIS quản lý dữ liệu hạ tầng kỹ thuật đô thị trên địa bàn Thành phố Hồ Chí Minh",
+      "source": "",
+      "dateAssigned": "2026-11-12",
+      "status": "doing",
+      "note": ""
+    }
+  ],
+  "todos": [
+    {
+      "id": "tdmw1irfom330",
+      "text": "Làm PC yêu cầu phòng TCHC kiểm tra gấp bộ lưu điện (UPS) tại máy chủ 255 THD",
+      "done": true,
+      "due": "2026-11-04",
+      "created": "2026-11-04",
+      "doneAt": "2026-11-04"
+    },
+    {
+      "id": "tdmw303tlc609",
+      "text": "Nghiên cứu thông tư 61/2026/TT-BKHCN",
+      "done": false,
+      "due": "2026-12-15",
+      "created": "2026-11-05",
+      "doneAt": ""
+    },
+    {
+      "id": "tdmw3cff0n859",
+      "text": "Triển khai Công văn Số 9765/CATP-ANM của Công an Thành phố Hồ Chí Minh",
+      "done": false,
+      "due": "2026-11-25",
+      "created": "2026-11-05",
+      "doneAt": ""
+    },
+    {
+      "id": "tdmwbglx1r69",
+      "text": "Nghiên cứu mua sắm tín nhiệm website khi hình thành website mới \"https://tinnhiemmang.vn/danh-cho-website\"",
+      "done": false,
+      "due": "2026-12-15",
+      "created": "2026-11-11",
+      "doneAt": ""
+    },
+    {
+      "id": "tdmwd9mcp3496",
+      "text": "Tổng hợp nhu cầu của các phòng, làm CV, PTr gửi Sở (639/PC-TTLT)",
+      "done": true,
+      "due": "2026-11-16",
+      "created": "2026-11-12",
+      "doneAt": "2026-11-16"
+    }
+  ],
+  "extracts": [
+    {
+      "id": "exmw1ssxv5871",
+      "date": "2026-11-04",
+      "time": "14:31",
+      "phieu": 4,
+      "hoso": 10,
+      "note": ""
+    }
+  ],
+  "extractCat": "lt",
+  "holidays": [
+    {
+      "date": "2026-11-24",
+      "name": "Ngày Văn hóa Việt Nam"
+    }
+  ],
+  "recs": [
+    {
+      "id": "rc-backup",
+      "name": "Backup Trang thông tin",
+      "period": "week",
+      "cat": "it",
+      "wd": 2,
+      "legacy": true
+    },
+    {
+      "id": "rcmwczov00339",
+      "name": "Báo cáo Tuần",
+      "period": "week",
+      "cat": "",
+      "wd": 2,
+      "done": [
+        "2026-11-12"
+      ]
+    }
+  ]
+}
